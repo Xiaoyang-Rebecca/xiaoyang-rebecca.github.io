@@ -21,7 +21,7 @@ The performance of most of the state-of-the-art instance segmentation networks h
 Deliverable: [Grace Hopper Celebration 2020 Poster](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 Language: Python      ;   Framework: Keras 
 
-<img src=./figures/Compression.PNG"  width="2000">
+<img src="./figures/Compression.PNG"  width="2000">
 
 
 
