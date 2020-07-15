@@ -5,8 +5,7 @@
 
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)         
 - Contact: 1-832-488-9766
-
-[LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [GitHub](http://github.com/Xiaoyang-Rebecca ) ,  [ResearchGate](http://github.com/Xiaoyang-Rebecca ) 
+- [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [GitHub](http://github.com/Xiaoyang-Rebecca ) ,  [ResearchGate](http://github.com/Xiaoyang-Rebecca ) 
 
 --------------
 --------------
@@ -47,10 +46,9 @@ An object-oriented "eraser" for image and video. Is able to remove the pixels wi
 
 - Image 
 
-<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="70%" class="inline"/>
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="500%" class="inline"/>
 
 - Video 
-
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%" class="inline"/>
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="40%" class="inline"/>
 
