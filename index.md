@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-You can use the [editor on GitHub](https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Rebecca's Webpage
+I am a soon-to-graduate Ph.D. at University of Houston with 5yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals. I also have diverse advanced industrial domain experience including Medical Image, Self-driving Car and Oil & Gas. Strong passion for real-world problems and high communication skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Basic Information
+•	E-mail:              Xiaoyang.Rebecca.Li@gmail.com
+•	LinkedIn:         [linkedin.com/in/xiaoyang-rebecca-li](http://linkedin.com/in/xiaoyang-rebecca-li "linkedin.com/in/xiaoyang-rebecca-li")
+•	GitHub:            github.com/Xiaoyang-Rebecca  
+•	ResearchGate: researchgate.net/profile/Xiaoyang_Li14
 
-### Markdown
+# Research Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Zero Human Effort Segmentation 
 
-```markdown
-Syntax highlighted code block
+**Advisors:** Badri Roysam, Hien Nguyen
+**Abstract:** Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label
 
-# Header 1
-## Header 2
-### Header 3
+The performance of most of the state-of-the-art instance segmentation networks heavily rely upon the quality of training samples. However, most of the human annotations are extremely labor-intensive. Thus, we propose an efficient unsupervised learning framework to robustly segment nuclei. We first use an iterative training process to improve segmentation quality without human labels. Then introduce a background boosting technique to enhance the segmentation accuracy We achieved high fidelity segmentation especially among crowed objects: mean average precision 0.95, mean IoU 79.1% over 200,000 cells, improved by 3% compared to original MRCNN
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Language: Python      ;   Framework: Keras 
+![seg](https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/blob/master/figures/Compression.PNG "seg")
