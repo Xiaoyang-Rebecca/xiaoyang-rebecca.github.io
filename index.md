@@ -45,7 +45,7 @@ An object-oriented "eraser" for image and video. Is able to remove the pixels wi
 
 - Flow Chart 
 
-<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="500" class="inline"/>
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.jpg" width="500" class="inline"/>
 
 - Video 
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="250" class="inline"/>
