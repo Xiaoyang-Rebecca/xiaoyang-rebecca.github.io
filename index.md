@@ -15,9 +15,10 @@ Hello, I am a soon-to-graduate Ph.D. at University of Houston with 5yrs of resea
 
 - Advisors: Badri Roysam, Hien Nguyen
 - Abstract: Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label
-> The performance of most of the state-of-the-art instance segmentation networks heavily rely upon the quality of training samples. However, most of the human annotations are extremely labor-intensive. Thus, we propose an efficient unsupervised learning framework to robustly segment nuclei. We first use an iterative training process to improve segmentation quality without human labels. Then introduce a background boosting technique to enhance the segmentation accuracy We achieved high fidelity segmentation especially among crowed objects: mean average precision 0.95, mean IoU 79.1% over 200,000 cells, improved by 3% compared to original MRCNN
+In medical image analysis,human annotations are labor-intensive. Most of the well-designed instance segmentation networks are difficult to achieve state-of-the-art performance because medical images lack the high quality of training samples. Thus, we propose an efficient unsupervised learning framework to segment nuclei robustly. We first use an iterative training process to improve segmentation quality without human labels. Then we introduce a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN
 
-<img src="./figures/Segmentation.PNG"  width="800" class="inline"/>
+
+<img src="./figures/Segmentation.PNG"  width="600" class="inline"/>
 
 Datail: [Grace Hopper Celebration 2020 Poster](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 
@@ -32,9 +33,9 @@ Successfully published in NeulPS Conference Workshop and the Leading Edge Journa
 
 - Mentors:  Nikolaos Mitsakos, Ping Lu
 - Abstract: Generative inpainting network applications on seismic image compression
-> An appropriately designed Wasserstein generative adversarial network is designed based on a generative adversarial network architecture trained on several historical surveys, capable of learning the statistical properties of the seismic wavelets. The usage of validating and performance testing of compressive sensing are three steps. First, the existence of a sparse representation with different compression rates for seismic surveys is studied. Then, non-uniform samplings are studied, using the proposed methodology. Finally, recommendations for non-uniform seismic survey grid, based on the evaluation of reconstructed seismic images and metrics, is proposed. 
+Seismic image acquisition can be time and economic costs. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results show approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
 
-<img src="./figures/Compression.PNG"  width="800" class="inline"/>
+<img src="./figures/Compression.PNG"  width="600" class="inline"/>
 
 Detail: [NIPS 2019 Workshop Poster](https://openreview.net/forum?id=Hyleh7hqUH) ,
 [The leading Edge Jornal](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
