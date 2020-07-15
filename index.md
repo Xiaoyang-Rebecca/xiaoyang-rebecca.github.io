@@ -1,8 +1,8 @@
-| :----| :-----|
+| :----- | :----- 
 |  <img src="./figures/Rebeccca%20li.jpg"  width="200"> | - E-mail:              [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com) |
-|^^  | ^^  - LinkedIn:         [linkedin.com/in/xiaoyang-rebecca-li](http://linkedin.com/in/xiaoyang-rebecca-li "linkedin.com/in/xiaoyang-rebecca-li") |
-|^^  | ^^  - GitHub:    [github.com/Xiaoyang-Rebecca  ](http://github.com/Xiaoyang-Rebecca   "github.com/Xiaoyang-Rebecca  ") |
-|^^  | ^^  - ResearchGate: [researchgate.net/profile/Xiaoyang_Li14](http://github.com/Xiaoyang-Rebecca   "researchgate.net/profile/Xiaoyang_Li14")|
+|^^  | - LinkedIn:         [linkedin.com/in/xiaoyang-rebecca-li](http://linkedin.com/in/xiaoyang-rebecca-li "linkedin.com/in/xiaoyang-rebecca-li") |
+|^^  | - GitHub:    [github.com/Xiaoyang-Rebecca  ](http://github.com/Xiaoyang-Rebecca   "github.com/Xiaoyang-Rebecca  ") |
+|^^  | - ResearchGate: [researchgate.net/profile/Xiaoyang_Li14](http://github.com/Xiaoyang-Rebecca   "researchgate.net/profile/Xiaoyang_Li14")|
 
 ## Welcome to Rebecca's Webpage
 Hello, I am a soon-to-graduate Ph.D. at University of Houston with 5yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals. I also have diverse advanced industrial domain experience including Medical Image, Self-driving Car and Oil & Gas. Strong passion for real-world problems and high communication skills.
