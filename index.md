@@ -1,8 +1,9 @@
 
 <img src="./figures/Rebeccca%20li.jpg" class="inline"/> 
+
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)                                                             
 - LinkedIn: [linkedin.com/in/xiaoyang-rebecca-li](http://linkedin.com/in/xiaoyang-rebecca-li)    
-- GitHub:    [github.com/Xiaoyang-Rebecca  ](http://github.com/Xiaoyang-Rebecca )                     
+- GitHub: [github.com/Xiaoyang-Rebecca  ](http://github.com/Xiaoyang-Rebecca )                     
 - ResearchGate: [researchgate.net/profile/Xiaoyang_Li14](http://github.com/Xiaoyang-Rebecca ) 
 --------------
 
