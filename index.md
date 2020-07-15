@@ -44,7 +44,7 @@ Language: Python      ;   Framework: Pytorch
 ## DeepEraser
 An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
 
-- Image 
+- Flow Chart 
 
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="500%" class="inline"/>
 
