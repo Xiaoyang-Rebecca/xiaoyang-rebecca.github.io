@@ -25,11 +25,6 @@ Language: Python      ;   Framework: Keras
 
 
 ## Compressive Image Recovery 
-	Adapted a pixel inpainting neural network Wasserstein GAN to recover the compressed seismic images 
-	Proposed a non-uniform sampling strategy aiming for the optimal design of seismic signal acquisition 
-	Achieved reliable recovery from compressed rates of ×2 to ×16; improved MSE 24% and 31% respectively, and performed ×300 faster as compared with conventional approaches
-Successfully published in NeulPS Conference Workshop and the Leading Edge Journal
-
 - Mentors:  Nikolaos Mitsakos, Ping Lu
 - Abstract: Generative inpainting network applications on seismic image compression
 Seismic image acquisition can be time and economic costs. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results show approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
