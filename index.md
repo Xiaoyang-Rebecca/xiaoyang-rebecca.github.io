@@ -41,3 +41,14 @@ Detail: [[NIPS 2019 Workshop Poster]](https://openreview.net/forum?id=Hyleh7hqUH
 
 Language: Python      ;   Framework: Pytorch 
 
+# Related Projects
+## DeepEraser
+An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="70%">.
+
+Input Video\
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1.gif" width="40%">.
+
+Output Video  (Bordered, Erased)\
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="40%">.
