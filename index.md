@@ -1,3 +1,15 @@
+
+|:![example][cell-image] : | E-mail       |
+|^^                     |^^ LinkedIn     |
+|^^                     |^^ GitHub       |
+|^^                     |^^ ResearchGate |
+
+[cell-image]: https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/blob/master/figures/Rebeccca%20li.jpg "An exemplary image"
+
+
+
+
+
 |:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 |![example][cell-image] | E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)                                                             |
 |^^                     | LinkedIn: [linkedin.com/in/xiaoyang-rebecca-li](http://linkedin.com/in/xiaoyang-rebecca-li "linkedin.com/in/xiaoyang-rebecca-li")    |
