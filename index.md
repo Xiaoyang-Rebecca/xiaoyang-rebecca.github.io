@@ -1,8 +1,9 @@
 
-|:![example][cell-image] : | E-mail       |
-|^^                     |^^ LinkedIn     |
-|^^                     |^^ GitHub       |
-|^^                     |^^ ResearchGate |
+|![example][cell-image] | E-mail       |
+|:--|:--|
+| ^^                     | LinkedIn     |
+| ^^                     | GitHub       |
+| ^^                     |ResearchGate |
 
 [cell-image]: https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/blob/master/figures/Rebeccca%20li.jpg "An exemplary image"
 
