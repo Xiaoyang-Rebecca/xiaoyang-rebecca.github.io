@@ -5,8 +5,10 @@ I am a soon-to-graduate Ph.D. at University of Houston with 5yrs of research and
 
 # Basic Information
 •	E-mail:              Xiaoyang.Rebecca.Li@gmail.com
+
 •	LinkedIn:         [linkedin.com/in/xiaoyang-rebecca-li](http://linkedin.com/in/xiaoyang-rebecca-li "linkedin.com/in/xiaoyang-rebecca-li")
 •	GitHub:            github.com/Xiaoyang-Rebecca  
+
 •	ResearchGate: researchgate.net/profile/Xiaoyang_Li14
 
 # Research Projects
@@ -14,9 +16,10 @@ I am a soon-to-graduate Ph.D. at University of Houston with 5yrs of research and
 ## Zero Human Effort Segmentation 
 
 **Advisors:** Badri Roysam, Hien Nguyen
+
 **Abstract:** Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label
 
 The performance of most of the state-of-the-art instance segmentation networks heavily rely upon the quality of training samples. However, most of the human annotations are extremely labor-intensive. Thus, we propose an efficient unsupervised learning framework to robustly segment nuclei. We first use an iterative training process to improve segmentation quality without human labels. Then introduce a background boosting technique to enhance the segmentation accuracy We achieved high fidelity segmentation especially among crowed objects: mean average precision 0.95, mean IoU 79.1% over 200,000 cells, improved by 3% compared to original MRCNN
 
 Language: Python      ;   Framework: Keras 
-![seg](https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/blob/master/figures/Compression.PNG "seg")
+![](https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/blob/master/figures/Compression.PNG)
