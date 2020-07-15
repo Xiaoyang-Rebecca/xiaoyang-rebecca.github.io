@@ -1,5 +1,5 @@
 
-<img src="./figures/Rebeccca%20li.jpg" class="inline"/> 
+<img src="./figures/Rebeccca%20li.jpg" width=100 class="inline"/> 
 
    Hello, I am Rebecca Li, a soon-to-graduate Ph.D. at University of Houston with 5yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals. I also have diverse advanced industrial domain experience including Medical Image, Self-driving Car and Oil & Gas. Strong passion for real-world problems and high communication skills.
 
@@ -49,7 +49,7 @@ An object-oriented "eraser" for image and video. Is able to remove the pixels wi
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="500" class="inline"/>
 
 - Video 
-<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="100" class="inline"/>
-<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="100" class="inline"/>
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="250" class="inline"/>
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="250" class="inline"/>
 
 [[code]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
