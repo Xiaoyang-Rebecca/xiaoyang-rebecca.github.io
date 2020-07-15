@@ -19,7 +19,8 @@ Hello, I am a soon-to-graduate Ph.D. at University of Houston with 5yrs of resea
 
 <img src="./figures/Segmentation.PNG"  width="800" class="inline"/>
 
-Deliverable: [Grace Hopper Celebration 2020 Poster](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
+Datail: [Grace Hopper Celebration 2020 Poster](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
+
 Language: Python      ;   Framework: Keras 
 
 
@@ -33,9 +34,10 @@ Successfully published in NeulPS Conference Workshop and the Leading Edge Journa
 - Abstract: Generative inpainting network applications on seismic image compression
 > An appropriately designed Wasserstein generative adversarial network is designed based on a generative adversarial network architecture trained on several historical surveys, capable of learning the statistical properties of the seismic wavelets. The usage of validating and performance testing of compressive sensing are three steps. First, the existence of a sparse representation with different compression rates for seismic surveys is studied. Then, non-uniform samplings are studied, using the proposed methodology. Finally, recommendations for non-uniform seismic survey grid, based on the evaluation of reconstructed seismic images and metrics, is proposed. 
 
-<img src="./figures/Compressio.PNG"  width="800" class="inline"/>
+<img src="./figures/Compression.PNG"  width="800" class="inline"/>
 
-Deliverable: [NIPS 2019 Workshop Poster](https://openreview.net/forum?id=Hyleh7hqUH) 
+Detail: [NIPS 2019 Workshop Poster](https://openreview.net/forum?id=Hyleh7hqUH) ,
 [The leading Edge Jornal](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
+
 Language: Python      ;   Framework: Pytorch 
 
