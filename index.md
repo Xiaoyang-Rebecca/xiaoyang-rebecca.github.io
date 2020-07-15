@@ -43,11 +43,12 @@ Language: Python      ;   Framework: Pytorch
 
 # Related Projects
 ## DeepEraser
-An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.\
+An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
+
 - Image 
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="70%">\
 - Video
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="40%">
 
-[code](https://github.com/Xiaoyang-Rebecca/DeepEraser)
+[[code]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
