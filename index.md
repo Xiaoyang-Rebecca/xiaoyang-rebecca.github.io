@@ -9,8 +9,9 @@
 [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [GitHub](http://github.com/Xiaoyang-Rebecca ) ,  [ResearchGate](http://github.com/Xiaoyang-Rebecca ) 
 
 --------------
+--------------
 # Professional Projects
-
+--------------
 ## Zero Human Effort Segmentation 
 
 - Advisors: Badri Roysam, Hien Nguyen
@@ -24,7 +25,7 @@ Datail: [[Grace Hopper Celebration 2020 Poster]](https://www.researchgate.net/pu
 
 Language: Python      ;   Framework: Keras 
 
-
+--------------
 ## Compressive Image Recovery 
 - Mentors:  Nikolaos Mitsakos, Ping Lu
 - Abstract: Generative inpainting network applications on seismic image compression
@@ -37,7 +38,10 @@ Detail: [[NIPS 2019 Workshop Poster]](https://openreview.net/forum?id=Hyleh7hqUH
 
 Language: Python      ;   Framework: Pytorch 
 
+--------------
+--------------
 # Related Projects
+--------------
 ## DeepEraser
 An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
 
