@@ -14,8 +14,8 @@ author-img: ./figures/Rebeccca%20li.jpg # add your photo
 about-author: I am a Data Scientist and a soon-to-gradute PhD at Univerisity of Houston. I have 5yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. My industrial domain experience covers Medical Image, Self-driving Car and Oil & Gas. Always passion about real-world problems! # add description
 
 social-github: http://github.com/Xiaoyang-Rebecca # add your Github handle
-social-linkedin:http://linkedin.com/in/xiaoyang-rebecca-li # add your Linkedin handle
-social-email:Xiaoyang.Rebecca.Li@gmail.com # add your Email address
+social-linkedin: http://linkedin.com/in/xiaoyang-rebecca-li # add your Linkedin handle
+social-email: Xiaoyang.Rebecca.Li@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
