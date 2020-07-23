@@ -6,7 +6,7 @@
    I also have diverse advanced industrial domain experience including Medical Image, Self-driving Car and Oil & Gas. 
 
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)         
-- [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) , [GitHub](http://github.com/Xiaoyang-Rebecca ) , 
+- [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) , [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
 
 --------------
 --------------
@@ -48,10 +48,10 @@ Language: Python      ;   Framework: Pytorch
 *This is just a prototype use published pretrained weights without any additional training.
 
 - Flow Chart 
-<div style="text-align: right"><img src="./figures/Slide3.PNG" float: right width="500" class="inline"/></div>
+<p align="center"><img src="./figures/Slide3.PNG" width="500" class="inline"/></p>
 
 - Video 
-<img src="./figures/clip1_borded.avi" width="250" class="inline"/>
-<img src="./figures/clip1_erased.avi" width="250" class="inline"/>
+<img src="./figures/clip1_borded.gif" width="250" class="inline"/>
+<img src="./figures/clip1_erased.gif" width="250" class="inline"/>
 
 [[code]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
