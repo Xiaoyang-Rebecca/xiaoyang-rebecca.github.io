@@ -1,10 +1,12 @@
+<img src="./figures/Rebeccca%20li.jpg" width="100" class="inline"/>
 
-<img src="./figures/Rebeccca%20li.jpg" width="100" class="inline"/> 
 
-   Hello, I am Rebecca Li, a soon-to-graduate Ph.D. at University of Houston with 5yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals. I also have diverse advanced industrial domain experience including Medical Image, Self-driving Car and Oil & Gas. Strong passion for real-world problems and high communication skills.
+
+   Hello, I am Rebecca Li, Ph.D. at University of Houston and a experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. 
+   I also have diverse advanced industrial domain experience including Medical Image, Self-driving Car and Oil & Gas. 
 
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)         
-- [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [GitHub](http://github.com/Xiaoyang-Rebecca ) ,  [ResearchGate](http://github.com/Xiaoyang-Rebecca ) 
+- [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li), [ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) , [GitHub](http://github.com/Xiaoyang-Rebecca ) , 
 
 --------------
 --------------
@@ -14,10 +16,10 @@
 
 - Advisors: Badri Roysam, Hien Nguyen
 - Abstract: Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label
-In medical image analysis,human annotations are labor-intensive. Most of the well-designed instance segmentation networks are difficult to achieve state-of-the-art performance because medical images lack the high quality of training samples. Thus, we propose an efficient unsupervised learning framework to segment nuclei robustly. We first use an iterative training process to improve segmentation quality without human labels. Then we introduce a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN
+We innovatively propose an efficient unsupervised learning framework to segment nuclei robustly without the need of human annotations. We first use an iterative training process to improve segmentation quality without human labels. Then we introduce a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN
 
+<div style="text-align: right"><img src="./figures/Segmentation.PNG" float: right width="500" class="inline"/></div>
 
-<img src="./figures/Segmentation.PNG"  width="500" class="inline"/>
 
 Datail: [[Grace Hopper Celebration 2020 Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 
@@ -29,7 +31,8 @@ Language: Python      ;   Framework: Keras
 - Abstract: Generative inpainting network applications on seismic image compression
 Seismic image acquisition can be time and economic costs. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results show approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
 
-<img src="./figures/Compression.PNG"  width="500" class="inline"/>
+<div style="text-align: right"><img src="./figures/Compression.png" float: right width="500" class="inline"/></div>
+
 
 Detail: [[NIPS 2019 Workshop Poster]](https://openreview.net/forum?id=Hyleh7hqUH) ,
 [[The leading Edge Jornal]](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
@@ -41,14 +44,14 @@ Language: Python      ;   Framework: Pytorch
 # Related Projects
 --------------
 ## DeepEraser
-An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
+- Abstract:An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type. MRCNN is used to dected the pixel of a specific types then WGAN is used to remove the detect pixels as they never exist. 
+*This is just a prototype use published pretrained weights without any additional training.
 
 - Flow Chart 
-
-<img src="./figures/Slide3.PNG" width="500" class="inline"/>
+<div style="text-align: right"><img src="./figures/Slide3.PNG" float: right width="500" class="inline"/></div>
 
 - Video 
-<img src="./figures/clip1_borded.gif" width="250" class="inline"/>
-<img src="./figures/clip1_erased.gif" width="250" class="inline"/>
+<img src="./figures/clip1_borded.avi" width="250" class="inline"/>
+<img src="./figures/clip1_erased.avi" width="250" class="inline"/>
 
 [[code]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
