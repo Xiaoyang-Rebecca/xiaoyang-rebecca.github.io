@@ -41,7 +41,7 @@ Language: Python      ;   Framework: Pytorch
 
 --------------
 --------------
-# Related Projects
+# [Related Projects]("./related_projects.md")
 --------------
 ## DeepEraser
 - Abstract:An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type. MRCNN is used to dected the pixel of a specific types then WGAN is used to remove the detect pixels as they never exist. 
