@@ -1,7 +1,6 @@
-<img align="left" height="180" src="./figures/Rebeccca li.jpg">
-<pre>
-Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr professional experience of Data Science. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial data scientice domains include Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems.
-</pre>
+| <img align="left" height="180" src="./figures/Rebeccca li.jpg">   Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr professional experience of Data Science. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial data scientice domains include Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems. | 
+--
+
 
 --------------
 # BASIC INFO
