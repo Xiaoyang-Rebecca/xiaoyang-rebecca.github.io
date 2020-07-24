@@ -1,16 +1,15 @@
-<p align="left">
-<img height="170" src="./figures/Rebeccca li.jpg">
-</p>
-
-Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems!
-
+<img align="left" height="180" src="./figures/Rebeccca li.jpg">
+<pre>
+Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr professional experience of Data Science. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial data scientice domains include Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems.
+</pre>
 
 --------------
 # BASIC INFO
-
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)    
 - [Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \|  [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li) \| [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
 - PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam) 
+--
+
 
 --------------
 # SPOTLIGHT PROJECTS
