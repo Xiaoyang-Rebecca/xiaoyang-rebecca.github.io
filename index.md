@@ -1,4 +1,5 @@
-<img align="left"  height="200" src="./figures/Rebeccca li.jpg">
+|<img align="left"  height="200" src="./figures/Rebeccca li.jpg">|
+|----|
 
 Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
 
@@ -11,7 +12,7 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 --------------
 # PROFESSIONAL PROJECTS
 --------------
-## 0-Human-effort Segmentation 
+## 0-annotation Segmentation 
 
 We innovatively proposed an efficient unsupervised learning framework to segment nuclei robustly without the need of human annotations. We first use an iterative training process to improve segmentation quality without human labels. Then we introduce a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN
 
@@ -35,7 +36,7 @@ Seismic image acquisition can be time and economic costs. We adopted an appropri
 --------------
 # RELATED PROJECTES
 --------------
-## DeepEraser
+## Deep Eraser
 
 I designed an object-oriented "eraser" for image and video , which is able to remove the pixels with designated type. MRCNN is used to dected the pixel of a specific types then WGAN is used to remove the detect pixels as they never exist. 
 
@@ -59,7 +60,7 @@ Protopytpe of generate fake image from hand-drawn vein has also been proposed.
 -[[Report]](https://www.researchgate.net/publication/343178751_Synthetic_Leaf_generation_using_Conditional_Adversarial_Networks_and_classification_with_CNN), [[PPT]](https://www.researchgate.net/publication/325156994_Synthetic_Leaf_generation_using_Conditional_Adversarial_Networks_and_classification_with_CNN?ev=project),[[PythonCode]]("https://github.com/Xiaoyang-Rebecca/PixelTranslator")(Tensorflow)
 
 
-## Feature Reduction to Classifier
+## Feature Reduction to Classifiers
 
 The case study revealed the influence of 4 common feature redution methods (PCA,LDA and their kernel versions) to 4 diffenrent types of classifier (SVM, ML, KNN, GMM). Our experiments shows that SVM performed the most robust to the increasing of dimensional space, and SVM and LDA are more sensitive to noises.
 
