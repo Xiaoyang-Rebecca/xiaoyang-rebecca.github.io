@@ -1,10 +1,8 @@
 <img align="left"  height="200" border="10px" src="./figures/Rebeccca li.jpg">
+>> Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
 
-
-Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
-
-- E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)    
-- [Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \|  [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li) \| [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
+>> - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)    
+>> - [Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \|  [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li) \| [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
 
 --------------
 # PROFESSIONAL PROJECTS
@@ -19,6 +17,7 @@ We innovatively proposed an efficient unsupervised learning framework to segment
 - Datail: [[Grace Hopper Celebration 2020 Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster"),[[Python]](https://github.com/RoysamLab/whole_brain_analysis) (Keras), partically released
 
 --------------
+
 ## Compressive Image Recovery 
 
 Seismic image acquisition can be time and economic costs. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results show approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
@@ -33,6 +32,7 @@ Seismic image acquisition can be time and economic costs. We adopted an appropri
 --------------
 # RELATED PROJECTES
 --------------
+
 ## Deep Eraser
 
 I designed an object-oriented "eraser" for image and video , which is able to remove the pixels with designated type. MRCNN is used to dected the pixel of a specific types then WGAN is used to remove the detect pixels as they never exist. 
@@ -46,6 +46,7 @@ I designed an object-oriented "eraser" for image and video , which is able to re
 <img src="./figures/clip1_erased.gif" width="250" class="inline"/></p>
 
 - [[PythonCode]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
+
 --------------
 
 ## Pixel Translator 
@@ -66,6 +67,7 @@ The case study revealed the influence of 4 common feature redution methods (PCA,
 <p align="center"><img src="./figures/fselection.png"  width="600" class="inline"/></p>
 
 - [[Report]](https://www.researchgate.net/publication/308927930_Comparison_of_Feature_Reduction_Approaches_and_Classification_Approaches_for_Pattern_Recognition), [[MatlabCode]]("https://github.com/Xiaoyang-Rebecca/PatternRecognition_Matlab")
+
 --------------
 
 
