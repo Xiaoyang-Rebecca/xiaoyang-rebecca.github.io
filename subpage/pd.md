@@ -8,4 +8,7 @@ We use reinforcement learning to design a route from the agent so that it could 
 
 - [[Report]](https://www.researchgate.net/publication/310607210_Learning_Paths_from_Feedback_Using_Q-Learning_for_PD_world), [[C++/matlab code]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
 
-## [Back]("/../../index.html")
+
+
+---
+<< [Back](./)

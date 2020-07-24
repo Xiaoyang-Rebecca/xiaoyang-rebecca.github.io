@@ -7,4 +7,7 @@ Protopytpe of generate fake image from hand-drawn vein has also been proposed.
 
 - [[Report]](https://www.researchgate.net/publication/343178751_Synthetic_Leaf_generation_using_Conditional_Adversarial_Networks_and_classification_with_CNN), [[PPT]](https://www.researchgate.net/publication/325156994_Synthetic_Leaf_generation_using_Conditional_Adversarial_Networks_and_classification_with_CNN?ev=project),[[PythonCode]]("https://github.com/Xiaoyang-Rebecca/PixelTranslator")(Tensorflow)
 
-## [Back]("/../../index.html")
+
+
+---
+<< [Back](./)
