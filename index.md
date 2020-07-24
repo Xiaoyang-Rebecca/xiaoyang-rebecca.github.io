@@ -5,17 +5,18 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)    
 - [Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \|  [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li) \| [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
 
-[Link to another page](./another-page.html).
+
 --------------
 # PROFESSIONAL PROJECTS
---------------
-[0-annotation Segmentation] (./subpage/0seg.html)
 
-[Compressive Image Recovery] (./subpage/seismic.html)
+[0-annotation Segmentation](./subpage/0seg.html)
+
+[Compressive Image Recovery](./subpage/seismic.html)
+
 
 --------------
 # RELATED PROJECTES
---------------
+
 
 [Deep Eraser](./subpage/deepearaser.html)
 
@@ -31,7 +32,7 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 
 --------------
 # PRESENTATIONS 
---------------
+
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 [[Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 -	B.Roysam, H. Nguyen, S.Prasad , J,Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, 2019 Rice Data Science Conference [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
 -	 **X. Rebecca. Li.**, et al.. Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019). [[Poster]](https://www.researchgate.net/publication/342393127_Generative_Inpainting_Network_Applications_On_Seismic_Image_Compression?_sg=NLR-jR1kH68IGpgbIZWBGn_b0EgQeDCJd4v2NqKtkUhztF4yumiDb8Q8pDBBCIoya02jgPwoxpJ7-0PgaAy4_kuyI4OJGvAcpIPhcKMX.1u4TvNJH7fYLPtz5wlzLw8faQN65sw0TkNcnhYTUnxyA2dneET2USKgvHbT3MBGyuNef8YMOYLMRuN_YYBv52w)
@@ -44,7 +45,7 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 
 --------------
 # PUBLICATIONS
---------------
+
 -	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", Medical Image Computing and Computer Assisted Intervention(MICCAI), 2020 (Accepted)
 - [	**Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019). ](https://openreview.net/forum?id=Hyleh7hqUH)
 -	[**Li, X. R.**, Mitsakos, N., Lu, P., Xiao, Y., & Zhao, X. (2019). Seismic compressive sensing by generative inpainting network: Toward an optimized acquisition survey. The Leading Edge, 38(12), 923-933.](https://library.seg.org/doi/pdf/10.1190/tle38120923.1?casa_token=Bvp7aMZRsGUAAAAA:GVP5gmW5ewKRrR78-zaNeFsP3ZLdAoWdqXKMdJn7aOO7xJwKk4mEUBHbDZqBRGV7BDZx1ZvbUnU)
