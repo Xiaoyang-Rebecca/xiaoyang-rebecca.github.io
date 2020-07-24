@@ -1,6 +1,6 @@
-<img align="left"  height="180" src="./figures/Rebeccca li.jpg">
+<img align="left"  height="170" src="./figures/Rebeccca li.jpg">
 
-Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
+Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problem.
 
 --------------
 # Basic Information
@@ -10,13 +10,13 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 - PhD Advisor: [ Pro.Badri Roysam ] (http://www.ee.uh.edu/faculty/roysam) 
 
 --------------
-# PROFESSIONAL PROJECTS
+# SPOTLIGHT PROJECTS
 
+## Professional Projects
 [<img width="250"  src="./figures/logo-Segmentation.png">](./subpage/seg.html)
 [<img width="250"  src="./figures/logo-Seismic.png">](./subpage/seismic.html)
 
---------------
-# RELATED PROJECTES
+## RELATED PROJECTES
 [<img width="250"  src="./figures/logo-eraser.png">](./subpage/deepearaser.html) 
 [<img width="250"  src="./figures/logo-translator.png">](./subpage/pixeltranslator.html)
 
