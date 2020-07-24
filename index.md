@@ -8,13 +8,18 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 
 --------------
 # PROFESSIONAL PROJECTS
-<p align="center">[<img height="180"  src="./figures/logo-Segmentation.png">](./subpage/0seg.html) [<img height="180"  src="./figures/logo-Seismic.png">](./subpage/seismic.html)</p>
+
+[<img width="400"  src="./figures/logo-Segmentation.png">](./subpage/0seg.html)
+[<img width="400"  src="./figures/logo-Seismic.png">](./subpage/seismic.html)
+
 --------------
 # RELATED PROJECTES
+[<img width="400"  src="./figures/logo-eraser.png">](./subpage/deepearaser.html) 
+[<img width="400"  src="./figures/logo-translator.png">](./subpage/pixeltranslator.html)
 
-<p align="center">[<img height="180"  src="./figures/logo-eraser.png">](./subpage/deepearaser.html) [<img height="180"  src="./figures/logo-translator.png">](./subpage/pixeltranslator.html) </p>
 
-<p align="center">[<img height="180"  src="./figures/logo-fselect.png">](./subpage/fselect.html) [<img height="180"  src="./figures/logo-pd.png">](./subpage/pd.html)</p>
+[<img width="400"  src="./figures/logo-fselect.png">](./subpage/fselect.html) 
+[<img width="400"  src="./figures/logo-pd.png">](./subpage/pd.html)
 
 --------------
 # PRESENTATIONS 
