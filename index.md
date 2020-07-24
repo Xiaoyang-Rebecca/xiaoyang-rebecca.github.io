@@ -1,10 +1,7 @@
-<img align="left"  height="200" border="5px " src="./figures/Rebeccca li.jpg">
+<img align="left"  height="200" border="10px" src="./figures/Rebeccca li.jpg">
 
 
 Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
-
-
-
 
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)    
 - [Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \|  [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li) \| [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
@@ -49,6 +46,7 @@ I designed an object-oriented "eraser" for image and video , which is able to re
 <img src="./figures/clip1_erased.gif" width="250" class="inline"/></p>
 
 - [[PythonCode]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
+--------------
 
 ## Pixel Translator 
 
@@ -59,6 +57,7 @@ Protopytpe of generate fake image from hand-drawn vein has also been proposed.
 
 -[[Report]](https://www.researchgate.net/publication/343178751_Synthetic_Leaf_generation_using_Conditional_Adversarial_Networks_and_classification_with_CNN), [[PPT]](https://www.researchgate.net/publication/325156994_Synthetic_Leaf_generation_using_Conditional_Adversarial_Networks_and_classification_with_CNN?ev=project),[[PythonCode]]("https://github.com/Xiaoyang-Rebecca/PixelTranslator")(Tensorflow)
 
+--------------
 
 ## Feature Reduction to Classifiers
 
@@ -67,6 +66,7 @@ The case study revealed the influence of 4 common feature redution methods (PCA,
 <p align="center"><img src="./figures/fselection.png"  width="600" class="inline"/></p>
 
 - [[Report]](https://www.researchgate.net/publication/308927930_Comparison_of_Feature_Reduction_Approaches_and_Classification_Approaches_for_Pattern_Recognition), [[MatlabCode]]("https://github.com/Xiaoyang-Rebecca/PatternRecognition_Matlab")
+--------------
 
 
 ## Pick-up Drop-off Design
