@@ -9,7 +9,7 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 --------------
 # PROFESSIONAL PROJECTS
 
-[<img width="250"  src="./figures/logo-Segmentation.png">](./subpage/0seg.html)
+[<img width="250"  src="./figures/logo-Segmentation.png">](./subpage/seg.html)
 [<img width="250"  src="./figures/logo-Seismic.png">](./subpage/seismic.html)
 
 --------------
