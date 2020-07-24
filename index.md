@@ -1,4 +1,5 @@
 | <img src="./figures/Rebeccca li.jpg" width="200">  |   Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem. |
+
 |-------|---------------|
 
 
@@ -75,9 +76,9 @@ We use reinforcement learning to design a route from the agent so that it could 
 - [[Report]](https://www.researchgate.net/publication/310607210_Learning_Paths_from_Feedback_Using_Q-Learning_for_PD_world), [[C++/matlab code]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
 
 
-
+--------------
 # PRESENTATIONS 
-
+--------------
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 [[Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 -	B.Roysam, H. Nguyen, S.Prasad , J,Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, 2019 Rice Data Science Conference [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
 -	 **X. Rebecca. Li.**, et al.. Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019). [[Poster]](https://www.researchgate.net/publication/342393127_Generative_Inpainting_Network_Applications_On_Seismic_Image_Compression?_sg=NLR-jR1kH68IGpgbIZWBGn_b0EgQeDCJd4v2NqKtkUhztF4yumiDb8Q8pDBBCIoya02jgPwoxpJ7-0PgaAy4_kuyI4OJGvAcpIPhcKMX.1u4TvNJH7fYLPtz5wlzLw8faQN65sw0TkNcnhYTUnxyA2dneET2USKgvHbT3MBGyuNef8YMOYLMRuN_YYBv52w)
@@ -88,8 +89,9 @@ We use reinforcement learning to design a route from the agent so that it could 
 -	**X. Li**, K. Grama, B. Roysam, “Spatial Neuronal Neighborhood Relationship Changes in Rat Brain Tissue Following Ischemic Brain Injury “, Graduate Research Conference, University of Houston, 2016
 -	**X. Li**,  Bayesian Theory for Classification, Houston Machine Learning Meetup, Presenter , 2016
 
-PUBLICATIONS
-
+--------------
+# PUBLICATIONS
+--------------
 -	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", Medical Image Computing and Computer Assisted Intervention(MICCAI), 2020 (Accepted)
 - [	**Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019). ](https://openreview.net/forum?id=Hyleh7hqUH)
 -	[**Li, X. R.**, Mitsakos, N., Lu, P., Xiao, Y., & Zhao, X. (2019). Seismic compressive sensing by generative inpainting network: Toward an optimized acquisition survey. The Leading Edge, 38(12), 923-933.](https://library.seg.org/doi/pdf/10.1190/tle38120923.1?casa_token=Bvp7aMZRsGUAAAAA:GVP5gmW5ewKRrR78-zaNeFsP3ZLdAoWdqXKMdJn7aOO7xJwKk4mEUBHbDZqBRGV7BDZx1ZvbUnU)
