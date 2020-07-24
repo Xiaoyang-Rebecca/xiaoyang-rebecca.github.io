@@ -1,4 +1,4 @@
-<img align="left"  height="180" border="50px" src="./figures/Rebeccca li.jpg">
+<img align="left"  height="180" src="./figures/Rebeccca li.jpg">
 
 Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
 
@@ -8,27 +8,13 @@ Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced D
 
 --------------
 # PROFESSIONAL PROJECTS
-
-[0-annotation Segmentation](./subpage/0seg.html)
-
-[Compressive Image Recovery](./subpage/seismic.html)
-
-
+<p align="center">[<img height="180"  src="./figures/logo-Segmentation.png">](./subpage/0seg.html) [<img height="180"  src="./figures/logo-Seismic.png">](./subpage/seismic.html)</p>
 --------------
 # RELATED PROJECTES
 
+<p align="center">[<img height="180"  src="./figures/logo-eraser.png">](./subpage/deepearaser.html) [<img height="180"  src="./figures/logo-translator.png">](./subpage/pixeltranslator.html) </p>
 
-[Deep Eraser](./subpage/deepearaser.html)
-
-
-[Pixel Translator] (./subpage/pixeltranslator.html)
-
-
-[Feature Reduction to Classifiers](./subpage/fselect.html)
-
-
-[Pick-up Drop-off Design](./subpage/pd.html)
-
+<p align="center">[<img height="180"  src="./figures/logo-fselect.png">](./subpage/fselect.html) [<img height="180"  src="./figures/logo-pd.png">](./subpage/pd.html)</p>
 
 --------------
 # PRESENTATIONS 
