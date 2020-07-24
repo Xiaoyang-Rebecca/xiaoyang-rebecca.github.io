@@ -1,4 +1,4 @@
-<img style="float: left;" height="120"  src="./figures/Rebeccca li.jpg"> 
+<img style="float: left;" height="110"  src="./figures/Rebeccca li.jpg"> 
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate at Univeristy of Houston
@@ -15,7 +15,7 @@ Howdy! I am Rebecca Li,  a 5-yr of professional experienced Data Scientist. I al
 PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 
 --------------
-## SPOTLIGHT PROJECTS
+## Spotlight Projects
 
 | Professional Projects | Related Projects |
 | :-----:|:---:|
@@ -23,7 +23,7 @@ PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 
 
 --------------
-## PRESENTATIONS 
+## Presentations 
 
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 [[Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 -	B.Roysam, H. Nguyen, S.Prasad , J,Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, 2019 Rice Data Science Conference [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
@@ -36,7 +36,7 @@ PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 -	**X. Li**,  Bayesian Theory for Classification, Houston Machine Learning Meetup, Presenter , 2016
 
 --------------
-## PUBLICATIONS
+## Publications
 
 -	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", Medical Image Computing and Computer Assisted Intervention(MICCAI), 2020 (Accepted)
 - [	**Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019). ](https://openreview.net/forum?id=Hyleh7hqUH)
