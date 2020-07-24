@@ -1,28 +1,31 @@
-<img align="left"  height="170" src="./figures/Rebeccca li.jpg">
+<p align="left">
+<img height="170" src="./figures/Rebeccca li.jpg">
+</p>
 
-Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problem.
+Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems!
+
 
 --------------
-# Basic Information
+# BASIC INFO
 
 - E-mail:   [Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)    
 - [Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \|  [LinkedIn](http://linkedin.com/in/xiaoyang-rebecca-li) \| [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [ GitHub](http://github.com/Xiaoyang-Rebecca ) 
-- PhD Advisor: [ Pro.Badri Roysam ] (http://www.ee.uh.edu/faculty/roysam) 
+- PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam) 
 
 --------------
 # SPOTLIGHT PROJECTS
 
 ## Professional Projects
-[<img width="250"  src="./figures/logo-Segmentation.png">](./subpage/seg.html)
-[<img width="250"  src="./figures/logo-Seismic.png">](./subpage/seismic.html)
+[<img width="250" height="180" src="./figures/logo-Segmentation.png">](./subpage/seg.html)
+[<img width="250" height="180" src="./figures/logo-Seismic.png">](./subpage/seismic.html)
 
-## RELATED PROJECTES
-[<img width="250"  src="./figures/logo-eraser.png">](./subpage/deepearaser.html) 
-[<img width="250"  src="./figures/logo-translator.png">](./subpage/pixeltranslator.html)
+## Related Projects
+[<img width="250" height="120" src="./figures/logo-eraser.png">](./subpage/deepearaser.html) 
+[<img width="250" height="120" src="./figures/logo-translator.png">](./subpage/pixeltranslator.html)
 
 
-[<img width="250"  src="./figures/logo-fselect.png">](./subpage/fselect.html) 
-[<img width="250"  src="./figures/logo-pd.png">](./subpage/pd.html)
+[<img width="250" height="190"  src="./figures/logo-fselect.png">](./subpage/fselect.html) 
+[<img width="250" height="190"  src="./figures/logo-pd.png">](./subpage/pd.html)
 
 --------------
 # PRESENTATIONS 
