@@ -1,4 +1,4 @@
-<img style="float: left;" height="180"  src="./figures/Rebeccca li.jpg"> 
+<img style="float: left;" height="150"  src="./figures/Rebeccca li.jpg"> 
 
 # &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
 
@@ -8,7 +8,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ CV/Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \| 
 
----
 Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr professional experience of Data Science. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial data scientice domains include Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems. 
 
 PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
@@ -17,6 +16,7 @@ PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 # SPOTLIGHT PROJECTS
 
 ## Professional Projects
+
 [<img width="250" height="180" src="./figures/logo-Segmentation.png">](./subpage/seg.html)
 [<img width="250" height="180" src="./figures/logo-Seismic.png">](./subpage/seismic.html)
 

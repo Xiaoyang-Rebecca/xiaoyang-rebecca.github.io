@@ -186,7 +186,7 @@ header {
   z-index: 100;
   left:0;
   right:50%;
-  height: 10px;
+  height: 0px;
   margin-right:-382px;
   position: fixed;
   top: 20px;
@@ -271,7 +271,7 @@ header {
 }
 
 section {
-  width:1000px;
+  width:900px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -385,7 +385,7 @@ footer {
     }
 
     #logo {
-      margin-right: 15px;
+      margin-right: 50px;
     }
   }
 
