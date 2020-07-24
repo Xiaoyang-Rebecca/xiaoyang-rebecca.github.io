@@ -1,7 +1,6 @@
 ## Pixel Translator 
 --------------
-We use cGAN to fillin the synthetic colors on gray images of border/vein. And evaluated the reconstruction accuracy by leaf types classification using Alexnet CNN
-Protopytpe of generate fake image from hand-drawn vein has also been proposed.
+We used cGAN to fill in the synthetic colors on gray images of border/vein, and evaluated the reconstruction accuracy by leaf types classification using Alexnet CNN. A prototype to generate fake images from hand-drawn vein images has also been proposed.
 
 <p align="center"><img src="../figures/leaf.png"  width="500" class="inline"/></p>
 

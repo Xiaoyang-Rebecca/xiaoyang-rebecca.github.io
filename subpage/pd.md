@@ -2,7 +2,7 @@
 
 -----------
 
-We use reinforcement learning to design a route from the agent so that it could use the least steps to send all the blocks to drop-off cells. A basic Q learning method has deploit. We also designed a  visulization module to display the Q values in real-time.
+We use reinforcement learning to design a route from the agent to use the least steps to send all the blocks to drop-off cells. A primary Q learning method has deployed. We also designed a visualization module to display the Q values in real-time.
 
 <p align="center"><img src="../figures/pd.gif"  width="500" class="inline"/></p>
 

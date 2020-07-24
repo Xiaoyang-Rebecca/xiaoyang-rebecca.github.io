@@ -1,7 +1,7 @@
 ## Deep Eraser
 --------------
 
-I designed an object-oriented "eraser" for image and video , which is able to remove the pixels with designated type. MRCNN is used to dected the pixel of a specific types then WGAN is used to remove the detect pixels as they never exist. 
+I designed an object-oriented “eraser” for image and video, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detect pixels as they never exist
 
 <p align="center"><img src="../figures/Slide3.PNG" width="400" class="inline"/></p>
 

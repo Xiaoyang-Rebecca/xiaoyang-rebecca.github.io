@@ -1,7 +1,7 @@
 ## Feature Reduction to Classifiers
 --------------
 
-The case study revealed the influence of 4 common feature redution methods (PCA,LDA and their kernel versions) to 4 diffenrent types of classifier (SVM, ML, KNN, GMM). Our experiments shows that SVM performed the most robust to the increasing of dimensional space, and SVM and LDA are more sensitive to noises.
+The case study revealed the influence of 4 common feature reduction methods (PCA, LDA, and their kernel versions) to 4 different types of classifiers (SVM, ML, KNN, GMM). Our experiments show that SVM performed the most robust to increasing dimensional space, and SVM and LDA are more sensitive to noises.
 
 <p align="center"><img src="../figures/fselection.png"  width="600" class="inline"/></p>
 
