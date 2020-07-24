@@ -3,7 +3,7 @@
 
 We innovatively proposed an efficient unsupervised learning framework to segment nuclei robustly without the need of human annotations. We first use an iterative training process to improve segmentation quality without human labels. Then we introduce a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN
 
-<p align="center"><img src="/../../figures/Segmentation.png" width="500" class="inline"/></p>
+<p align="center"><img src="../figures/Segmentation.png" width="500" class="inline"/></p>
 
 - Advisors: Badri Roysam, Hien Nguyen
 - Datail: [[Grace Hopper Celebration 2020 Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster"),[[Python]](https://github.com/RoysamLab/whole_brain_analysis) (Keras), partically released
@@ -13,4 +13,4 @@ We innovatively proposed an efficient unsupervised learning framework to segment
 
 
 ---
-<< [Back](./)
+<< [Back](../)
