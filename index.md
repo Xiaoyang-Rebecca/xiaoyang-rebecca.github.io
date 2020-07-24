@@ -1,6 +1,6 @@
 <img style="float: left;" height="150"  src="./figures/Rebeccca li.jpg"> 
 
-# &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
+## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  E-mail:   [ Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)
 
@@ -8,32 +8,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ CV/Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \| 
 
+
+<div>
 Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr professional experience of Data Science. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial data scientice domains include Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems. 
+</div>
 
 PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 
 --------------
-# SPOTLIGHT PROJECTS
-
-
-
-## Professional Projects
+## SPOTLIGHT PROJECTS
 
 | Professional Projects| Related Projects |
 | :-----:|:---:|
-| [<img width="250" height="170" src="./figures/logo-Segmentation.png">](./subpage/seg.html)[<img width="250" height="170" src="./figures/logo-Seismic.png">](./subpage/seismic.html)| [<img width="250" height="120" src="./figures/logo-eraser.png">](./subpage/deepearaser.html) [<img width="250" height="120" src="./figures/logo-translator.png">](./subpage/pixeltranslator.html) [<img width="250" height="190"  src="./figures/logo-fselect.png">](./subpage/fselect.html) [<img width="250" height="190"  src="./figures/logo-pd.png">](./subpage/pd.html) |
-
-
-
-
-## Related Projects
-
-
-
+| [<img width="250" height="160" src="./figures/logo-Segmentation.png">](./subpage/seg.html)[<img width="250" height="160" src="./figures/logo-Seismic.png">](./subpage/seismic.html)| [<img width="250" height="120" src="./figures/logo-eraser.png">](./subpage/deepearaser.html) [<img width="250" height="120" src="./figures/logo-translator.png">](./subpage/pixeltranslator.html) [<img width="250" height="190"  src="./figures/logo-fselect.png">](./subpage/fselect.html) [<img width="250" height="190"  src="./figures/logo-pd.png">](./subpage/pd.html) |
 
 
 --------------
-# PRESENTATIONS 
+## PRESENTATIONS 
 
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 [[Poster]](https://www.researchgate.net/publication/342663998_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label "Grace Hopper Celebration Poster")
 -	B.Roysam, H. Nguyen, S.Prasad , J,Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, 2019 Rice Data Science Conference [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
@@ -46,7 +37,7 @@ PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 -	**X. Li**,  Bayesian Theory for Classification, Houston Machine Learning Meetup, Presenter , 2016
 
 --------------
-# PUBLICATIONS
+## PUBLICATIONS
 
 -	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", Medical Image Computing and Computer Assisted Intervention(MICCAI), 2020 (Accepted)
 - [	**Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019). ](https://openreview.net/forum?id=Hyleh7hqUH)
