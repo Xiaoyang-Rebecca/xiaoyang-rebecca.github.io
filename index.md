@@ -52,3 +52,12 @@ I designed an object-oriented "eraser" for image and video , which is able to re
 <img src="./figures/clip1_erased.gif" width="250" class="inline"/></p>
 
 - [[code]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
+
+## Feature Reduction to Classifier
+
+Feature reduction is a common pre-processing step on high dimentional image classifcation. Our case study focused on revealing the influence of 4 common feature redution methods (PCA,LDA and their kernel versions) to 4 diffenrent types of classifier (SVM, ML, KNN, GMM). Our experiments shows that SVM performed the most robust to the increasing of dimensional space, and SVM and LDA are more sensitive to noises.
+
+<p align="right"><img src="./figures/fselection.png"  width="500" class="inline"/></p>
+
+- [[Report]](https://www.researchgate.net/publication/308927930_Comparison_of_Feature_Reduction_Approaches_and_Classification_Approaches_for_Pattern_Recognition), [[matlab code]]("https://github.com/Xiaoyang-Rebecca/PatternRecognition_Matlab")
+
