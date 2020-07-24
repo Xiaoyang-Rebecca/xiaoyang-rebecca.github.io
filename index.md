@@ -6,9 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  LinkedIn:  [Linkedin.com/in/xiaoyang-rebecca-li](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [View my Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ CV/Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \| 
 
 ---
 Howdy! I am Rebecca Li, a Ph.D. at University of Houston with 5-yr professional experience of Data Science. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial data scientice domains include Medical Image, Self-driving Car and Oil & Gas. I have greet passion on solving real-world problems. 
