@@ -1,5 +1,5 @@
-|<img align="left"  height="200" src="./figures/Rebeccca li.jpg">|
-|----|
+<img align="left"  height="200" border="1px solid black" src="./figures/Rebeccca li.jpg">
+
 
 Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
 
