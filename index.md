@@ -1,6 +1,4 @@
-<img align="right" width="100" height="100" src="./figures/Rebeccca li.jpg">
-
-This is the code you need to align images to the right:
+<img align="right"  height="200" src="./figures/Rebeccca li.jpg">
 ```
 Howdy, I am Rebecca Li, a Ph.D. at University of Houston with 5-yr experienced Data Scientist. I have published in top-tier AI conferences (NIPS, MICCAI) and Journals on Deep Learning, Machine Learning, and Computer Visions. My diverse advanced industrial domain experience includes Medical Image, Self-driving Car and Oil & Gas. I have greet impassion on solving real-world problem.
 ```
