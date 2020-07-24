@@ -6,7 +6,7 @@ Seismic image acquisition can be time and economic costs. We adopted an appropri
 
 <p align="center"><img src="../figures/Seismic_Compression.png" width="500" class="inline"/></p>
 
-- Mentors:  Nikolaos Mitsakos, Ping Lu
+- Mentors:  [Dr.Nikolaos Mitsakos](https://www.linkedin.com/in/nikolaos-mitsakos-phd-8029a965/), [Dr.Ping Lu](https://www.linkedin.com/in/ping-lu-computer-vision/)
 - Detail: [[NIPS 2019 Workshop Poster]](https://openreview.net/forum?id=Hyleh7hqUH) , [[The leading Edge Jornal]](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
 - PythonCode(Pytorch) 
   

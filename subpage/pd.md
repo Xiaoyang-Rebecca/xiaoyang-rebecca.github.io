@@ -8,6 +8,8 @@ We use reinforcement learning to design a route from the agent so that it could 
 
 - [[Report]](https://www.researchgate.net/publication/310607210_Learning_Paths_from_Feedback_Using_Q-Learning_for_PD_world), [[C++/matlab code]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
 
+- Collaborators: [Priyal Kulkarni
+](https://www.linkedin.com/in/priyal-kulkarni-1205/),[Sarthak Sharma](https://www.linkedin.com/in/sarthak-sharma-uh/)
 
 
 ---
