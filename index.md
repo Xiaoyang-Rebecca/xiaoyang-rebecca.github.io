@@ -10,7 +10,7 @@
 --------------
 # Professional Projects
 --------------
-## Zero Human Effort Segmentation 
+## 0-Human-effort Segmentation 
 
 We innovatively proposed an efficient unsupervised learning framework to segment nuclei robustly without the need of human annotations. We first use an iterative training process to improve segmentation quality without human labels. Then we introduce a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN
 
@@ -25,7 +25,7 @@ We innovatively proposed an efficient unsupervised learning framework to segment
 
 Seismic image acquisition can be time and economic costs. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results show approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
 
-<p align="center"><img src="./figures/Compression.png" width="400" class="inline"/></p>
+<p align="center"><img src="./figures/Seismic_Compression.png" width="400" class="inline"/></p>
 
 - Mentors:  Nikolaos Mitsakos, Ping Lu
 - Detail: [[NIPS 2019 Workshop Poster]](https://openreview.net/forum?id=Hyleh7hqUH) , [[The leading Edge Jornal]](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
@@ -40,7 +40,7 @@ Seismic image acquisition can be time and economic costs. We adopted an appropri
 I designed an object-oriented "eraser" for image and video , which is able to remove the pixels with designated type. MRCNN is used to dected the pixel of a specific types then WGAN is used to remove the detect pixels as they never exist. 
 
 <p align="center"><img src="./figures/Slide3.PNG" width="400" class="inline"/></p>
-*This is just a prototype use published pretrained weights without any additional training.
+*This is just a prototype use COCO pretrained weights without any additional training.
 
 - Demo for Video
 <p align="center">
@@ -62,7 +62,7 @@ The case study revealed the influence of 4 common feature redution methods (PCA,
 
 We use reinforcement learning to design a route from the agent so that it could use the least steps to send all the blocks to drop-off cells. A basic Q learning method has deploit. We also designed a  visulization module to display the Q values in real-time.
 
-<p align="center"><img src="./figures/pd.gif"  width="400" class="inline"/></p>
+<p align="center"><img src="./figures/pd.gif"  width="500" class="inline"/></p>
 
 - [[Report]](https://www.researchgate.net/publication/310607210_Learning_Paths_from_Feedback_Using_Q-Learning_for_PD_world), [[C++/matlab code]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
 
