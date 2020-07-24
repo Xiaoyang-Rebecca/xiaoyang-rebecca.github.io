@@ -13,7 +13,7 @@ I designed an object-oriented "eraser" for image and video , which is able to re
 - [[PythonCode]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
 
 
-*This is just a prototype use COCO pretrained weights without any additional training.
+*This is a prototype only using COCO pretrained weights without any additional training.
 
 ---
 << [Back](../)
