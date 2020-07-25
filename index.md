@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ CV/Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \| 
 
 ###  &nbsp;
-Howdy! I am Rebecca Li, a Data Scientist with 5 yrs of professional experience in the field of Medical Image, Self-driving Car and Oil & Gas. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on **Deep Learning, Machine Learning, and Computer Visions**. I have a great passion for solving real-world problems.
+Howdy! I am Rebecca Li, a Data Scientist with 5 yrs of professional experience in the fields of Medical Image Processing, Autonomous Vehicles and Oil & Gas. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on **Deep Learning, Machine Learning, and Computer Vision**. I have a great passion for solving real-world problems.
 
 PhD Advisor: [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 
