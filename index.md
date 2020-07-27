@@ -3,7 +3,7 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate at Univeristy of Houston
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant at [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [Farsight Bioimage and Data Analysis Lab](https://github.com/RoysamLab).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant at [Pro. Roysam](http://www.ee.uh.edu/faculty/roysam)'s [FARsight Bio-image and Data Analysis Lab](https://github.com/RoysamLab).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  E-mail:   [ Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)
 
