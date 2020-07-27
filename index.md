@@ -11,7 +11,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ CV/Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \| 
 
 ###  &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Howdy! I am Rebecca Li, a Data Scientist at  [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [Farsight Bioimage and Data Analysis Lab](https://github.com/RoysamLab). I have 5 yrs of professional experience in the fields of Medical Image Processing, Autonomous Vehicles and Oil & Gas. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on **Deep Learning, Machine Learning, and Computer Vision**. I have a great passion for solving real-world problems. As my PhD comes to a close, I am currently exploring new positions. Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! I am Rebecca Li, a Data Scientist at  [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [Farsight Bioimage and Data Analysis Lab](https://github.com/RoysamLab). I have 5 yrs of professional experience in the fields of Medical Image Processing, Autonomous Vehicles and Oil & Gas. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on **Deep Learning, Machine Learning, and Computer Vision**. I have a great passion for solving real-world problems. As my PhD comes to a close, I am currently exploring new positions. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
 
 --------------
 ## Spotlight Projects
