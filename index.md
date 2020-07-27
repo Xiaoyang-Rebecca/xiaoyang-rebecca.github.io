@@ -3,17 +3,21 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate at Univeristy of Houston
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant at [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [Farsight Bioimage and Data Analysis Lab](https://github.com/RoysamLab).
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  E-mail:   [ Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)
-
-
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ CV/Resume](https://drive.google.com/file/d/1GApBS2kuk6vfx0mnKjPG59URymvI3xze/view) \| 
 
 ###  &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! I am Rebecca Li, a Data Scientist at  [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [Farsight Bioimage and Data Analysis Lab](https://github.com/RoysamLab). I have 5 yrs of professional experience in the fields of Medical Image Processing, Autonomous Vehicles and Oil & Gas. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on **Deep Learning, Machine Learning, and Computer Vision**. I have a great passion for solving real-world problems. As my PhD comes to a close, I am currently exploring new positions. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! I am Rebecca Li, a soon-to-be PhD at with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have several academic publications in the top-tier AI conferences (NIPS, MICCAAI) and Journals, focusing on Image Segmentation, Object Detection/Classification, and Compression Recovery, mostly involving CNN and GANs.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
+As an experienced data scientist, my diverse industrial domain experiences cover medical image processing, self-driving car, and Oil & Gas. I also have a strong passion for real-world problems and high communication skills.
+
+• Programming Skills: Python( Scikit-learn, Scikit-image, OpenCV, Pandas), Matlab, R, C, C++, VHDL
+• Frameworks and Platforms: Linux, Keras, Tensorflow, Pytorch, Caffe, ONNX, Docker, AWS
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As my PhD comes to a close, I am currently exploring new opportuniites . Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
 
 --------------
 ## Spotlight Projects
