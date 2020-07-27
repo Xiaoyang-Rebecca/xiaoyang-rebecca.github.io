@@ -14,11 +14,12 @@
 
 As an experienced data scientist, my diverse industrial domain experiences cover medical image processing, self-driving car, and Oil & Gas. I also have a strong passion for real-world problems and high communication skills.
 
-• Programming Skills: Python( Scikit-learn, Scikit-image, OpenCV, Pandas), Matlab, R, C, C++, VHDL
-• Frameworks and Platforms: Linux, Keras, Tensorflow, Pytorch, Caffe, ONNX, Docker, AWS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportuniites . Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As my PhD comes to a close, I am currently exploring new opportuniites . Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
 
+- Programming Skills: Python( Scikit-learn, Scikit-image, OpenCV, Pandas), Matlab, R, C, C++, VHDL
+
+- Frameworks and Platforms: Linux, Keras, Tensorflow, Pytorch, Caffe, ONNX, Docker, AWS
 --------------
 ## Spotlight Projects
 
