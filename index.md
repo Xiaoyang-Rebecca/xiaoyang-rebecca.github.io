@@ -12,6 +12,7 @@
 
 ###  &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! I am Rebecca Li, a Data Scientist at  [Pro.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [Farsight Bioimage and Data Analysis Lab](https://github.com/RoysamLab). I have 5 yrs of professional experience in the fields of Medical Image Processing, Autonomous Vehicles and Oil & Gas. I also have published in top-tier AI conferences (NIPS, MICCAI) and domain Journals on **Deep Learning, Machine Learning, and Computer Vision**. I have a great passion for solving real-world problems. As my PhD comes to a close, I am currently exploring new positions. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to [schedule a quick chat](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings) with me!
 
 --------------
