@@ -8,10 +8,11 @@ We used reinforcement learning to design a route for the deliveryman to send all
 
 <p align="center"><img src="/figures/pd.gif"  width="550" class="inline"/></p>
 
-- [[Report]](https://www.researchgate.net/publication/310607210_Learning_Paths_from_Feedback_Using_Q-Learning_for_PD_world), [[C++/matlab code]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
-
 - Collaborators: [Priyal Kulkarni
 ](https://www.linkedin.com/in/priyal-kulkarni-1205/),[Sarthak Sharma](https://www.linkedin.com/in/sarthak-sharma-uh/)
+- Report:[[PDF]](https://www.researchgate.net/publication/310607210_Learning_Paths_from_Feedback_Using_Q-Learning_for_PD_world)
+- Code: [[C++/matlab]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
+
 
 
 ---

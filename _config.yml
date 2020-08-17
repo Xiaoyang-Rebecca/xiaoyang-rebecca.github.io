@@ -83,8 +83,8 @@ author:
   name             : "Rebecca Li"
   avatar           : "Rebeccca li.jpg"
   bio              : "PhD in Image Processing and Data Science"
-  location         : "Houston,TX"
-  employer         : "Research Assistant"
+  # location         : "Houston,TX"
+  employer         : "University of Houoston"
   pubmed           : "http://researchgate.net/profile/Xiaoyang_Li14"
   googlescholar    : "https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1"
   email            : Xiaoyang.Rebecca.li@gmail.com

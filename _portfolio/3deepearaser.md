@@ -15,7 +15,7 @@ I designed an object-oriented “eraser” for images and videos, which is able 
 <img src="/figures/clip1_borded.gif" width="250" class="inline"/>
 <img src="/figures/clip1_erased.gif" width="250" class="inline"/></p>
 
-- [[PythonCode]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
+- Code: [[Python]](https://github.com/Xiaoyang-Rebecca/DeepEraser)(Keras)
 
 
 *This is a prototype only using COCO pretrained weights without any additional training.

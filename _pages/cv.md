@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 * B.S. in Information Engineering, XIDIAN University, 2015
 * Ph.D in Bio-image and Information Analysis Lab , University of Houston , 2020 (expected)
 
-Work experience
+Work Experience
 ======
 * 2015 - Now: Research Assistant
   * Electrical and Computer Engineer Dept, University of Houston

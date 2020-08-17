@@ -11,8 +11,9 @@ Seismic image acquisition can be costly and time consuming. We adopted an approp
 <p align="center"><img src="/figures/Seismic_Compression.png" width="550" class="inline"/></p>
 
 - Mentors:  [Dr.Nikolaos Mitsakos](https://www.linkedin.com/in/nikolaos-mitsakos-phd-8029a965/), [Dr.Ping Lu](https://www.linkedin.com/in/ping-lu-computer-vision/)
-- Detail: [[NIPS 2019 Workshop Poster]](https://openreview.net/forum?id=Hyleh7hqUH) , [[The leading Edge Jornal]](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
-- PythonCode(Pytorch) 
+- Poster: [[NIPS 2019 Workshop]](https://openreview.net/forum?id=Hyleh7hqUH) 
+- Paper: [[The leading Edge Jornal]](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
+- Code: Python (Pytorch) 
   
 ---
 **Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019).
