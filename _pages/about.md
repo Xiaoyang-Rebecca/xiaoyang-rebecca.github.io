@@ -29,12 +29,12 @@ schedule a quick chat</a> with me!
 ## Portfolios
 
 ### Professional Projects 
- [<img width="320" height="190" src="./figures/logo-Segmentation.png">](/_portfolio/seg)[<img width="320" height="160" src="./figures/logo-Seismic.png">](/_portfolio/seismic)
+ [<img width="330" height="190" src="./figures/logo-Segmentation.png">](/portfolio/1seg)[<img width="320" height="160" src="./figures/logo-Seismic.png">](/portfolio/2seismic)
 
 ### Related Projects
- [<img width="320" height="120" src="./figures/logo-eraser.png">](/_portfolio/deepearaser) [<img width="320" height="120" src="./figures/logo-translator.png">](/_portfolio/pixeltranslator) 
+ [<img width="330" height="120" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="320" height="120" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator) 
  
- [<img width="320" height="190"  src="./figures/logo-fselect.png">](/_portfolio/fselect) [<img width="320" height="190"  src="./figures/logo-pd.png">](/_portfolio/pd) 
+ [<img width="330" height="190"  src="./figures/logo-fselect.png">](/portfolio/5fselect) [<img width="320" height="190"  src="./figures/logo-pd.png">](/portfolio/pd) 
 
 
 
