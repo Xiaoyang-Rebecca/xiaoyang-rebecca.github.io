@@ -14,4 +14,4 @@ This case study revealed the influence of 4 common feature reduction methods (PC
 
 
 ---
-<< [Back](../)
+<!-- << [Back](../) -->

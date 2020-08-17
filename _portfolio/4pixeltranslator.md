@@ -14,4 +14,4 @@ We used cGAN to fill in the synthetic colors on gray images of border/vein, and 
 ](https://www.linkedin.com/in/aditi-singh-8b7bab61/) , [Rachel Mills](https://www.linkedin.com/in/rachel-m-bb47aa170/) ,  [Raj Shah](https://www.linkedin.com/in/rajshah145/),[Gaurav Roy](https://www.linkedin.com/in/gaurav-roy-74b09b99/)
 
 ---
-<< [Back](../)
+<!-- << [Back](../) -->

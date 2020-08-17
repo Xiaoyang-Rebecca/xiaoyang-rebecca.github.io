@@ -41,8 +41,8 @@ Work experience
 
 Skills
 ======
-* Programming: Python ( Skimage, OpenCV, Pandas),Matlab, Linux Bash, R, C/C++,  VHDL, SQL
-* Framwroks: Keras, Tensorflow, Pytorch, Caffe, ONNX  
+* Programming: Python ( Skimage, OpenCV, Pandas), Matlab, Linux Bash, R, C/C++,  VHDL, SQL
+* AI Framwroks: Keras, Tensorflow, Pytorch, Caffe, ONNX  
 *	Cloud Service:  HPC, Docker,  AWS, Colab
 
 Languages
@@ -80,7 +80,7 @@ Reviewers
 * Workshop on Medical Image Computing and Computer Assisted Intervention(MICCAI),  2020
 * Geophysical Journal International, 2019
 * IEEE International Symposium on Biomedical Imaging, 2018       
-
+<!-- 
 Presentations 
 ======
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, *Grace Hopper Celebration*, General Poster, 2020. [[Poster]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label")
@@ -103,4 +103,4 @@ Publications
 -	[Yuan, P., Rezvan, A., **Li, X.**, Varadarajan, N. and Van Nguyen, H., 2019. Phasetime: Deep Learning Approach to Detect Nuclei in Time Lapse Phase Images. *Journal of clinical medicine*, 8(8), p.1159.](https://www.ncbi.nlm.nih.gov/pubmed/31382487)
 -	[Zhao X, Lu P, Zhang Y, Chen J, **Li X**. Swell-noise attenuation: A deep learning approach. *The Leading Edge*. 2019 Dec;38(12):934-42. ](https://library.seg.org/doi/full/10.1190/tle38120934.1)
 -	[Zhao, X., Lu, P., Zhang, Y., Chen, J., & **Li, X**. (2019). Attenuating Random Noise in Seismic Data by a Deep Learning Approach. *arXiv preprint* arXiv:1910.12800.](https://arxiv.org/abs/1910.12800)
--	[**Li Xiaoyang,** “A Simplified Normalization Operation for Perfect Reconstruction from a Modified STFT”, *In Pros, IEEE 12th International Conference on Signal Processing (ICSP)* , 2014, P42-45](https://ieeexplore.ieee.org/document/7014966)
+-	[**Li Xiaoyang,** “A Simplified Normalization Operation for Perfect Reconstruction from a Modified STFT”, *In Pros, IEEE 12th International Conference on Signal Processing (ICSP)* , 2014, P42-45](https://ieeexplore.ieee.org/document/7014966) -->

@@ -15,4 +15,4 @@ We used reinforcement learning to design a route for the deliveryman to send all
 
 
 ---
-<< [Back](../)
+<!-- << [Back](../) -->

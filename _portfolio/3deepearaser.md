@@ -21,4 +21,4 @@ I designed an object-oriented “eraser” for images and videos, which is able 
 *This is a prototype only using COCO pretrained weights without any additional training.
 
 ---
-<< [Back](../)
+<!-- << [Back](../) -->

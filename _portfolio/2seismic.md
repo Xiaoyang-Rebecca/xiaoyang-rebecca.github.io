@@ -21,4 +21,4 @@ Seismic image acquisition can be costly and time consuming. We adopted an approp
 
 ---
 
-<< [Back](../)
+<!-- << [Back](../) -->
