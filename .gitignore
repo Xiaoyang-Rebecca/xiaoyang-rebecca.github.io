@@ -1,4 +1,6 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
