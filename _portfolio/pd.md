@@ -1,6 +1,8 @@
-## Pick-up Drop-off Design
-
------------
+---
+title: "Pick-up Drop-off Design"
+excerpt: "Use reinforcement learning to design a route for delivery man <br/><img src='/figures/logo-eraser.png'>"
+collection: portfolio
+---
 
 We used reinforcement learning to design a route for the deliveryman to send all of the blocks to their respective drop-off cells by using the least number of steps. A primary Q learning method was deployed. We also designed a visualization module to display the Q values in real-time.
 

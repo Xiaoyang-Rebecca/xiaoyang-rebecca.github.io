@@ -1,5 +1,9 @@
-## Pixel Translator 
---------------
+---
+title: "Pixel Translator"
+excerpt: "Convert gray images of border/vein to RGB leaf images <br/><img src='/figures/logo-eraser.png'>"
+collection: portfolio
+---
+
 We used cGAN to fill in the synthetic colors on gray images of border/vein, and evaluated the reconstruction accuracy by leaf types classification using Alexnet CNN. A prototype to generate fake images from hand-drawn vein images has also been proposed.
 
 <p align="center"><img src="/figures/leaf.png"  width="500" class="inline"/></p>

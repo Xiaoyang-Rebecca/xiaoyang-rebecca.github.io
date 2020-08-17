@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 
 # Analytics
@@ -84,10 +84,10 @@ author:
   avatar           : "Rebeccca li.jpg"
   bio              : "PhD in Image Processing and Data Science"
   location         : "Houston,TX"
-  employer         : "Research Assistant at University of Houston"
-  ResearchGate     : "http://researchgate.net/profile/Xiaoyang_Li14"
+  employer         : "Research Assistant"
+  pubmed           : "http://researchgate.net/profile/Xiaoyang_Li14"
   googlescholar    : "https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1"
-  Xiaoyang.Rebecca.li@gmail.com            : Xiaoyang.Rebecca.li@gmail.com
+  email            : Xiaoyang.Rebecca.li@gmail.com
   github           : Xiaoyang-Rebecca
   linkedin         : xiaoyang-rebecca-li
 

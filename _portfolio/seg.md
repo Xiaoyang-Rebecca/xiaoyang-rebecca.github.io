@@ -1,5 +1,9 @@
-# Zero-human-effort Segmentation 
---------------
+---
+title: "Zero-human-effort Segmentation "
+excerpt: "A fully automatic iterative deep learning framework for Cell Segmentation on Noisy Label <br/><img src='/figures/logo-eraser.png'>"
+collection: portfolio
+---
+
 
 We innovatively proposed an efficient unsupervised learning framework to robustly segment nuclei without human annotations. We first used an iterative training process to improve segmentation quality without human labels. Then we introduced a background boosting technique to enhance the segmentation accuracy. We achieved high fidelity segmentation especially among crowed objects, and IoU improved by 3% compared to original MRCNN.
 
