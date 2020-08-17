@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Presentations"
+title: ""
 permalink: /presentations/
 author_profile: true
 
 ---
 
-
-Presentations 
-======
 # Poster Presentation
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, *Grace Hopper Celebration*, General Poster, 2020. [[Poster]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label")
 -	 **X. Rebecca. Li.**, et al.. Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019).  [[Poster]](https://www.researchgate.net/publication/342393127_Generative_Inpainting_Network_Applications_On_Seismic_Image_Compression?_sg=NLR-jR1kH68IGpgbIZWBGn_b0EgQeDCJd4v2NqKtkUhztF4yumiDb8Q8pDBBCIoya02jgPwoxpJ7-0PgaAy4_kuyI4OJGvAcpIPhcKMX.1u4TvNJH7fYLPtz5wlzLw8faQN65sw0TkNcnhYTUnxyA2dneET2USKgvHbT3MBGyuNef8YMOYLMRuN_YYBv52w)
