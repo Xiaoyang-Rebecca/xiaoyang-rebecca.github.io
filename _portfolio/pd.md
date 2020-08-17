@@ -1,6 +1,6 @@
 ---
 title: "Pick-up Drop-off Design"
-excerpt: "Use reinforcement learning to design a route for delivery man <br/><img src='/figures/logo-eraser.png'>"
+excerpt: "Use reinforcement learning to design a route for delivery man <br/><img src='/figures/logo-pd.png'>"
 collection: portfolio
 ---
 

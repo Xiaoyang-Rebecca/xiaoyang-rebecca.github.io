@@ -1,6 +1,6 @@
 ---
 title: "Feature Reduction to Classifiers"
-excerpt: " Performance studies of PCA, LDA, and their kernel versions to SVM, ML, KNN, GMM <br/><img src='/figures/logo-eraser.png'>"
+excerpt: " Performance studies of PCA, LDA, and their kernel versions to SVM, ML, KNN, GMM <br/><img src='/figures/logo-fselect.png'>"
 collection: portfolio
 ---
 

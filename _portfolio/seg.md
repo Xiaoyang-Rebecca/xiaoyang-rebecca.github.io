@@ -1,6 +1,6 @@
 ---
 title: "Zero-human-effort Segmentation "
-excerpt: "A fully automatic iterative deep learning framework for Cell Segmentation on Noisy Label <br/><img src='/figures/logo-eraser.png'>"
+excerpt: "A fully automatic iterative deep learning framework for Cell Segmentation on Noisy Label <br/><img src='/figures/logo-Segmentation.png'>"
 collection: portfolio
 ---
 

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# [ PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
+# [ View in PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
 
 {% include base_path %}
 
@@ -41,13 +41,9 @@ Work experience
 
 Skills
 ======
-* Programming:
-  * Python 
-    * Basics:  Skimage, OpenCV, Pandas
-    * Deep Learnings: Keras, Tensorflow, Pytorch, Caffe, ONNX
-  * Other: Matlab, Linux Bash, R, C/C++,  VHDL, SQL
-*	Cloud Service:
-  * HPC, Docker,  AWS, Colab
+* Programming: Python ( Skimage, OpenCV, Pandas),Matlab, Linux Bash, R, C/C++,  VHDL, SQL
+* Framwroks: Keras, Tensorflow, Pytorch, Caffe, ONNX  
+*	Cloud Service:  HPC, Docker,  AWS, Colab
 
 Languages
 ======
