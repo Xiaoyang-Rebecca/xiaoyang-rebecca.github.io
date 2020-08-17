@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# [ View in PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
+## [ View in PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
 
 {% include base_path %}
 
@@ -79,7 +79,9 @@ Reviewers
 * American Journal of Neural Networks and Applications(AJNNA) , 2020
 * Workshop on Medical Image Computing and Computer Assisted Intervention(MICCAI),  2020
 * Geophysical Journal International, 2019
-* IEEE International Symposium on Biomedical Imaging, 2018       
+* IEEE International Symposium on Biomedical Imaging, 2018     
+
+
 <!-- 
 Presentations 
 ======
