@@ -26,11 +26,13 @@ redirect_from:
 schedule a quick chat</a> with me!
 
 --------------
-## Spotlight Projects
+## Portfolio
 
-| Professional Projects | Related Projects |
-| :-----:|:---:|
-| [<img width="250" height="160" src="./figures/logo-Segmentation.png">](./subpage/seg.html)[<img width="250" height="160" src="./figures/logo-Seismic.png">](./subpage/seismic.html)| [<img width="250" height="120" src="./figures/logo-eraser.png">](./subpage/deepearaser.html) [<img width="250" height="120" src="./figures/logo-translator.png">](./subpage/pixeltranslator.html) [<img width="250" height="190"  src="./figures/logo-fselect.png">](./subpage/fselect.html) [<img width="250" height="190"  src="./figures/logo-pd.png">](./subpage/pd.html) |
+### Professional Projects 
+ [<img width="250" height="160" src="./figures/logo-Segmentation.png">](./subpage/seg.html)[<img width="250" height="160" src="./figures/logo-Seismic.png">](./subpage/seismic.html)
+ 
+### Related Projects
+ [<img width="250" height="120" src="./figures/logo-eraser.png">](./subpage/deepearaser.html) [<img width="250" height="120" src="./figures/logo-translator.png">](./subpage/pixeltranslator.html) [<img width="250" height="190"  src="./figures/logo-fselect.png">](./subpage/fselect.html) [<img width="250" height="190"  src="./figures/logo-pd.png">](./subpage/pd.html) |
 
 
 --------------
