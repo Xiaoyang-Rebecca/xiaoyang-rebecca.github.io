@@ -13,7 +13,7 @@ name                     : &name "Rebecca"
 description              : &description "personal description"
 url                      : https://xiaoyang-rebecca.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://xiaoyang-rebecca.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,37 +84,13 @@ author:
   avatar           : "./figures/Rebeccca li.jpg"
   bio              : "PhD in Image Processing and Data Science"
   location         : "Houston,TX"
-  employer         :
+  employer         : University of Houston
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1"
-  email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : http://github.com/Xiaoyang-Rebecca
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US
-  orcid            : http://orcid.org/yourorcidurl
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  email            : Xiaoyang.Rebecca.li@gmail.com
+  github           : Xiaoyang-Rebecca
+  linkedin         : xiaoyang-rebecca-li
+
 
 
 # Reading Files
@@ -122,6 +98,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - figures
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
