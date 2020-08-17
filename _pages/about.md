@@ -25,20 +25,21 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">
 schedule a quick chat</a> with me!
 
---------------
-## Portfolios
-
+Portfolio
+======
 ### Professional Projects 
- <p align="center">[<img width="330" height="190" src="./figures/logo-Segmentation.png">](/portfolio/1seg)[<img width="320" height="160" src="./figures/logo-Seismic.png">](/portfolio/2seismic)</p>
+
+<p align="center">[<img width="330" height="190" src="./figures/logo-Segmentation.png">](/portfolio/1seg)[<img width="320" height="160" src="./figures/logo-Seismic.png">](/portfolio/2seismic)</p>
 
 ### Related Projects
-  <p align="center">[<img width="330" height="120" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="320" height="120" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator) </p>
+<p align="center">[<img width="330" height="120" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="320" height="120" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)</p>
  
-  <p align="center">[<img width="330" height="190"  src="./figures/logo-fselect.png">](/portfolio/5fselect) [<img width="320" height="190"  src="./figures/logo-pd.png">](/portfolio/6pd) </p>
+<p align="center">[<img width="330" height="190"  src="./figures/logo-fselect.png">](/portfolio/5fselect) [<img width="320" height="190"  src="./figures/logo-pd.png">](/portfolio/6pd)</p>
 
 
 
-## Presentations 
+Presentations 
+======
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, *Grace Hopper Celebration*, General Poster, 2020. [[Poster]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label")
 -	B.Roysam, H. Nguyen, S.Prasad , J.Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, *2019 Rice Data Science Conference*. [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
 -	 **X. Rebecca. Li.**, et al.. Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019).  [[Poster]](https://www.researchgate.net/publication/342393127_Generative_Inpainting_Network_Applications_On_Seismic_Image_Compression?_sg=NLR-jR1kH68IGpgbIZWBGn_b0EgQeDCJd4v2NqKtkUhztF4yumiDb8Q8pDBBCIoya02jgPwoxpJ7-0PgaAy4_kuyI4OJGvAcpIPhcKMX.1u4TvNJH7fYLPtz5wlzLw8faQN65sw0TkNcnhYTUnxyA2dneET2USKgvHbT3MBGyuNef8YMOYLMRuN_YYBv52w)
@@ -49,7 +50,8 @@ schedule a quick chat</a> with me!
 -	**X. Li**, K. Grama, B. Roysam, “Spatial Neuronal Neighborhood Relationship Changes in Rat Brain Tissue Following Ischemic Brain Injury “, *Graduate Research Conference, University of Houston*, 2016.
 -	**X. Li**,  Bayesian Theory for Classification, *Houston Machine Learning Meetup*, Presenter , 2016.
 
-## Publications
+Publications
+======
 
 -	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)*, 2020 (Accepted)
 - [	**Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* (2019). ](https://openreview.net/forum?id=Hyleh7hqUH)
