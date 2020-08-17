@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 
-<img style="float: left;" height="110"  src="./figures/Rebeccca li.jpg"> 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
+<!-- ## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate at Univeristy of Houston
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant at [Pro. Roysam](http://www.ee.uh.edu/faculty/roysam) 's [FARsight Bio-image and Data Analysis Lab](https://github.com/RoysamLab)
@@ -20,7 +19,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ Resume/CV ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing) \|
 
-###  &nbsp;
+###  &nbsp; -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-be Ph.D. with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have published papers in the top-tier AI conferences (NIPS, MICCAI) and Journals, focusing on Image Segmentation, Object Detection/Classification, and Compressive Sensing, mostly involving CNN and GANs. I also have a strong passion for real-world problems and high communication skills.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">

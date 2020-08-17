@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Li"
-  avatar           : "./figures/Rebeccca li.jpg"
+  avatar           : "Rebeccca li.jpg"
   bio              : "PhD in Image Processing and Data Science"
   location         : "Houston,TX"
-  employer         : University of Houston
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Research Assistant at University of Houston"
+  ResearchGate     : "http://researchgate.net/profile/Xiaoyang_Li14"
   googlescholar    : "https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1"
-  email            : Xiaoyang.Rebecca.li@gmail.com
+  Xiaoyang.Rebecca.li@gmail.com            : Xiaoyang.Rebecca.li@gmail.com
   github           : Xiaoyang-Rebecca
   linkedin         : xiaoyang-rebecca-li
 
