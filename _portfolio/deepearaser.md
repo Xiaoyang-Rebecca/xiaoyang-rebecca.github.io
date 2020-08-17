@@ -1,6 +1,6 @@
 ---
 title: "Deep Eraser"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "I designed an object-oriented “eraser” for images and videos, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detected pixels and restore the background.<br/><img src='/images/logo-eraser.png'>"
 collection: portfolio
 ---
 
@@ -10,12 +10,12 @@ collection: portfolio
 
 I designed an object-oriented “eraser” for images and videos, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detected pixels and restore the background.
 
-<p align="center"><img src="../figures/Slide3.PNG" width="400" class="inline"/></p>
+<p align="center"><img src="/figures/Slide3.PNG" width="400" class="inline"/></p>
 
 - Demo for Video
 <p align="center">
-<img src="../figures/clip1_borded.gif" width="250" class="inline"/>
-<img src="../figures/clip1_erased.gif" width="250" class="inline"/></p>
+<img src="/figures/clip1_borded.gif" width="250" class="inline"/>
+<img src="/figures/clip1_erased.gif" width="250" class="inline"/></p>
 
 - [[PythonCode]](https://github.com/Xiaoyang-Rebecca/DeepEraser)
 
