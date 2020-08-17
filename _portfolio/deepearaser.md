@@ -1,12 +1,10 @@
 ---
 title: "Deep Eraser"
-excerpt: "I designed an object-oriented “eraser” for images and videos, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detected pixels and restore the background.<br/><img src='/images/logo-eraser.png'>"
+excerpt: "I designed an object-oriented “eraser” for images and videos, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detected pixels and restore the background.<br/><img src='/figures/logo-eraser.png'>"
 collection: portfolio
 ---
 
 
-## Deep Eraser
---------------
 
 I designed an object-oriented “eraser” for images and videos, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detected pixels and restore the background.
 

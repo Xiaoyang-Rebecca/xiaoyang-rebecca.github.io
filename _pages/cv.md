@@ -46,7 +46,7 @@ Skills
     * Basics:  Skimage, OpenCV, Pandas
     * Deep Learnings: Keras, Tensorflow, Pytorch, Caffe, ONNX
   * Other: Matlab, Linux Bash, R, C/C++,  VHDL, SQL
-*	Cloud Service
+*	Cloud Service:
   * HPC, Docker,  AWS, Colab
 
 Languages
@@ -68,6 +68,8 @@ Presentations
                                                                                 
 
 Courses
+======
+
 * Enrolled: Deep learning and Machine learning, Digital Pattern Recognition, Neural Network, Stochastic Signal processing, Digital Signal Processing, Nonlinear Optimization, Project Management, Businesses Analyst.
 * Teaching: Teaching Assistant/grader, C++ programing for engineering 
   
@@ -83,10 +85,9 @@ Reviewers
 * Workshop on Medical Image Computing and Computer Assisted Intervention(MICCAI),   2020
 * Geophysical Journal International, 2019
 * IEEE International Symposium on Biomedical Imaging, 2018       
-* 
+
 Presentations 
 ======
-
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, *Grace Hopper Celebration*, General Poster, 2020. [[Poster]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label")
 -	B.Roysam, H. Nguyen, S.Prasad , J.Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, *2019 Rice Data Science Conference*. [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
 -	 **X. Rebecca. Li.**, et al.. Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019).  [[Poster]](https://www.researchgate.net/publication/342393127_Generative_Inpainting_Network_Applications_On_Seismic_Image_Compression?_sg=NLR-jR1kH68IGpgbIZWBGn_b0EgQeDCJd4v2NqKtkUhztF4yumiDb8Q8pDBBCIoya02jgPwoxpJ7-0PgaAy4_kuyI4OJGvAcpIPhcKMX.1u4TvNJH7fYLPtz5wlzLw8faQN65sw0TkNcnhYTUnxyA2dneET2USKgvHbT3MBGyuNef8YMOYLMRuN_YYBv52w)
