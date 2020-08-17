@@ -1,6 +1,6 @@
 ---
-title: "Zero-human-effort Segmentation "
-excerpt: "A fully automatic iterative deep learning framework for Cell Segmentation on Noisy Label <br/><img src='/figures/logo-Segmentation.png' width='500'>"
+title: "Zero-human-effort Segmentation"
+excerpt: "A fully automatic iterative deep learning framework for cell segmentation on noisy Label <br/><img src='/figures/logo-Segmentation.png' width='400'>"
 collection: portfolio
 ---
 
