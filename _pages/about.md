@@ -29,13 +29,13 @@ schedule a quick chat</a> with me!
 
 Professional Projects 
 ======
-[<img width="300" src="./figures/logo-Segmentation.png">](/portfolio/1seg)[<img width="300"src="./figures/logo-Seismic.png">](/portfolio/2seismic)[<img width="300"src="./figures/logo-nei.png">](/portfolio/7nei)
+[<img width="250" src="./figures/logo-seg.png">](/portfolio/1seg) [<img width="250"src="./figures/logo-seismic.png">](/portfolio/2seismic) [<img width="250"src="./figures/logo-nei.png">](/portfolio/7nei)
 
 
 Related Projects
 ======
-[<img width="300" src="./figures/logo-fselect.png">](/portfolio/5fselect)[<img width="300" src="./figures/logo-align.png">](/portfolio/8align) [<img width="300" src="./figures/logo-pd.png">](/portfolio/6pd)
-[<img width="300" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="300" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)[<img width="300" src="./figures/logo-denoise.png">](/portfolio/9denoise)
+[<img width="250" src="./figures/logo-fselect.png">](/portfolio/5fselect)[<img width="250" src="./figures/logo-align.png">](/portfolio/8align) [<img width="250" src="./figures/logo-pd.png">](/portfolio/6pd)
+[<img width="250" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="250" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)[<img width="250" src="./figures/logo-denoise.png">](/portfolio/9denoise)
 
 Contact 
 ======
