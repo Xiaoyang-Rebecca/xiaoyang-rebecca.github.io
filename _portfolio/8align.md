@@ -10,6 +10,8 @@ Image registration is to align a pair of misaligned images together. Traditional
 
 <p align="center"><img src="/figures/align.png"  width="550" class="inline"/></p>
 
+- Advisors: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam), [Dr.Dragan Maric](https://neuroscience.nih.gov/ninds/Faculty/Profile/dragan-maric.aspx)
+
 - Code: [[C++/matlab]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
 
 
