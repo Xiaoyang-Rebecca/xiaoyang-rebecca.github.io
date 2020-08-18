@@ -20,7 +20,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ Resume/CV ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing) \|
 
 ###  &nbsp; -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-be Ph.D. with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have published papers in the top-tier AI conferences (NIPS, MICCAI) and Journals, focusing on Image Segmentation, Object Detection/Classification, and Compressive Sensing, mostly involving CNN and GANs. I also have a strong passion for real-world problems and high communication skills.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-graduate Ph.D. with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have published papers in the top-tier AI conferences (NIPS, MICCAI) and Journals, focusing on Image Segmentation, Object Detection/Classification, and Compressive Sensing, mostly involving CNN and GANs. I also have a strong passion for real-world problems and high communication skills.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">
 schedule a quick chat</a> with me!
@@ -29,13 +29,13 @@ schedule a quick chat</a> with me!
 
 Professional Projects 
 ======
-[<img width="250" src="./figures/logo-seg.png">](/portfolio/1seg)[<img width="250" src="./figures/logo-seismic.png">](/portfolio/2seismic)[<img width="250" src="./figures/logo-nei.png">](/portfolio/7nei)
+[<img width="260" src="./figures/logo-seg.png">](/portfolio/1seg)[<img width="260" src="./figures/logo-seismic.png">](/portfolio/2seismic)[<img width="260" src="./figures/logo-nei.png">](/portfolio/7nei)
 
 
 Related Projects
 ======
-[<img width="250" src="./figures/logo-fselect.png">](/portfolio/5fselect)[<img width="250" src="./figures/logo-align.png">](/portfolio/8align) [<img width="250" src="./figures/logo-pd.png">](/portfolio/6pd)
-[<img width="250" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="250" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)[<img width="250" src="./figures/logo-denoise.png">](/portfolio/9denoise)
+[<img width="260" src="./figures/logo-fselect.png">](/portfolio/5fselect)[<img width="260" src="./figures/logo-align.png">](/portfolio/8align) [<img width="260" src="./figures/logo-pd.png">](/portfolio/6pd)
+[<img width="260" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="260" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)[<img width="260" src="./figures/logo-denoise.png">](/portfolio/9denoise)
 
 Contact 
 ======
