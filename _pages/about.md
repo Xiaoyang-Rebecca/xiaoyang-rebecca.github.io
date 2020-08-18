@@ -32,12 +32,13 @@ Professional Projects
 [<img width="330" height="190" src="./figures/logo-Segmentation.png">](/portfolio/1seg)[<img width="320" height="160" src="./figures/logo-Seismic.png">](/portfolio/2seismic)
 
 
-
 Related Projects
 ======
 [<img width="330" height="120" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="320" height="120" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)
 
 [<img width="330" height="190"  src="./figures/logo-fselect.png">](/portfolio/5fselect) [<img width="320" height="190"  src="./figures/logo-pd.png">](/portfolio/6pd)
+
+
 
 <!-- 
 
