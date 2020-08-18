@@ -29,8 +29,12 @@ schedule a quick chat</a> with me!
 
 Professional Projects 
 ======
-[<img width="250" src="/figures/logo-seg.png">](/portfolio/1seg)[<img width="255" src="./figures/logo-seismic.png">](/portfolio/2seismic)[<img width="250" src="./figures/logo-nei.png">](/portfolio/7nei)
+<p align="center">
+  [<img src="/figures/logo-seg.png"  width="250" class="inline">](/portfolio/1seg)
+  [<img src="./figures/logo-seismic.png" width="255"  class="inline">](/portfolio/2seismic)
+  [<img src="./figures/logo-nei.png" width="250" class="inline">](/portfolio/7nei)
 
+</p>
 
 Related Projects
 ======
