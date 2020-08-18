@@ -23,7 +23,7 @@ author_profile: true
 -	**X. Li**, K. Grama, B. Roysam, “Spatial Neuronal Neighborhood Relationship Changes in Rat Brain Tissue Following Ischemic Brain Injury “, *Graduate Research Conference, University of Houston*, 2016. [[Brochure]](http://grc.ee.uh.edu/sites/grc.ee.uh.edu/files/files/GRC2016_Program_for_Web_April29_final.pdf)
 -	**X. Li**,  Bayesian Theory for Classification, *Houston Machine Learning Meetup*, Presenter , 2016.
 
-# Panalist
+# Panelist
 
 - Y. Xu, A. Crivello, J. Silve, N. Panchal, **X, Li**, Y. Yu, Panelist, "Deeplearning.ai Pie & AI: Houston - Build a career in Data Science", Houston Machine Learning Meetup,2020 [[Detail]](https://www.meetup.com/Houston-Machine-Learning/events/267287657/)
 
