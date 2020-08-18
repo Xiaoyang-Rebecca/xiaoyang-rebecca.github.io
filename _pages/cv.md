@@ -13,43 +13,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Engineering, XIDIAN University, 2015
+* B.S. in Information Engineering, **XIDIAN University**, 2015
 * Ph.D in Bio-image and Information Analysis Lab , University of Houston , 2020 (expected)
 
 
 Work Experience
 ======
 * 2015 - Now: Research Assistant
-  * University of Houston  (Houston,TX)
+  * **University of Houston**  (Houston,TX)
   * Bio-image and Information Analysis Lab in Electrical and Computer Engineer Dept
   * Thesis: “Large Scale Nucleus Segmentation and Neighborhood Analysis on Rat Brain Images”
   * Supervisor: Professor Badri Roysam
 
 * Summer 2017: Pre-doc Fellow
-  * NINDS, National Institute of Health (Bethesda,MD)
+  * **NINDS, National Institute of Health** (Bethesda,MD)
   * Project: Estabish " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
   * Supervisor: Professor Dragan Maric
 
 * Summer 2018: Deep Learning Engineer Intern
-  * Ambarella Corporation (San Jose, CA)   
+  * **Ambarella Corporation** (San Jose, CA)   
   * Project: Proposed a "Cross-platform Solutions for Self-driving Car Chip Simulation"
 
 
 * Summer 2019: Deep Learning Engineer Intern
-  * Anadarko Petroleum (the Woodlands, TX)
+  * **Anadarko Petroleum** (the Woodlands, TX)
   * Project: "Seismic Image Recovery and Optimal Sampling Recommendation"                                                  
   * Supervisors: Dr.Nikolaos Mitsakos, Dr.Ping Lu
 
 Skills & Languages
 ======
-* Programming: 
-  * Python ( Skimage, OpenCV, Pandas), Matlab, Linux Bash, R, C/C++,  VHDL, SQL
-* AI Framwroks: 
-  * Keras, Tensorflow, Pytorch, Caffe, ONNX  
-*	Cloud Service:  
-  * HPC, Docker,  AWS, Colab
-* Languages
-  * English, Chinese(Mandarin)
+* Programming:   Python ( Skimage, OpenCV, Pandas), Matlab, Linux Bash, R, C/C++,  VHDL, SQL
+* AI Framwroks:  Keras, Tensorflow, Pytorch, Caffe, ONNX  
+*	Cloud Service:   HPC, Docker,  AWS, Colab
+* Languages:  English, Chinese(Mandarin)
   
 <!-- Publications
 ======

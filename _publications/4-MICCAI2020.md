@@ -8,6 +8,6 @@ venue: 'Medical Image Computing and Computer Assisted Intervention(MICCAI)'
 ---
 An active meta-Learning approach of cell classification use a very few tranining data.
 
-* [Accepted]
+* Accepted
 * Recommended citation: 
 Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)*, 2020 (Accepted)
