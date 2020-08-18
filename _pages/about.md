@@ -39,7 +39,11 @@ Related Projects
 [<img width="330" height="190"  src="./figures/logo-fselect.png">](/portfolio/5fselect) [<img width="320" height="190"  src="./figures/logo-pd.png">](/portfolio/6pd)
 
 
-
+Contact Me
+======
+* E-mail:  <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">Xiaoyang.Rebecca.Li@gmail.com</a>
+* LinkedIn: [www.linkedin.com/in/xiaoyang-rebecca-li](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US) 
+* Time Zone: CST
 <!-- 
 
 Presentations 
