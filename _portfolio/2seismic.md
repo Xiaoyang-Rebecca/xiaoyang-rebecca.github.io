@@ -1,6 +1,6 @@
 ---
 title: "Compressive Image Recovery "
-excerpt: "Low-cost and high-efficient seismic image recovery and optimal sampling tecommendation <br/><img src='/figures/logo-Seismic.png' width='400'>"
+excerpt: "Low-cost and high-efficient seismic image recovery and optimal sampling tecommendation <br/><img src='/figures/logo-seismic.png' width='400'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 Seismic image acquisition can be costly and time consuming. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results demonstrated a runtime approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
 
-<p align="center"><img src="/figures/Seismic_Compression.png" width="550" class="inline"/></p>
+<p align="center"><img src="/figures/Seismic_Compression.png" width="700" class="inline"/></p>
 
 - Mentors:  [Dr.Nikolaos Mitsakos](https://www.linkedin.com/in/nikolaos-mitsakos-phd-8029a965/), [Dr.Ping Lu](https://www.linkedin.com/in/ping-lu-computer-vision/)
 - Poster: [[NIPS 2019 Workshop]](https://openreview.net/forum?id=Hyleh7hqUH) 

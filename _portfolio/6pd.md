@@ -6,7 +6,7 @@ collection: portfolio
 
 We used reinforcement learning to design a route for the deliveryman to send all of the blocks to their respective drop-off cells by using the least number of steps. A primary Q learning method was deployed. We also designed a visualization module to display the Q values in real-time.
 
-<p align="center"><img src="/figures/pd.gif"  width="550" class="inline"/></p>
+<p align="center"><img src="/figures/pd.gif"  width="700" class="inline"/></p>
 
 - Collaborators: [Priyal Kulkarni
 ](https://www.linkedin.com/in/priyal-kulkarni-1205/),[Sarthak Sharma](https://www.linkedin.com/in/sarthak-sharma-uh/)
