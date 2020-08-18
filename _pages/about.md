@@ -30,7 +30,7 @@ schedule a quick chat</a> with me!
 Professional Projects 
 ======
 
-[<img src="/figures/logo-seg.png"  width="250" />](/portfolio/1seg)
+[<img src="/figures/logo-seg.jpg"  width="250" />](/portfolio/1seg)
 [<img src="./figures/logo-seismic.png" width="250" />](/portfolio/2seismic)
 [<img src="./figures/logo-nei.png" width="250" />](/portfolio/7nei)
 
