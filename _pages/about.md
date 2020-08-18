@@ -41,9 +41,9 @@ Related Projects
 
 Contact 
 ======
-* E-mail:  <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">Xiaoyang.Rebecca.Li@gmail.com</a>
-* LinkedIn: [www.linkedin.com/in/xiaoyang-rebecca-li](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US) 
-* Time Zone: CST
+- E-mail:  <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">Xiaoyang.Rebecca.Li@gmail.com</a>
+- LinkedIn: [www.linkedin.com/in/xiaoyang-rebecca-li](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US) 
+- Time Zone: CST (UTC−05:00)
   
   
 <!-- 
