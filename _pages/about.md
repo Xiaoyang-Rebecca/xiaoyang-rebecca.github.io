@@ -37,8 +37,12 @@ Professional Projects
 
 Related Projects
 ======
-[<img width="250" src="./figures/logo-fselect.png">](/portfolio/5fselect)[<img width="250" src="./figures/logo-align.png">](/portfolio/8align) [<img width="250" src="./figures/logo-pd.png">](/portfolio/6pd)
-[<img width="250" src="./figures/logo-eraser.png">](/portfolio/3deepearaser) [<img width="250" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)[<img width="250" src="./figures/logo-denoise.png">](/portfolio/9denoise)
+[<img width="250" src="./figures/logo-fselect.png">](/portfolio/5fselect)
+[<img width="250" src="./figures/logo-align.png">](/portfolio/8align)
+[<img width="250" src="./figures/logo-pd.png">](/portfolio/6pd)
+[<img width="250" src="./figures/logo-eraser.png">](/portfolio/3deepearaser)
+[<img width="250" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)
+[<img width="250" src="./figures/logo-denoise.png">](/portfolio/9denoise)
 
 Contact 
 ======
