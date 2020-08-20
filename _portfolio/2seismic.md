@@ -11,7 +11,7 @@ Seismic image acquisition can be costly and time consuming. We adopted an approp
 
 <p align="center"><img src="/figures/Seismic_Compression.png" width="700" class="inline"/></p>
 
-**Keywords**: Compressive sensing, Seismic image, Non-uniform sampling, WGANs, Pixel Inpainting
+**Keywords**: Compressive Sensing, Seismic, Non-uniform Sampling, WGANs, Inpainting
 
 - Summer Intern Project at Anadarko 
 - Mentors:  [Dr.Nikolaos Mitsakos](https://www.linkedin.com/in/nikolaos-mitsakos-phd-8029a965/), [Dr.Ping Lu](https://www.linkedin.com/in/ping-lu-computer-vision/)
