@@ -9,7 +9,7 @@ This case study revealed the influence of 4 common feature reduction methods (PC
 
 <p align="center"><img src="/figures/fselection.png"  width="700" class="inline"/></p>
 
-**Keywords**: feature reduction, classification, PCA, LDA,kernels, SVM, ML, KNN, GMM, high dimension
+**Keywords**: Feature reduction, Classification, PCA, LDA, Kernels, SVM, ML, KNN, GMM, High Dimension
 
 - Course Project of "Digital Pattern Recognition" 
 - Instructor: [Dr. Saurabh Prasad](https://hyperspectral.ee.uh.edu/)

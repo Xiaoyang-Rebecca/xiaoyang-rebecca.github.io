@@ -9,7 +9,7 @@ Image registration is to align a pair of misaligned images together. Traditional
 
 <p align="center"><img src="/figures/align.png"  width="550" class="inline"/></p>
 
-**Keywords**: image registration, tile, parallel programming, multiprocessing,keypoint extraction
+**Keywords**: Image registration, Tile, Parallel Programming, Multiprocessing, Keypoint Extraction
 
 - Summer Internship Project at NINDS,Nation Institute of Health
 - Advisors: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam), [Dr.Dragan Maric](https://neuroscience.nih.gov/ninds/Faculty/Profile/dragan-maric.aspx)

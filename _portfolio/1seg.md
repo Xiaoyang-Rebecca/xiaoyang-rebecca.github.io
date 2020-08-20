@@ -10,14 +10,13 @@ We innovatively proposed an efficient unsupervised learning framework to robustl
 
 <p align="center"><img src="/figures/Seg.png" width="550" class="inline"/></p>
 
-**Keywords**: noisy label, MRCNN, instant segmentation, nuclei segmentation, crowded object
+**Keywords**: Noisy label, MRCNN, Instant Segmentation, Nuclei segmentation, Crowded Object
 
 - PhD. research project
 - Advisors: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam), [Dr.Hien Nguyen](https://www.hvnguyen.com/)
 - Poster: [[Grace Hopper Celebration 2020 ]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label)
 - Code: [[Python]](https://github.com/RoysamLab/whole_brain_analysis) (Keras), partically released
 
-[![Python](Keras)](https://github.com/RoysamLab/whole_brain_analysis)
 
 ---
  **X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 
