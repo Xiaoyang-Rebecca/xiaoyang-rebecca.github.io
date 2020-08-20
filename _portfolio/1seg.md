@@ -17,6 +17,7 @@ We innovatively proposed an efficient unsupervised learning framework to robustl
 - Poster: [[Grace Hopper Celebration 2020 ]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label)
 - Code: [[Python]](https://github.com/RoysamLab/whole_brain_analysis) (Keras), partically released
 
+[![Python](Keras)](https://github.com/RoysamLab/whole_brain_analysis)
 
 ---
  **X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 
