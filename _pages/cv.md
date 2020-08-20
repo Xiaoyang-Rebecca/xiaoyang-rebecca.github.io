@@ -27,12 +27,12 @@ Work Experience
 
 * Summer 2017: Pre-doc Fellow
   * NINDS, National Institute of Health (Bethesda,MD)
-  * Project: Estabish " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
+  * Project: " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
   * Supervisor: Professor Dragan Maric
 
 * Summer 2018: Deep Learning Engineer Intern
   * Ambarella Corporation (San Jose, CA)   
-  * Project: Proposed a "Cross-platform Solutions for Self-driving Car Chip Simulation"
+  * Project: "Cross-platform Solutions for Self-driving Car Chip Simulation"
 
 
 * Summer 2019: Deep Learning Engineer Intern

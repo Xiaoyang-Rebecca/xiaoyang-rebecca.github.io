@@ -8,8 +8,11 @@ collection: portfolio
 
 Seismic image acquisition can be costly and time consuming. We adopted an appropriately designed Wasserstein generative adversarial network on compressed seismic image recovery. We first trained a pixel inpainting network on several historical surveys, and then propose a non-uniform sampling recommendation based on the evaluation of reconstructed seismic images and metrics. Our results demonstrated a runtime approximately 300 times faster than the conventional method, and better seismic reconstruction accuracy than the original GAN network.
 
+keywords: compressive sensing, seismic image, non-uniform sampling, optimal sampling,  WGAN,inpainting
+
 <p align="center"><img src="/figures/Seismic_Compression.png" width="700" class="inline"/></p>
 
+- Summer Intern Project at Anadarko 
 - Mentors:  [Dr.Nikolaos Mitsakos](https://www.linkedin.com/in/nikolaos-mitsakos-phd-8029a965/), [Dr.Ping Lu](https://www.linkedin.com/in/ping-lu-computer-vision/)
 - Poster: [[NIPS 2019 Workshop]](https://openreview.net/forum?id=Hyleh7hqUH) 
 - Paper: [[The leading Edge Jornal]](https://www.researchgate.net/publication/337686701_Seismic_compressive_sensing_by_generative_inpainting_network_Toward_an_optimized_acquisition_survey) 
