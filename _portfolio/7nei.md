@@ -15,9 +15,10 @@ We implemented feature selection on intercellular neighborhood analysis by using
 - Produced stable and efficient feature selection results
 
 
-Keywords: LASSO, sparse tree LASSO, hierarchical feature, feature selection, neighborhood analysis
 
 <p align="center"><img src="/figures/nei.png"  width="700" class="inline"/></p>
+
+**Keywords**: LASSO, sparse tree LASSO, hierarchical feature, feature selection, neighborhood analysis
 
 - Phd Research Project
 - Advisor: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)

@@ -5,7 +5,6 @@ collection: portfolio
 ---
 
 
-
 I designed an object-oriented “eraser” for images and videos, which is able to remove the pixels with designated types. MRCNN is used to detect the pixels of a specific type, and then WGAN is used to remove the detected pixels and restore the background.
 
 - Demo for Image
@@ -15,6 +14,7 @@ I designed an object-oriented “eraser” for images and videos, which is able 
 <p align="center">
 <img src="/figures/clip1_borded.gif" width="250" class="inline"/>
 <img src="/figures/clip1_erased.gif" width="250" class="inline"/></p>
+
 
 - Side Project
 - Code: [[Python]](https://github.com/Xiaoyang-Rebecca/DeepEraser)(Keras)
