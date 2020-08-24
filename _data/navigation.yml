@@ -6,8 +6,8 @@ main:
   - title: "Presentations"
     url: /presentations/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Fun Facts"
+    url: /funfacts/    
     
   # - title: "Portfolio"
   #   url: /about.md#Portfolio
