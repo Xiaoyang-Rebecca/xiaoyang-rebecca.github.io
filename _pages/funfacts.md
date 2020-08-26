@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
 ---
 
-![test image size](/figures/Funfacts.png)
+![test image size](/figures/Funfacts-detected.png)
