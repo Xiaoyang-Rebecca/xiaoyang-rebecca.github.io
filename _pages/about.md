@@ -22,8 +22,7 @@ redirect_from:
 ###  &nbsp; -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-graduate Ph.D. Candiate with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have published papers in the top-tier AI conferences (NIPS, MICCAI) and Journals. My research interests cover Image Segmentation, Object Detection/Classification, and Compressive Sensing, mostly involving CNN and GANs. I also have a strong passion for real-world problems and high communication skills.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">
-schedule a quick chat</a> with me!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
 
 <!-- # Portfolio -->
 
