@@ -20,9 +20,9 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ Resume/CV ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing) \|
 
 ###  &nbsp; -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-graduate Ph.D. Candiate with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have published papers in the top-tier AI conferences (NIPS, MICCAI) and Journals (Nature Commu.). I also have a strong passion for real-world problems and high communication skills.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-graduate Ph.D. Candiate with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have establsihed a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.). My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I also have a strong passion for real-world problems and high communication skills.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My research interests: Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
+Research interests: Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
 
@@ -50,7 +50,9 @@ Contact
 - E-mail:  <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">Xiaoyang.Rebecca.Li@gmail.com</a>
 - LinkedIn: [www.linkedin.com/in/xiaoyang-rebecca-li](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US) 
 - Time Zone: CST (UTC−05:00)
-- Avalibility: [15-min quick chat](https://calendly.com/s/o5uKjHE9)
+- Avalibility: [Schedule a quick chat](https://calendly.com/s/o5uKjHE9)
+
+
 <!-- - 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxiaoyang-rebecca.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](Xiaoyang.Rebecca.Li@gmail.com)
    -->
