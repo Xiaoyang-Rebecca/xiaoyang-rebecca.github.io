@@ -11,12 +11,16 @@ Image registration is to align a pair of misaligned images together. Traditional
 
 **Keywords**: Image Registration, Tile, Parallel Programming, Multiprocessing, Keypoint Extraction
 
-- Summer Internship Project at NINDS,Nation Institute of Health
+- Summer Internship Project at NINDS, Nation Institute of Health
+- Contributed to the whole brain image analysis probject published in Nature Communication
 - Advisors: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam), [Dr.Dragan Maric](https://neuroscience.nih.gov/ninds/Faculty/Profile/dragan-maric.aspx)
 
-- Code: [[C++/matlab]]("https://github.com/Xiaoyang-Rebecca/Artificial-intelligent")
+- Code: [[Python]]("https://github.com/RoysamLab/whole_brain_analysis/blob/master/RECONSTRUCTION/registration.py")
 
 
 
 ---
+
+* Maric. D. Jahanipour.J,  **Li, X.R.**, et al. (2020). Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks, Nature Communications (Accepted)
+
 <!-- << [Back](../) -->

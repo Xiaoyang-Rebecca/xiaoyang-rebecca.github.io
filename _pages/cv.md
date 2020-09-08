@@ -80,7 +80,7 @@ Reviewers
 
 Publications
 ======
--	Maric. D. Jahanipour.J,  **Li,X.,**, et al. (2020). Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks, Nature Communications (Final Review)
+-	Maric. D. Jahanipour.J,  **Li,X.,**, et al. (2020). Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks, Nature Communications (accepted)
 -	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)*, 2020 (Accepted)
 - **Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* (2019). 
 -	**Li, X. R.**, Mitsakos, N., Lu, P., Xiao, Y., & Zhao, X. (2019). Seismic compressive sensing by generative inpainting network: Toward an optimized acquisition survey. *The Leading Edge*, 38(12), 923-933.
