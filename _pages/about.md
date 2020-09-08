@@ -50,7 +50,7 @@ Contact
 - E-mail:  <a href = "mailto:Xiaoyang.Rebecca.Li@gmail.com?subject = Feedback&body = ScheduleMeeting">Xiaoyang.Rebecca.Li@gmail.com</a>
 - LinkedIn: [www.linkedin.com/in/xiaoyang-rebecca-li](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US) 
 - Time Zone: CST (UTC−05:00)
-- Avalibility: [Schedule a quick chat](https://calendly.com/s/o5uKjHE9)
+- Availability: [Schedule a quick chat](https://calendly.com/s/o5uKjHE9)
 
 
 <!-- - 
