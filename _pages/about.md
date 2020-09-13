@@ -20,9 +20,9 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ Resume/CV ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing) \|
 
 ###  &nbsp; -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-graduate Ph.D. Candiate with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have establsihed a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.). My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I also have a strong passion for real-world problems and high communication skills.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li, a soon-to-graduate Ph.D. Candidate with 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. I have established a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.). My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I also have a strong passion for real-world problems and high communication skills.
 
-Research interests: Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research interests: Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
 
