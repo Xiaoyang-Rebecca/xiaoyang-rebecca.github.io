@@ -23,7 +23,7 @@ We implemented feature selection on intercellular neighborhood analysis by using
 - Phd Research Project
 - Advisor: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam)
 - Report: [[Preprint]](https://www.researchgate.net/publication/343725806_Investigate_the_Impact_of_Traumatic_Brain_Injury_TBI_on_glia_neighborhoods_of_neuron)
-- Code: [[Python/matlab]]("https://github.com/Xiaoyang-Rebecca/NeighborhoodAnalysis/tree/master/codes")
+- Code: [[Python/matlab]]("https://github.com/Xiaoyang-Rebecca/NeighborhoodAnalysis")
 
 
 
