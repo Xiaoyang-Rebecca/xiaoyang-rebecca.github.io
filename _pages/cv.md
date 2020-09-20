@@ -80,11 +80,11 @@ Reviewers
 
 Publications
 ======
--	Maric,D., Jahanipour,J.,  **Li,X.R.**, Singh,A., Mobiny,A., Nguyen,H.V., Sedlock,A., Grama,K., Roysam,B. (2020). Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks, *Nature Communications* (accepted)
--	Yuan, Pengyu, Aryan Mobiny, Jahandar Jahanipour, **Xiaoyang Li**, Pietro Antonio Cicalese, Badrinath Roysam, Vishal Patel, Maric Dragan, and Hien Van Nguyen. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)*, 2020 (Accepted)
-- **Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* (2019). 
+-	Maric,D., Jahanipour,J.,  **Li,X.R.**, Singh,A., Mobiny,A., Nguyen,H.V., Sedlock,A., Grama,K., Roysam,B. (2020). "Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks", *Nature Communications* (accepted)
+-	Yuan Pengyu, Aryan Mobiny, Jahandar Jahanipour, **Xiaoyang Li**, Pietro Antonio Cicalese, Badrinath Roysam, Vishal Patel, Maric Dragan, and Hien Van Nguyen.(2020) "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)* (Accepted)
+- **Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X.,(2019) Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* . 
 -	**Li, X. R.**, Mitsakos, N., Lu, P., Xiao, Y., & Zhao, X. (2019). Seismic compressive sensing by generative inpainting network: Toward an optimized acquisition survey. *The Leading Edge*, 38(12), 923-933.
--	Yuan, P., Rezvan, A., **Li, X.**, Varadarajan, N. and Van Nguyen, H., 2019. Phasetime: Deep Learning Approach to Detect Nuclei in Time Lapse Phase Images. *Journal of clinical medicine*, 8(8), p.1159.
--	Zhao X, Lu P, Zhang Y, Chen J, **Li X**. Swell-noise attenuation: A deep learning approach. *The Leading Edge*. 2019 Dec;38(12):934-42. 
+-	Yuan, P., Rezvan, A., **Li, X.**, Varadarajan, N. and Van Nguyen, H., (2019). Phasetime: Deep Learning Approach to Detect Nuclei in Time Lapse Phase Images. *Journal of clinical medicine*, 8(8), p.1159.
+-	Zhao X, Lu P, Zhang Y, Chen J, **Li X**. Swell-noise attenuation: A deep learning approach. *The Leading Edge*. (2019) Dec;38(12):934-42. 
 -	Zhao, X., Lu, P., Zhang, Y., Chen, J., & **Li, X**. (2019). Attenuating Random Noise in Seismic Data by a Deep Learning Approach. *arXiv preprint* arXiv:1910.12800.
 -	**Li Xiaoyang,** “A Simplified Normalization Operation for Perfect Reconstruction from a Modified STFT”, *In Pros, IEEE 12th International Conference on Signal Processing (ICSP)* , 2014, P42-45
