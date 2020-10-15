@@ -27,5 +27,4 @@ author_profile: true
 # Panelist
 
 - Y. Xu, A. Crivello, J. Silve, N. Panchal, **X, Li**, Y. Yu, Panelist, "Deeplearning.ai Pie & AI: Houston - Build a career in Data Science", Houston Machine Learning Meetup,2020 [[Detail]](https://www.meetup.com/Houston-Machine-Learning/events/267287657/)
-
-- **X, Li**, Panelist, Graduate Student Panel, IEEE-University of Houston 3rd General meeting ,2018
+- **X, Li**, et al. Panelist, Graduate Student Panel, IEEE-University of Houston 3rd General meeting ,2018
