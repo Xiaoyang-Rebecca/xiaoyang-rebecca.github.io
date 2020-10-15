@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## [ View in PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
+# [ View in PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
 
 {% include base_path %}
 
@@ -25,20 +25,19 @@ Work Experience
   * Thesis: “Large Scale Nucleus Segmentation and Neighborhood Analysis on Rat Brain Images”
   * Supervisor: Professor Badri Roysam
 
-* Summer 2017: Pre-doc Fellow
-  * NINDS, National Institute of Health (Bethesda,MD)
-  * Project: " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
-  * Supervisor: Professor Dragan Maric
+* Summer 2019: Deep Learning Engineer Intern
+  * Anadarko Petroleum (the Woodlands, TX)
+  * Project: "Seismic Image Recovery and Optimal Sampling Recommendation"                                                  
+  * Mentors: Dr.Nikolaos Mitsakos, Dr.Ping Lu
 
 * Summer 2018: Deep Learning Engineer Intern
   * Ambarella Corporation (San Jose, CA)   
   * Project: "Cross-platform Solutions for Self-driving Car Chip Simulation"
 
-
-* Summer 2019: Deep Learning Engineer Intern
-  * Anadarko Petroleum (the Woodlands, TX)
-  * Project: "Seismic Image Recovery and Optimal Sampling Recommendation"                                                  
-  * Supervisors: Dr.Nikolaos Mitsakos, Dr.Ping Lu
+* Summer 2017: Pre-doc Fellow
+  * NINDS, National Institute of Health (Bethesda,MD)
+  * Project: " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
+  * Supervisor: Dr. Dragan Maric
 
 Skills & Languages
 ======
