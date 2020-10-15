@@ -14,7 +14,8 @@ We innovatively proposed an efficient unsupervised learning framework to robustl
 
 - PhD. research project
 - Advisors: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam), [Dr.Hien Nguyen](https://www.hvnguyen.com/)
-- Poster: [[Grace Hopper Celebration 2020 ]](https://web.cvent.com/event/84f26b13-25ef-458c-9d38-38432d71be09/websitePage:9cc60448-622d-4910-b9b7-91f053c51589)
+- Abstract: [Paper](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label)
+- Poster: (figures/thumb_poster.png)
 - Code: [[Python]](https://github.com/RoysamLab/whole_brain_analysis) (Keras), partically released
 
 
