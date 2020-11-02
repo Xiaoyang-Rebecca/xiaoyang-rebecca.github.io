@@ -24,7 +24,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research interests: Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As my PhD comes to a close, I am currently exploring new opportunites. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
 
 <!-- # Portfolio -->
 
