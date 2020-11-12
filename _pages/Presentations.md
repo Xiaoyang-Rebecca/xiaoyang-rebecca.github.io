@@ -26,6 +26,6 @@ author_profile: true
 
 # Panel Discussions
 
+- Rahul Goel, Justin Brantley, Pinyi Yang, **Rebecca Li**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, 2020 [[Agenda]](https://events.vtools.ieee.org/m/247865)
 - Y. Xu, A. Crivello, J. Silve, N. Panchal, **X, Li**, Y. Yu, Panelist, "Deeplearning.ai Pie & AI: Houston - Build a career in Data Science", Deeplearning.ai & Houston Machine Learning Meetup, 2020 [[Detail]](https://www.meetup.com/Houston-Machine-Learning/events/267287657/)
 - **X, Li**, et al. Panelist, Graduate Student Panel, IEEE-University of Houston 3rd General meeting ,2018
-- Rahul Goel, Justin Brantley, Pinyi Yang, **Rebecca Li**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, 2020 [[Agenda]](https://events.vtools.ieee.org/m/247865)
