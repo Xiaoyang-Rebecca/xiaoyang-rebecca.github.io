@@ -49,7 +49,8 @@ Recent Activities
 ======
 - **9/29/20 - 10/3/20**, Grace Hopper Conference (vGHC) 2020, Poster Speaker
 - **10/4/2020 - 10/8/2020**, The Medical Image Computing and Computer Assisted Intervention Society(MICCAI) 2020, Author
-- **11/18/2020**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist [[Agenda]](https://events.vtools.ieee.org/m/247865)
+- **11/18/2020**, [["What Next after Ph.D.?"]](https://events.vtools.ieee.org/m/247865), IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist
+
 <!-- - 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxiaoyang-rebecca.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](Xiaoyang.Rebecca.Li@gmail.com)
    -->
