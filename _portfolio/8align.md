@@ -1,5 +1,5 @@
 ---
-title: "Large Scale Image Registration acceleration"
+title: "Large Scale Image Registration"
 #excerpt: "Accelerated large-scale image alignment by 10× with uniform keypoint control and multiprocessing>"
 collection: portfolio
 ---
