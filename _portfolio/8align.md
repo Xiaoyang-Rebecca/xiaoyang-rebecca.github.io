@@ -11,13 +11,10 @@ Image registration is to align a pair of misaligned images together. Traditional
 
 **Keywords**: Image Registration, Tile, Parallel Programming, Multiprocessing, Keypoint Extraction
 
-- Summer Internship Project at NINDS, Nation Institute of Health
+- Collaborated with NINDS, Nation Institute of Health
 - Contributed to the whole brain image analysis probject published in Nature Communication
-- Advisors: [Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam), [Dr.Dragan Maric](https://neuroscience.nih.gov/ninds/Faculty/Profile/dragan-maric.aspx)
-
+- Advisors: [Dr.Dragan Maric](https://neuroscience.nih.gov/ninds/Faculty/Profile/dragan-maric.aspx),[Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam) 
 - Code: [[Python]](https://github.com/RoysamLab/whole_brain_analysis/blob/master/RECONSTRUCTION/registration.py)
-
-
 
 ---
 
