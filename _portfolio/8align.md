@@ -13,7 +13,7 @@ Image registration is to align a pair of misaligned images together. Traditional
 
 - Collaborated with NINDS, Nation Institute of Health
 - Contributed to the whole brain image analysis probject published in Nature Communication
-- Advisors: [Dr.Dragan Maric](https://neuroscience.nih.gov/ninds/Faculty/Profile/dragan-maric.aspx),[Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam) 
+- Advisors: [Dr.Dragan Maric](https://dir.ninds.nih.gov/ninds/Faculty/Profile/dragan-maric.html),[Dr.Badri Roysam](http://www.ee.uh.edu/faculty/roysam) 
 - Code: [[Python]](https://github.com/RoysamLab/whole_brain_analysis/blob/master/RECONSTRUCTION/registration.py)
 
 ---
