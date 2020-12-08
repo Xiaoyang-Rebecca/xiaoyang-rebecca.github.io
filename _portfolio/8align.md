@@ -1,6 +1,7 @@
 ---
 title: "Large Scale Image Registration"
-#excerpt: "Accelerated large-scale image alignment by 10× with uniform keypoint control and multiprocessing>"
+excerpt: "Accelerated large-scale image alignment by 10× with uniform keypoint control and multiprocessing <br/><img src='/figures/logo-align.png' width='400'>"
+
 collection: portfolio
 ---
 
