@@ -1,6 +1,6 @@
 ---
 title: "Compressive Image Recovery "
-excerpt: "Low-cost and high-efficient seismic image recovery and optimal sampling tecommendation <br/><img src='/figures/logo-seismic.png' width='400'>"
+excerpt: "Low-cost and high-efficient seismic image recovery and optimal sampling recommendation <br/><img src='/figures/logo-Seismic.png' width='400'>"
 collection: portfolio
 ---
 
