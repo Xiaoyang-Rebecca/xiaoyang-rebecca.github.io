@@ -1,6 +1,7 @@
 ---
 title: "Hierarchical Spatial Pattern Analysis on Neuronal Neighborhood"
-excerpt: ""
+excerpt: "A robust method to detect & profile injury-caused  alterations to brain tissue at the multi-cellular scale <br/><img src='/figures/logo-nei.png' width='400'>"
+
 collection: portfolio
 ---
 
