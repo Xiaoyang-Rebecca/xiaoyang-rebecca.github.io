@@ -7,8 +7,8 @@ main:
     url: /presentations/    
 
     
-  # - title: "Portfolio"
-  #   url: /about.md#Portfolio
+  - title: "Portfolio"
+    url: /about.md#Portfolio
         
   # - title: "Blog Posts"
   #   url: /year-archive/
