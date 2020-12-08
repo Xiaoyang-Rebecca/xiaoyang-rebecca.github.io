@@ -28,6 +28,15 @@ redirect_from:
 
 <!-- # Portfolio -->
 
+Recent Activities
+======
+- **12/4/2020**, Phd Thesis Defense: “Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images , [Video](https://www.youtube.com/watch?v=ECe_hakE6w8)
+- **11/18/2020**, ["What Next after Ph.D.?"](https://events.vtools.ieee.org/m/247865), IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist
+- **10/4/2020 - 10/8/2020**, The Medical Image Computing and Computer Assisted Intervention Society(MICCAI) 2020, Author
+- **9/29/20 - 10/3/20**, Grace Hopper Conference (vGHC) 2020, Poster Speaker
+
+<!-- - 
+   
 Professional Projects 
 ======
 
@@ -45,17 +54,7 @@ Related Projects
 [<img width="250" src="./figures/logo-translator.png">](/portfolio/4pixeltranslator)
 [<img width="250" src="./figures/logo-denoise.png">](/portfolio/9denoise)
 
-Recent Activities
-======
-- **9/29/20 - 10/3/20**, Grace Hopper Conference (vGHC) 2020, Poster Speaker
-- **10/4/2020 - 10/8/2020**, The Medical Image Computing and Computer Assisted Intervention Society(MICCAI) 2020, Author
-- **11/18/2020**, ["What Next after Ph.D.?"](https://events.vtools.ieee.org/m/247865), IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist
-
-<!-- - 
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxiaoyang-rebecca.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](Xiaoyang.Rebecca.Li@gmail.com)
-   -->
 <!-- 
-
 Presentations 
 ======
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, *Grace Hopper Celebration*, General Poster, 2020. [[Poster]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label")
@@ -77,4 +76,6 @@ Publications
 -	[Yuan, P., Rezvan, A., **Li, X.**, Varadarajan, N. and Van Nguyen, H., 2019. Phasetime: Deep Learning Approach to Detect Nuclei in Time Lapse Phase Images. *Journal of clinical medicine*, 8(8), p.1159.](https://www.ncbi.nlm.nih.gov/pubmed/31382487)
 -	[Zhao X, Lu P, Zhang Y, Chen J, **Li X**. Swell-noise attenuation: A deep learning approach. *The Leading Edge*. 2019 Dec;38(12):934-42. ](https://library.seg.org/doi/full/10.1190/tle38120934.1)
 -	[Zhao, X., Lu, P., Zhang, Y., Chen, J., & **Li, X**. (2019). Attenuating Random Noise in Seismic Data by a Deep Learning Approach. *arXiv preprint* arXiv:1910.12800.](https://arxiv.org/abs/1910.12800)
--	[**Li Xiaoyang,** “A Simplified Normalization Operation for Perfect Reconstruction from a Modified STFT”, *In Pros, IEEE 12th International Conference on Signal Processing (ICSP)* , 2014, P42-45](https://ieeexplore.ieee.org/document/7014966) -->
+-	[**Li Xiaoyang,** “A Simplified Normalization Operation for Perfect Reconstruction from a Modified STFT”, *In Pros, IEEE 12th International Conference on Signal Processing (ICSP)* , 2014, P42-45](https://ieeexplore.ieee.org/document/7014966) 
+
+-->
