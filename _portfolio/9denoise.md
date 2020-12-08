@@ -1,6 +1,7 @@
 ---
 title: "Multiplex Channels Denoising and Deblurring by Wavelet Transform"
-excerpt: "Use reinforcement learning to design a route for delivery man <br/><img src='/figures/logo-pd.png' width='400'>"
+excerpt: "Wavelet analysis for recovering useful information from damages with as noise and blurs <br/><img src='/figures/logo-denoise.png' width='400'>"
+
 collection: portfolio
 ---
 
