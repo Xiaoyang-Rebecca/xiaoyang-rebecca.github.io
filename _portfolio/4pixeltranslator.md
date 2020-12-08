@@ -1,6 +1,6 @@
 ---
 title: "Pixel Translator"
-excerpt: "Convert gray images of border/vein to RGB leaf images <br/><img src='/figures/logo-translator.png' width='400'>"
+excerpt: "Convert gray images of border/vein to RGB leaf images using cGAN<br/><img src='/figures/logo-translator.png' width='400'>("/portfolio/1seg/)"
 collection: portfolio
 ---
 
