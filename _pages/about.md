@@ -30,7 +30,7 @@ redirect_from:
 
 Recent Activities
 ======
-- **12/4/2020**, Phd Thesis Defense: “Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images , [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8)
+- **12/4/2020**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images" [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
 - **11/18/2020**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist [[Agenda]](https://events.vtools.ieee.org/m/247865)[[Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)]
 - **10/4/2020 - 10/8/2020**, The Medical Image Computing and Computer Assisted Intervention Society(MICCAI) 2020, Author
 - **9/29/20 - 10/3/20**, Grace Hopper Conference (vGHC) 2020, Poster Speaker
