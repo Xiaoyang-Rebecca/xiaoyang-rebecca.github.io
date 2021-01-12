@@ -80,7 +80,7 @@ Reviewers
 Publications
 ======
 -	Maric,D., Jahanipour,J.,  **Li,X.R.**, Singh,A., Mobiny,A., Nguyen,H.V., Sedlock,A., Grama,K., Roysam,B. (2020). "Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks", *Nature Communications* (Accepted)
--	Yuan,P., Mobiny,A., Jahanipour,J., **Li,X.R.**, Cicalese,P.A., Roysam,B., Patel,V., Maric,D., and Nguyen,H.V.(2020) "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)* (Accepted)
+- Yuan, P., Mobiny, A., Jahanipour, J., **Li, X.**, Cicalese, P. A., Roysam, B., ... & Van Nguyen, H. (2020, October). Few Is Enough: Task-Augmented Active Meta-learning for Brain Cell Classification. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 367-377). Springer, Cham.
 - **Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X.,(2019) Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* . 
 -	**Li, X. R.**, Mitsakos, N., Lu, P., Xiao, Y., & Zhao, X. (2019). Seismic compressive sensing by generative inpainting network: Toward an optimized acquisition survey. *The Leading Edge*, 38(12), 923-933.
 -	Yuan, P., Rezvan, A., **Li, X.**, Varadarajan, N. and Van Nguyen, H., (2019). Phasetime: Deep Learning Approach to Detect Nuclei in Time Lapse Phase Images. *Journal of clinical medicine*, 8(8), p.1159.
