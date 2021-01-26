@@ -45,15 +45,7 @@ Skills & Languages
 * AI Framwroks:  Keras, Tensorflow, Pytorch, Caffe, ONNX  
 *	Cloud Service:   HPC, Docker,  AWS, Colab
 * Languages:  English, Chinese(Mandarin)
-  
-  
-Presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-                                                                                
-
+                                   
 Courses
 ======
 * Enrolled: Deep learning and Machine learning, Digital Pattern Recognition, Neural Network, Stochastic Signal processing, Digital Signal Processing, Nonlinear Optimization, Project Management, Businesses Analyst.
