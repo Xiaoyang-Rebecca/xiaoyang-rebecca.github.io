@@ -22,9 +22,9 @@ redirect_from:
 ###  &nbsp; -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li (pronounced as/’Sheow Young'/), a fresh Research Engineer at Adobe Research. I have received my Ph.D.of image processing and data science from Dr. Badri Roysam's bio-image and data analysis lab at University of Houston. I have 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. And I also have established a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.). My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have a strong passion for real-world problems and high communication skills.
 
-**Research interests:** Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me!
+**Research interests:** Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
 <!-- # Portfolio -->
 
