@@ -74,7 +74,6 @@ Reviewers
 
 Publications
 ======
-<!-- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5001-1427" href="https://orcid.org/0000-0001-5001-1427" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">   ORCID:  0000-0001-5001-1427</a></div> -->
 
 -	Maric,D., Jahanipour,J.,  **Li,X.R.**, Singh,A., Mobiny,A., Nguyen,H.V., Sedlock,A., Grama,K., Roysam,B. (2020). "Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Using Highly Multiplexed Immunofluorescence Imaging, Computational Reconstruction, and Deep Neural Networks", *Nature Communications* (Accepted)
 - Yuan, P., Mobiny, A., Jahanipour, J., **Li, X.**, Cicalese, P. A., Roysam, B., ... & Van Nguyen, H. (2020, October). Few Is Enough: Task-Augmented Active Meta-learning for Brain Cell Classification. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 367-377). Springer, Cham.
