@@ -85,11 +85,12 @@ author:
   bio              : "Machine Learning Research Engineer"
   # location         : "Houston,TX"
   employer         : "Adobe Research"
-  pubmed           : "http://researchgate.net/profile/Xiaoyang_Li14"
+  #pubmed           : "http://researchgate.net/profile/Xiaoyang_Li14"
   googlescholar    : "https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1"
   email            : "Xiaoyang.Rebecca.li@gmail.com"
   github           : Xiaoyang-Rebecca
   linkedin         : xiaoyang-rebecca-li
+  orcid            : https://orcid.org/0000-0001-5001-1427
 
 
 
