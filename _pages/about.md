@@ -21,7 +21,7 @@ redirect_from:
 
 ###  &nbsp; -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li ( [<img src="./figures/audio.png"  width="5">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english) /'show young'/). I joined Adobe Research as a Research Engineer on Jan 2021. I recently completed my PhD from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of zero-human effort segmentation framework. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li ([<img src="./figures/audio.png"  width="15">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english)/'show young'/). I joined Adobe Research as a Research Engineer on Jan 2021. I recently completed my PhD from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of zero-human effort segmentation framework. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier Journals (Nature Communicatiions,etc.) AI conferences (NIPS, MICCAI, etc.) and Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
