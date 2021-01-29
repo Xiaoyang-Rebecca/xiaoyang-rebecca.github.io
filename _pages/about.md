@@ -20,11 +20,14 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ Resume/CV ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing) \|
 
 ###  &nbsp; -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li (pronounced as /'Sheow Young'/ ), a fresh Research Engineer at Adobe Research. I have received my Ph.D.of image processing and data science from Dr. Badri Roysam's bio-image and data analysis lab at University of Houston. I have 5 yrs of research and industrial experience in Deep Learning, Machine Learning, and Computer Vision. And I also have established a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.). My diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. I have a strong passion for real-world problems and high communication skills.
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li (pronounced as /'Show Young'/ ). I joined Adobe Research as a Research Engineer on Jan 2021 . I recently complated my PhD from Dr. Badri Roysam's bio-image and data analysis lab at the University of Houston on the development of zero-human effort nuclear segmentation. 
 
-**Research interests:** Image Segmentation, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.) on Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
+
+**Research interests:** Image Segmentation, Object Detection/Classification, Compressive Sensing,Pixel Impainting, CNN, GANs. 
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
 <!-- # Portfolio -->
 
