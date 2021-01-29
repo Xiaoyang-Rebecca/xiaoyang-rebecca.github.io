@@ -21,7 +21,7 @@ redirect_from:
 
 ###  &nbsp; -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li (pronounced as /'Show Young'/ ). I joined Adobe Research as a Research Engineer on Jan 2021 . I recently complated my PhD from Dr. Badri Roysam's bio-image and data analysis lab at the University of Houston on the development of zero-human effort nuclear segmentation. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li (pronounced as /'Show Young'/ ). I joined Adobe Research as a Research Engineer on Jan 2021 . I recently completed my PhD from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of zero-human effort segmentation framework. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier AI conferences (NIPS, MICCAI, etc.) and Journals (Nature Commu.,etc.) on Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
