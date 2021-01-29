@@ -25,7 +25,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier Journals (Nature Communicatiions,etc.) AI conferences (NIPS, MICCAI, etc.) and Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
-**Research interests:** Image Segmentation, Object Detection/Classification, Compressive Sensing,Pixel Impainting, CNN, GANs. 
+**Research interests:** Image Segmentation, Pixel Impainting, Object Detection/Classification, Compressive Sensing,CNN, GANs. 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
