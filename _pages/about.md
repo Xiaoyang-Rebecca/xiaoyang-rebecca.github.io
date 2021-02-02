@@ -21,11 +21,11 @@ redirect_from:
 
 ###  &nbsp; -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li ([<img src="./figures/audio.png"  width="17">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english) "show-young" ). I joined Adobe Research as a Research Engineer on Jan 2021. I recently completed my PhD from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of zero-human effort segmentation framework. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Xiaoyang Li ([<img src="./figures/audio.png"  width="17">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english) "show-young" ). I joined Adobe Research as a Research Engineer in Jan 2021. I recently completed my Ph.D. from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of a zero-human effort segmentation framework. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier Journals (Nature Communicatiions,etc.) AI conferences (NIPS, MICCAI, etc.) and Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier journals (Nature Communications, etc.)a and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
-**Research interests:** Image Segmentation, Pixel Impainting, Object Detection/Classification, Compressive Sensing,CNN, GANs. 
+**Research interests:** Image Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
