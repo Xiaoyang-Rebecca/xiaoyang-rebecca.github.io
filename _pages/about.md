@@ -36,9 +36,11 @@ redirect_from:
 
 Recent Activities
 ======
-:arrow_right:  **02/10/2021**, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter [[Agenda]](https://hkn.ece.uh.edu/events-archive/)[[Video]](https://drive.google.com/file/d/15YZMDwmlQrM-k86MV53K1f1v1-K_BMYl/view)
-:arrow_right:  **12/4/2020**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images" [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
-:arrow_right:  **11/18/2020**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist [[Agenda]](https://events.vtools.ieee.org/m/247865)[ [Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)
+:arrow_right: &nbsp;  **02/10/2021**, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter [[Agenda]](https://hkn.ece.uh.edu/events-archive/)[[Video]](https://drive.google.com/file/d/15YZMDwmlQrM-k86MV53K1f1v1-K_BMYl/view)
+
+:arrow_right: &nbsp; **12/4/2020**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images" [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
+
+:arrow_right: &nbsp; **11/18/2020**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist [[Agenda]](https://events.vtools.ieee.org/m/247865)[ [Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)
 
 <!-- - 
    
