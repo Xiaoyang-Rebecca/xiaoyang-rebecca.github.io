@@ -21,7 +21,7 @@ redirect_from:
 
 ###  &nbsp; -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li ( my Chinese name is Xiaoyang [<img src="./figures/audio.png"  width="17">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english), written as 李晓扬,  ). I recently joined Adobe Research as a [Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in Jan 2021. I completed my Ph.D. from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of a zero-human effort segmentation framework. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li ( my Chinese name is Xiaoyang [<img src="./figures/audio.png"  width="17">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english), written as 李晓扬). I recently joined Adobe Research as a [Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in Jan 2021. I completed my Ph.D. from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of a zero-human effort segmentation framework. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
