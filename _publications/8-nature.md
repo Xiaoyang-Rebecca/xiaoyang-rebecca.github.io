@@ -3,7 +3,7 @@ title: "Comprehensive Cell Phenotyping Method for Whole-Brain Tissue Mapping Usi
 collection: publications
 permalink: /publication/8-nature
 # excerpt: 'The preliminary results of compressive image recovery and non-uniform sampling recommendation'
-date: 2020-12-11
+date: 2021-03-10
 venue: 'Nature Communications'
 ---
 Our lab's complete pipleline for whole brain analysis, including my main thesis topic of nuclei cell segmenetation.
