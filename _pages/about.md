@@ -21,9 +21,9 @@ redirect_from:
 
 ###  &nbsp; -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li ( my Chinese name is 李晓扬 [<img src="./figures/audio.png"  width="17">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english) ). I recently joined Adobe Research as a Research Engineer in Jan 2021, after completing my Ph.D. from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of a zero-human effort segmentation framework. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li ( my Chinese name is Xiaoyang [<img src="./figures/audio.png"  width="17">], written as 李晓扬, (https://www.howtosay.co.in/pronounce/xiaoyang-in-english) ). I recently joined Adobe Research as a [Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in Jan 2021. I completed my Ph.D. from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of a zero-human effort segmentation framework. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
 **Research interests:** Image Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
@@ -33,10 +33,9 @@ redirect_from:
 
 Recent Activities
 ======
+
 - **12/4/2020**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images" [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
 - **11/18/2020**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist [[Agenda]](https://events.vtools.ieee.org/m/247865)[ [Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)
-- **10/4/2020 - 10/8/2020**, The Medical Image Computing and Computer Assisted Intervention Society(MICCAI) 2020, Author
-- **9/29/20 - 10/3/20**, Grace Hopper Conference (vGHC) 2020, Poster Speaker
 
 <!-- - 
    
