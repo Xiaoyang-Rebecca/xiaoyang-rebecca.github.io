@@ -19,7 +19,10 @@ Education
 
 Work Experience
 ======
-* 2015 - Now: Research Assistant
+* 2021 - now
+  * Adobe Research (San Fransico, CA)   
+
+* 2015 - 2020
   * University of Houston (Houston,TX)
   * Bio-image and Information Analysis Lab in Electrical and Computer Engineer Dept
   * Thesis: “Large Scale Nucleus Segmentation and Neighborhood Analysis on Rat Brain Images”
