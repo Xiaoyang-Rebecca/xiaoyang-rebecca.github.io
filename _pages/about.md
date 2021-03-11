@@ -27,7 +27,7 @@ redirect_from:
 
 **Research interests:** Image Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love sharing ideas and helping people. Feel free to connect me on [LinkedIN] (https://www.linkedin.com/in/xiaoyang-rebecca-li/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love sharing ideas and helping people. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/)
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
