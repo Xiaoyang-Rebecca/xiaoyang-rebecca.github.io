@@ -36,6 +36,7 @@ redirect_from:
 
 Recent Activities
 ======
+&#10148; &nbsp;  **06/23/2021**, Video Chat Representative, CVPR 2021 | EXPO, Adobe Virtual Booth [[Conference]](http://cvpr2021.thecvf.com/node/48)
 
 &#10148; &nbsp;  **02/10/2021**, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter [[Agenda]](https://hkn.ece.uh.edu/events-archive/)
 
