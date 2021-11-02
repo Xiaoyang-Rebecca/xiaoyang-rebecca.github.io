@@ -29,6 +29,7 @@ redirect_from:
 
 **Research interests:** Image Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At Adobe, I am working on augmentation toolbox ['beacon-aug'](https://adobe-research.github.io/beacon-aug/)
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
