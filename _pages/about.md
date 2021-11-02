@@ -25,11 +25,11 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love sharing ideas and helping people. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recently, I am working on a cross-library image augmentation module named ["beacon-aug"](https://adobe-research.github.io/beacon-aug/)
 
 **Research interests:** Image Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At Adobe, I am working on augmentation toolbox ['beacon-aug'](https://adobe-research.github.io/beacon-aug/)
+
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
