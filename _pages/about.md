@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a Research Engineer in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing.She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. She will be presenting the beacon-aug toolbox of data augmentation (T109–3) and Combat with adversarial attacks of image fingerprinting (MS814A) in the Tech Summit.Research interests: Image Augmentation, Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a Research Engineer in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Herdiverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At Adobe Research, I am the main contributor to cross-library image augmentation module named ["beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She is the main contributor to cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
 
 **Research interests:** Image Generation ,Image Augmentation,  Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs.
 
