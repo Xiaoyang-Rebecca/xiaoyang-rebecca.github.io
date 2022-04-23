@@ -8,35 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a Research Engineer in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing.She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. She will be presenting the beacon-aug toolbox of data augmentation (T109–3) and Combat with adversarial attacks of image fingerprinting (MS814A) in the Tech Summit.Research interests: Image Augmentation, Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs.
 
 
-<!-- ## &nbsp;&nbsp;&nbsp;&nbsp;Rebecca Li
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate at Univeristy of Houston
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a Research Engineer in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Herdiverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant at [Pro. Roysam](http://www.ee.uh.edu/faculty/roysam) 's [FARsight Bio-image and Data Analysis Lab](https://github.com/RoysamLab)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At Adobe Research, I am the main contributor to cross-library image augmentation module named ["beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  E-mail:   [ Xiaoyang.Rebecca.Li@gmail.com](Xiaoyang.Rebecca.Li@gmail.com)
+**Research interests:** Image Generation ,Image Augmentation,  Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \| [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/?locale=en_US)  \|  [ ResearchGate](http://researchgate.net/profile/Xiaoyang_Li14) \| [GoogleScholar](https://scholar.google.com/citations?user=k7iInwsAAAAJ&hl=en&authuser=1) \|   [ GitHub](http://github.com/Xiaoyang-Rebecca )  \|  [ Resume/CV ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing) \|
-
-###  &nbsp; -->
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I am Rebecca Li ( my Chinese name is Xiaoyang [<img src="./figures/audio.png"  width="17">](https://www.howtosay.co.in/pronounce/xiaoyang-in-english), written as 李晓扬). I recently joined Adobe Research as a [Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in Jan 2021. I completed my Ph.D. from [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam)'s [bio-image and data analysis lab](https://github.com/RoysamLab?tab=repositories) at the University of Houston on the development of a zero-human effort segmentation framework. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. And my diverse professional domain experiences cover medical image processing, self-driving car, and Oil & Gas. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recently, I am working on a cross-library image augmentation module named ["beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
-
-**Research interests:** Image Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs. 
-
-
-
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nb<!-- sp;&nbsp; I am always willing to share new ideas. Feel free to [schedule a quick chat](https://calendly.com/s/o5uKjHE9) with me! 
 
 <!-- # Portfolio -->
 
 Recent Activities
 ======
+
 &#10148; &nbsp;  **06/23/2021**, Video Chat Representative, CVPR 2021 | EXPO, Adobe Virtual Booth [[Conference]](http://cvpr2021.thecvf.com/node/48)
 
 &#10148; &nbsp;  **02/10/2021**, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter [[Agenda]](https://hkn.ece.uh.edu/events-archive/)
