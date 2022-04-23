@@ -20,7 +20,9 @@ We innovatively proposed an efficient unsupervised learning framework to robustl
 
 
 ---
- **X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 
+ - **X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, Grace Hopper Celebration, General Poster, 2020 
+ 
+ - Maric, D., Jahanipour, J., **Li, X.R.** et al. Whole-brain tissue mapping toolkit using large-scale highly multiplexed immunofluorescence imaging and deep neural networks. Nat Commun 12, 1550 (2021). https://doi.org/10.1038/s41467-021-21735-x
 
 
 ---
