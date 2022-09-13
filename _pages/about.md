@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a Research Engineer in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Herdiverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a [Machine Learning Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Herdiverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She is the main contributor to cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
 
