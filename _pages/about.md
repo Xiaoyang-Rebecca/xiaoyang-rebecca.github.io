@@ -10,17 +10,19 @@ redirect_from:
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe Research as a [Machine Learning Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in 2021. She completed her Ph.D. at the University of Houston in large-scale medical image processing, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Herdiverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe  as a [Machine Learning Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in 2021. She is the Release Tech Lead and co-founder of Adoeb Firefly Mon Repo/Inference SDK (lanunched in [Firefly](https://firefly.adobe.com/) in April 2023). She was also the core developer of the cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She is the main contributor to cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
+Before joining Adobe, she completed her Ph.D. at the University of Houston in large-scale medical image processing in 2020, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Her diverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
 
-**Research interests:** Image Generation ,Image Augmentation,  Segmentation, Pixel Inpainting, Object Detection/Classification, Compressive Sensing, CNN, GANs.
+
+**Research interests:** Generative AI, Diffusion Model, Image Generation ,Image Augmentation,  Segmentation, Pixel Inpainting, Object Detection/Classification, CNN, GANs.
 
 
 <!-- # Portfolio -->
 
 Recent Activities
 ======
+&#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]]([http://cvpr2021.thecvf.com/node/48](https://ghc.anitab.org/))
 
 &#10148; &nbsp;  **06/23/2021**, Video Chat Representative, CVPR 2021-EXPO, Adobe Virtual Booth [[Conference]](http://cvpr2021.thecvf.com/node/48)
 
@@ -52,6 +54,8 @@ Related Projects
 <!-- 
 Presentations 
 ======
+
+- Andriushchenko, M.,**X. Rebecca. Li**, Oxholm, G., Gittings, T., Bui, T., Flammarion, N. and Collomosse, J., 2022. ARIA: Adversarially Robust Image Attribution for Content Provenance. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 33-43).
 -	**X. Rebecca. Li**, B. Roysam,. Van Nguyen, H., “Toward Zero Human Efforts: Iterative Training Framework for Noisy Segmentation Label”, *Grace Hopper Celebration*, General Poster, 2020. [[Poster]](https://www.researchgate.net/publication/343385839_Toward_Zero_Human_Efforts_Iterative_Training_Framework_for_Noisy_Segmentation_Label")
 -	B.Roysam, H. Nguyen, S.Prasad , J.Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, *2019 Rice Data Science Conference*. [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
 -	 **X. Rebecca. Li.**, et al.. Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks (2019).  [[Poster]](https://www.researchgate.net/publication/342393127_Generative_Inpainting_Network_Applications_On_Seismic_Image_Compression?_sg=NLR-jR1kH68IGpgbIZWBGn_b0EgQeDCJd4v2NqKtkUhztF4yumiDb8Q8pDBBCIoya02jgPwoxpJ7-0PgaAy4_kuyI4OJGvAcpIPhcKMX.1u4TvNJH7fYLPtz5wlzLw8faQN65sw0TkNcnhYTUnxyA2dneET2USKgvHbT3MBGyuNef8YMOYLMRuN_YYBv52w)
@@ -65,7 +69,7 @@ Presentations
 Publications
 ======
 
--	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)*, 2020 (Accepted)
+-	Yuan,P., Mobiny,A., Jahanipour,J. **Li,X.,** et al. "Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification", *Medical Image Computing and Computer Assisted Intervention(MICCAI)*, 2020 
 - [	**Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X., Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* (2019). ](https://openreview.net/forum?id=Hyleh7hqUH)
 -	[**Li, X. R.**, Mitsakos, N., Lu, P., Xiao, Y., & Zhao, X. (2019). Seismic compressive sensing by generative inpainting network: Toward an optimized acquisition survey. *The Leading Edge*, 38(12), 923-933.](https://pubs.geoscienceworld.org/tle/article-abstract/38/12/923/576060)
 -	[Yuan, P., Rezvan, A., **Li, X.**, Varadarajan, N. and Van Nguyen, H., 2019. Phasetime: Deep Learning Approach to Detect Nuclei in Time Lapse Phase Images. *Journal of clinical medicine*, 8(8), p.1159.](https://www.ncbi.nlm.nih.gov/pubmed/31382487)
