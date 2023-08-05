@@ -14,13 +14,13 @@ redirect_from:
 Education
 ======
 * B.S. in Information Engineering, XIDIAN University, 2015
-* Ph.D in Bio-image and Information Analysis Lab , University of Houston , 2020 (expected)
+* Ph.D in Bio-image and Information Analysis Lab , University of Houston , 2020 
 
 
 Work Experience
 ======
 * 2021 - now: Research Engineer
-  * Adobe Research (San Fransico, CA)   
+  * Adobe Inc (San Jose, CA)   
 
 * 2015 - 2020: Research Assistant
   * University of Houston (Houston,TX)
@@ -65,6 +65,7 @@ Reviewers
 Publications
 ======
 
+- Andriushchenko, M.,**X. Rebecca. Li**, Oxholm, G., Gittings, T., Bui, T., Flammarion, N. and Collomosse, J., 2022. ARIA: Adversarially Robust Image Attribution for Content Provenance. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 33-43).
 -	Maric, D., Jahanipour, J., **Li, X.R.** et al. Whole-brain tissue mapping toolkit using large-scale highly multiplexed immunofluorescence imaging and deep neural networks. Nat Commun 12, 1550 (2021).
 - Yuan, P., Mobiny, A., Jahanipour, J., **Li, X.**, Cicalese, P. A., Roysam, B., ... & Van Nguyen, H. (2020, October). Few Is Enough: Task-Augmented Active Meta-learning for Brain Cell Classification. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 367-377). Springer, Cham.
 - **Li, X.R.**, Mitsakos, N., Lu, P., Xiao, Y., Zhan, C. and Zhao, X.,(2019) Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling. *Workshop on Neural Information Processing Systems (NIPS): Solving Inverse Problems with Deep Networks* . 
