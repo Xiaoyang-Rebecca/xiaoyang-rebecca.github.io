@@ -10,10 +10,9 @@ redirect_from:
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) joined Adobe  as a [Machine Learning Research Engineer](https://research.adobe.com/person/xiaoyang-rebecca/) in 2021. She is the Release Tech Lead and co-founder of Adoeb Firefly Mon Repo/Inference SDK (lanunched in [Firefly](https://firefly.adobe.com/) in April 2023). She was also the core developer of the cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) is a Machine Learning Research Engineer at Adobe. She is the Release Tech Lead and co-founder of Firefly Mon Repo/Inference SDK, launched as the first AI Creative Art  Generation Tool: [Firefly](https://firefly.adobe.com/), in April 2023. She was also the creator of the cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
 
-Before joining Adobe, she completed her Ph.D. at the University of Houston in large-scale medical image processing in 2020, supervised by [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Her diverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
-
+Before joining Adobe, she completed her Ph.D. at the University of Houston iin 2020, under the guidance of [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam), specializing in large-scale medical image processing. She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (CVPR,NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Her diverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
 
 **Research interests:** Generative AI, Diffusion Model, Image Generation ,Image Augmentation,  Segmentation, Pixel Inpainting, Object Detection/Classification, CNN, GANs.
 
