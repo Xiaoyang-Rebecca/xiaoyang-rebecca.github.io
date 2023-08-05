@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# [ View in PDF ](https://drive.google.com/file/d/1fzcYLxRPoGuVQn86Krh8u5BrkdtxEhvW/view?usp=sharing)
 
 {% include base_path %}
 
