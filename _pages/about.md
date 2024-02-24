@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) is a Machine Learning Research Engineer at Adobe. She is the Release Tech Lead and co-founder of Firefly Mon Repo/Inference SDK, launched as the first AI Creative Art  Generation Tool: [Firefly](https://firefly.adobe.com/) in April 2023. She was also the creator of the cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) is a Machine Learning Engineering Manager at Adobe. She was the Release Tech Lead and engineering co-founder of Firefly Mon Repo/Inference SDK, launched as Adobe's first AI Art Generation Tool: [Firefly](https://firefly.adobe.com/) in April 2023. She was also the creator of the cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
 
 Before joining Adobe, she completed her Ph.D. at the University of Houston iin 2020, under the guidance of [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam), specializing in large-scale medical image processing. She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (CVPR,NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Her diverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
 
@@ -21,6 +21,8 @@ Before joining Adobe, she completed her Ph.D. at the University of Houston iin 2
 
 Recent Activities
 ======
+&#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]](https://uh.edu/eit/ai-event)
+
 &#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]](https://ghc.anitab.org/)
 
 &#10148; &nbsp;  **06/23/2021**, Video Chat Representative, CVPR 2021-EXPO, Adobe Virtual Booth [[Conference]](http://cvpr2021.thecvf.com/node/48)
