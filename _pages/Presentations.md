@@ -7,8 +7,8 @@ author_profile: true
 ---
 
 # Oral Presentations
-
--	**X. Rebecca. Li**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images" [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
+- **Rebecca LI**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event: Enhancing the Educational Experience with ChatGPT and AI Conference, 2024 [[Agenda]](https://uh.edu/eit/ai-event)
+-	**X. Rebecca. Li**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images", 2020 [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
 -	B.Roysam, H. Nguyen, S.Prasad , J.Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, *2019 Rice Data Science Conference*. [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
 -	**X. Rebecca. Li**, “Computer Vision Applications on Nuclei Segmentations”, *IEEE- Houston Section General Meeting*, Dinner Speech, 2018.  [[News Posts]](http://sites.ieee.org/houston/navigating-office-politics-michele-tesciuba/)
 -	**X. Li**, J. Jahanipour, D. Maric, B. Roysam, “Automatic Nucleus Segmentation of Whole Rat Brain Image”, Oral and Poster Presenter, *Center for Advanced Computing and Data Science, University of Houston*, 2017.
@@ -27,6 +27,7 @@ author_profile: true
 
 
 # Panel Discussions
+- **Rebecca Li**, Oscar Dadfar, Jose Echevarria, Adobe Tech Talk, Florida International University, 09/2023
 - Rym Benchaabane, **Rebecca Li**, Shalini Singh, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter, 02/10/2021 [[Agenda]](https://hkn.ece.uh.edu/events-archive/)[[Video]](https://drive.google.com/file/d/15YZMDwmlQrM-k86MV53K1f1v1-K_BMYl/view)
 - Rahul Goel, Justin Brantley, Pinyi Yang, **Rebecca Li**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, 2020 [[Agenda]](https://events.vtools.ieee.org/m/247865)[[Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)
 - Y. Xu, A. Crivello, J. Silve, N. Panchal, **X, Li**, Y. Yu, Panelist, "Deeplearning.ai Pie & AI: Houston - Build a career in Data Science", Deeplearning.ai & Houston Machine Learning Meetup, 2020 [[Detail]](https://www.meetup.com/Houston-Machine-Learning/events/267287657/)
