@@ -23,7 +23,7 @@ Recent Activities
 ======
 &#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]](https://uh.edu/eit/ai-event)
 
-&#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]](https://ghc.anitab.org/)
+&#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]](https://ghc.anitab.org/about/)
 
 &#10148; &nbsp;  **06/23/2021**, Video Chat Representative, CVPR 2021-EXPO, Adobe Virtual Booth [[Conference]](http://cvpr2021.thecvf.com/node/48)
 
