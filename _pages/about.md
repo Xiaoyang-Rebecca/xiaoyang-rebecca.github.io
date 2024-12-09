@@ -25,13 +25,7 @@ Recent Activities
 
 &#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]](https://ghc.anitab.org/about/)
 
-&#10148; &nbsp;  **06/23/2021**, Video Chat Representative, CVPR 2021-EXPO, Adobe Virtual Booth [[Conference]](http://cvpr2021.thecvf.com/node/48)
 
-&#10148; &nbsp;  **02/10/2021**, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter [[Agenda]](https://hkn.ece.uh.edu/events-archive/)
-
-&#10148; &nbsp;  **12/4/2020**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images" [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
-
-&#10148; &nbsp;  **11/18/2020**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, Panelist [[Agenda]](https://events.vtools.ieee.org/m/247865)[ [Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)
 
 <!-- - 
    
