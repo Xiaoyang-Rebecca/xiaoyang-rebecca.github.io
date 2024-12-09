@@ -15,6 +15,12 @@ Rebecca led **strategic GenAI Image and Video model quality evaluation efforts**
 Before joining Adobe, Rebecca completed her **Ph.D. at the University of Houston in 2020** under the guidance of [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam), specializing in **large-scale medical image processing**. She has an extensive track record of publications in **top-tier journals** ([Nature Communications](https://www.nature.com/articles/s41467-021-21735-x), etc.) and leading **AI conferences** (CVPR, NeurIPS, MICCAI) in Deep Learning, Machine Learning, and Computer Vision. Her professional experience spans diverse domains, including **creative image generation**, **medical image processing**, **self-driving cars**, and **Oil & Gas**.
 
 
+
+
+*What's next?* 
+
+I’m always excited to explore new opportunities to apply my expertise in scalable AI solutions and cross-functional leadership. Feel free to reach out if you’d like to collaborate or discuss potential projects.
+
 <!-- # Portfolio -->
 
 Recent Activities
