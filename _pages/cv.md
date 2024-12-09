@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-* 2021 - now: Research Engineer
+* 2021 - now: Research Engineer/ Machine Learning Engineering Manager
   * Adobe Inc (San Jose, CA)   
 
 * 2015 - 2020: Research Assistant
