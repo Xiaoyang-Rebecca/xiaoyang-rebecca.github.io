@@ -31,7 +31,7 @@ Work Experience
   * Thesis: “Large Scale Nucleus Segmentation and Neighborhood Analysis on Rat Brain Images”
   * Supervisor: Professor Badri Roysam
 
-* **Summer 2019 **: Deep Learning Engineer Intern
+* **Summer 2019**: Deep Learning Engineer Intern
   * Anadarko Petroleum (the Woodlands, TX)
   * Project: "Seismic Image Recovery and Optimal Sampling Recommendation"                                                  
   * Mentors: Dr.Nikolaos Mitsakos, Dr.Ping Lu
