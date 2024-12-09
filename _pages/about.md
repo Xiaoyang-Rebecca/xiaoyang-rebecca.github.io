@@ -9,18 +9,21 @@ redirect_from:
 ---
 
 
+# Dr. Rebecca Li
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr. Xiaoyang Li (Rebecca) is a Machine Learning Engineering Manager at Adobe. She was the Release Tech Lead and engineering co-founder of Firefly Mon Repo/Inference SDK, launched as Adobe's first AI Art Generation Tool: [Firefly](https://firefly.adobe.com/) in April 2023. She was also the creator of the cross-library image augmentation module  ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/) at Adobe Research.
+**Dr. Xiaoyang Li (Rebecca)** is a Machine Learning Engineering Manager specializing in **GenAI model evaluation and development**, scalable solutions, and cross-functional leadership. She was one of the earliest contributors and **co-founders of the Firefly SDK**, serving as the release tech lead for Adobe’s first AI Art Generation tool, [Firefly](https://firefly.adobe.com/), launched in April 2023. Firefly has generated over **13 billion commercially safe GenAI images globally**, with its applications in Photoshop recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/).
 
-Before joining Adobe, she completed her Ph.D. at the University of Houston iin 2020, under the guidance of [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam), specializing in large-scale medical image processing. She has established a track record of publications in the top-tier journals (Nature Communications, etc.) and AI conferences (CVPR,NIPS, MICCAI, etc.) in Deep Learning, Machine Learning, and Computer Vision. Her diverse professional domain experiences cover creative image generations,  medical image processing, self-driving car, and Oil & Gas. 
+Rebecca led **strategic model quality evaluation efforts** and established **industry-leading AI safety standards**, including the design of **ML classifiers** and **multimodal-based auto evaluators**, as well as [Harm & Bias evaluation](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&). These initiatives fostered collaboration across research, engineering, and production teams. She also created the cross-library image augmentation module in Adobe Research, named ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/), which integrates 300+ augmentation operations from 8 popular libraries. This tool won the **Top Session Award at Adobe Tech Summit 2022**.
 
-**Research interests:** Generative AI, Diffusion Model, Image Generation ,Image Augmentation,  Segmentation, Pixel Inpainting, Object Detection/Classification, CNN, GANs.
+Before joining Adobe, Rebecca completed her **Ph.D. at the University of Houston in 2020** under the guidance of [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam), specializing in **large-scale medical image processing**. She has an extensive track record of publications in **top-tier journals** ([Nature Communications](https://www.nature.com/articles/s41467-021-21735-x), etc.) and leading **AI conferences** (CVPR, NeurIPS, MICCAI) in Deep Learning, Machine Learning, and Computer Vision. Her professional experience spans diverse domains, including **creative image generation**, **medical image processing**, **self-driving cars**, and **Oil & Gas**.
 
 
 <!-- # Portfolio -->
 
 Recent Activities
 ======
+
 &#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]](https://uh.edu/eit/ai-event)
 
 &#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]](https://ghc.anitab.org/about/)
