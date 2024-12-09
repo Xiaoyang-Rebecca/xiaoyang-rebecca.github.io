@@ -13,25 +13,34 @@ redirect_from:
 
 Work Experience
 ======
-* 2021 - now: Research Engineer/ Machine Learning Engineering Manager
-  * Adobe Inc (San Jose, CA)   
+* **2021 - Present**: Research Engineer / Machine Learning Engineering Manager  
+  * **Adobe Inc (San Jose, CA)**  
+  * **2024**: Led the development of an **Automatic Evaluation Framework** for benchmarking the performance of Image and Video GenAI models. Advanced standards in **Responsible AI** through industry-leading practices. Check out my public [talk](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/).  
 
-* 2015 - 2020: Research Assistant
+  * **2023**: Engineering founder and Release Lead of a cross-functional **GenAI model development inference SDK**, scaling the contributor team from **10 to 100+**. Shipped as **Adobe Firefly**, a groundbreaking GenAI creation platform known for safe commercial use. Its applications in Photoshop were recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/). Check out my public [talk](https://uofh.sharepoint.com/:v:/s/FDIS924/EWFqBrUBlt9Ig6jnw3lO0YEBAOzE708D686NjJyYL-Qy9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6bnVsbH0=).  
+
+  * **2022**: Developed a **GAN-based face makeup transfer** feature, deployed in [Photoshop Express](https://helpx.adobe.com/photoshop-express/using/apply-makeup.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.6.2).  
+
+  * **2022**: Led **training data collection and processing** for a smart distractor detection system, shipped as the [Distraction Removal Feature](https://www.adobe.com/products/photoshop/remove-object.html) in Photoshop.  
+
+  * **2021**: Created a cross-library **image augmentation API**, named [Beacon-aug](https://adobe-research.github.io/beacon-aug/), incorporating 300+ augmentation operations from 8 popular libraries. Awarded **Top Session Award** at Adobe Tech Summit 2022.  
+
+* **2015 - 2020**: Research Assistant
   * University of Houston (Houston,TX)
   * Bio-image and Information Analysis Lab in Electrical and Computer Engineer Dept
   * Thesis: “Large Scale Nucleus Segmentation and Neighborhood Analysis on Rat Brain Images”
   * Supervisor: Professor Badri Roysam
 
-* Summer 2019: Deep Learning Engineer Intern
+* **Summer 2019 **: Deep Learning Engineer Intern
   * Anadarko Petroleum (the Woodlands, TX)
   * Project: "Seismic Image Recovery and Optimal Sampling Recommendation"                                                  
   * Mentors: Dr.Nikolaos Mitsakos, Dr.Ping Lu
 
-* Summer 2018: Deep Learning Engineer Intern
+* **Summer 2018**: Deep Learning Engineer Intern
   * Ambarella Corporation (San Jose, CA)   
   * Project: "Cross-platform Solutions for Self-driving Car Chip Simulation"
 
-* Summer 2017: Pre-doc Fellow
+* **Summer 2017**: Pre-doc Fellow
   * NINDS, National Institute of Health (Bethesda,MD)
   * Project: " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
   * Supervisor: Dr. Dragan Maric
