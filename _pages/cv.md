@@ -10,11 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Information Engineering, XIDIAN University, 2015
-* Ph.D in Bio-image and Information Analysis Lab , University of Houston , 2020 
-
 
 Work Experience
 ======
@@ -41,6 +36,11 @@ Work Experience
   * Project: " A Pipeline for High throughout Image Processing and Data Analysis of Brain Tissues" 
   * Supervisor: Dr. Dragan Maric
 
+Education
+======
+* B.S. in Information Engineering, XIDIAN University, 2015
+* Ph.D in Biomedical Omage and Information Analysis Lab , University of Houston , 2020 
+
 Skills & Languages
 ======
 * Programming:   Python ( Skimage, OpenCV, Pandas), Matlab, Linux Bash, R, C/C++,  VHDL, SQL
@@ -50,6 +50,7 @@ Skills & Languages
   
 Leadership
 ======
+* Founder&Team Captain,  Adobe Dragon Boat Club, 2023
 * Graduate Affair Chair,  IEEE-University of Houston Student Branch, 2018
 *	Outreach/ Coordinator,  US & China Innovation and Investment Summit, 2017
 *	President,  Model United Nations Association of Xidian University, 2013
