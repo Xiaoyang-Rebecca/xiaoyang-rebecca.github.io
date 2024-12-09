@@ -7,6 +7,8 @@ author_profile: true
 ---
 
 # Oral Presentations
+
+- **Rebecca LI**, Technial Insight Speaker, "Harm and Bias Evaluation and Solution for Adobe Firefly", Embedded Vision Summit [[Conference]]([https://uh.edu/eit/ai-event](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&)), 2024
 - **Rebecca LI**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event: Enhancing the Educational Experience with ChatGPT and AI Conference, 2024 [[Agenda]](https://uh.edu/eit/ai-event)
 -	**X. Rebecca. Li**, Phd Thesis Defense: "Annotation-Free Deep Learning of Large-Scale Nuclear Segmentation and Spatial Neighborhood Analysis on Multiplexed Fluorescence Images", 2020 [[Video]](https://www.youtube.com/watch?v=ECe_hakE6w8) 
 -	B.Roysam, H. Nguyen, S.Prasad , J.Jahanipour, **X, Li**.  et al. “Brain Tissue Analytics for Accelerating Drug Discovery”, *2019 Rice Data Science Conference*. [[Abstract]](https://2019datascienceconference.sched.com/speaker/xiaoyang_li.2019apwp)
