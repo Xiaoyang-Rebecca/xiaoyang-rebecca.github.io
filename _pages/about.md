@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# Dr. Rebecca Li
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 **Dr. Xiaoyang Li (Rebecca)** is a Machine Learning Engineering Manager specializing in **GenAI model evaluation and development**, scalable solutions, and cross-functional leadership. She was one of the earliest contributors and **co-founders of the Firefly SDK**, serving as the release tech lead for Adobe’s first AI Art Generation tool, [Firefly](https://firefly.adobe.com/), launched in April 2023. Firefly has generated over **13 billion commercially safe GenAI images globally**, with its applications in Photoshop recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/).
 
 Rebecca led **strategic GenAI Image and Video model quality evaluation efforts** and established **industry-leading AI safety standards**, including the design of **ML classifiers** and **multimodal-based auto evaluators**, as well as [Harm & Bias evaluation](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&). These initiatives fostered collaboration across research, engineering, and production teams. She also created the cross-library image augmentation module in Adobe Research, named ["Beacon-aug"](https://adobe-research.github.io/beacon-aug/), which integrates 300+ augmentation operations from 8 popular libraries. This tool won the **Top Session Award at Adobe Tech Summit 2022**.
@@ -23,6 +19,7 @@ Before joining Adobe, Rebecca completed her **Ph.D. at the University of Houston
 
 Recent Activities
 ======
+&#10148; &nbsp;  **05/2024**, Technial Insight Speaker, "Harm and Bias Evaluation and Solution for Adobe Firefly", Embedded Vision Summit [[Conference]]([https://uh.edu/eit/ai-event](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&))
 
 &#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]](https://uh.edu/eit/ai-event)
 
