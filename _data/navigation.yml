@@ -3,20 +3,15 @@ main:
 
   - title: "CV"
     url: /cv/
-    - title: "Presentations"
+  - title: "Presentations"
     url: /presentations/    
-
    - title: "Publications"
     url: /publications/
   - title: "Portfolio"
     url: /portfolio/
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-
-    
   # - title: "Guide"
   #   url: /markdown/
-
   - title: "Fun Facts"
     url: /funfacts/    
