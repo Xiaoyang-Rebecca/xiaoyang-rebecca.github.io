@@ -19,9 +19,9 @@ Before joining Adobe, Rebecca completed her Ph.D. at the University of Houston i
 
 
 
-*What's next?* 
+&#10148; &nbsp; *What's next?* 
 
-I’m always excited to explore new opportunities to apply my expertise in scalable AI solutions and cross-functional leadership. Feel free to reach out if you’d like to collaborate or discuss potential projects.
+I’m always excited to explore new opportunities to apply my expertise in scalable AI solutions and cross-functional leadership. Feel free to reach out by [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/) or email(xiaoyang.rebecca.li@gmail.com) if you’d like to collaborate or discuss potential projects. 
 
 <!-- # Portfolio -->
 
