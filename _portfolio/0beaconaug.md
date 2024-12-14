@@ -1,6 +1,6 @@
 ---
 title: "A cross-library image augmentation module for Deep Learning Training"
-excerpt: ncorporate the largest number of image augmentation operations(> 300) from 8 popular libraries <br/><img src='/figures/logo-Seg.png' width='400'>"
+excerpt: A versatile image augmentation framework incorporating 300+ operations from 8 popular libraries <br/><img src='https://adobe-research.github.io/beacon-aug/_images/flowchart.png' width='400'>"
 collection: portfolio
 ---
 
