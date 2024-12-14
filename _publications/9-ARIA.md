@@ -6,7 +6,7 @@ permalink: /publication/ARIA
 date: 2022-
 venue: 'CVPR 2022'
 ---
-Internship Project Mentoring at Adobe related to  Coalition for Content Provenance and Authenticity [(C2PA)](https://c2pa.org/) initative, setting up industrial standard to address misleading information, lead by Adobe
+Internship mentoring project at Adobe related to Coalition for Content Provenance and Authenticity [(C2PA)](https://c2pa.org/) initative, setting up industrial standard to address misleading information, lead by Adobe
 
 * [CVPR](https://openaccess.thecvf.com/content/CVPR2022W/WMF/html/Andriushchenko_ARIA_Adversarially_Robust_Image_Attribution_for_Content_Provenance_CVPRW_2022_paper.html)
 * [Portfolio](https://maxandr.github.io/robust_image_attribution.) 
