@@ -27,7 +27,7 @@ I’m always excited to explore new opportunities to apply my expertise in scala
 
 Recent Activities
 ======
-&#10148; &nbsp;  **05/2024**, Technial Insight Speaker, "Harm and Bias Evaluation and Solution for Adobe Firefly", Embedded Vision Summit [[Conference]]([https://uh.edu/eit/ai-event](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&))
+&#10148; &nbsp;  **05/2024**, Technial Insight Speaker, "Harm and Bias Evaluation and Solution for Adobe Firefly", Embedded Vision Summit [[Conference](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&))
 
 &#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]]([https://uh.edu/eit/ai-event](https://www.uh.edu/eit/event-draft/index.php))
 
