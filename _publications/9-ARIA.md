@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ARIA
 # excerpt: 'The preliminary results of compressive image recovery and non-uniform sampling recommendation'
 date: 2022-06-19
-venue: 'CVPR 2022'
+venue: 'CVPR'
 ---
 Internship mentoring project at Adobe related to Coalition for Content Provenance and Authenticity [(C2PA)](https://c2pa.org/) initative, setting up industrial standard to address misleading information, lead by Adobe
 
