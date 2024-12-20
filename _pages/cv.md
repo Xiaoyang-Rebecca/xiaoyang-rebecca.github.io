@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## View the PDF version: [**Rebecc Li - CV 2024.pdf**](https://drive.google.com/file/d/1glXp4JZoYREIPxS4tWiwjw09FbhS0re6/view?usp=sharing)
+## View the PDF version: [**Rebecc Li - CV 2024.pdf**](https://drive.google.com/file/d/11H8mlFgxwbxJGJETiRs6m8WrZrBhvB8g/view?usp=sharing)
 
 Work Experience
 ======
