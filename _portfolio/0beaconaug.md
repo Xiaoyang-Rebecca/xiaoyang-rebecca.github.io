@@ -15,7 +15,8 @@ Developed a versatile image augmentation framework incorporating 300+ operations
 - Main module building: **Rebecca Li**, Yannick Hold-Geoffroy, Geoffrey Oxholm
 - Website: [https://adobe-research.github.io/beacon-aug/](https://adobe-research.github.io/beacon-aug/)
 - Code: [[Python]](https://github.com/adobe-research/beacon-aug)
-- Award: Top Session Award at Adobe Tech Summit 2022 (together with the whole Beacon module)
+- Award: Top Session Award at **Adobe Tech Summit 2022** (together with the whole Beacon module)
+
 ---
 **Li, X. R.**, Hold-Geoffroy, Y., Oxholm, G., Singh, K. K., Zhang, Z., Zhang, R., Andriushchenko, M., & others. (2021). Beacon-aug: A cross-library image augmentation toolbox. GitHub. Retrieved January 11, 2022, from https://github.com/adobe-research/beacon-aug
 
