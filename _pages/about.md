@@ -20,6 +20,7 @@ With experience spanning creative image generation, medical imaging, self-drivin
 
 
 &#10148; &nbsp; *What's next?* 
+
 Rebecca is eager to explore opportunities to apply her expertise in GenAI, responsible AI practices, and cross-team leadership to new challenges. Connect with her on [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/) or via email to discuss collaborations or career opportunities.  
 
 
