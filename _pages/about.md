@@ -7,22 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Dr. Xiaoyang Li (Rebecca)** is a GenAI pioneer and founding member of Adobe’s groundbreaking GenAI platform, [Firefly](https://firefly.adobe.com/). She helped transform a research concept into a product generating 13 billion AI images world wide by 2024, with its applications named one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/).  
 
-Rebecca co-founded the Firefly SDK and served as release tech lead, scaling the inference SDK platform contributors from 10 to 100+ to support the Firefly models' successful launches. She also drove cross-functional GenAI evaluation projects and strategic image and video model quality evaluation efforts, including the design of ML classifiers, multimodal-based auto evaluators, and advancing responsible AI through industry-leading safety standards. Additionally, she created the cross-library image augmentation module ["Beacon-aug"](https://xiaoyang-rebecca.github.io//portfolio/0beaconaug/), which integrates 300+ augmentation operations from 8 popular libraries and won the **Top Session Award at Adobe Tech Summit 2022**.  
+**Dr. Xiaoyang Li (Rebecca)** is a GenAI pioneer and a founding member of Adobe’s groundbreaking AI platform, [Firefly](https://firefly.adobe.com/). With a unique blend of research, engineering, and leadership expertise, she helped transform a research concept into a product that generated over 13 billion AI images by 2024, with its applications recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/).  
 
+Rebecca co-founded the Firefly SDK and served as the release tech lead, scaling its contributor base from 10 to over 100 engineers and researchers in just a few months. Her contributions include designing workflows, streamlining processes, and implementing collaboration strategies that became the backbone of Firefly’s rapid productization. She also led cross-functional initiatives on GenAI evaluation, deploying multimodal ML classifiers with vision understanding models, and advancing responsible AI practices through industry-leading safety standards.  
 
-Before joining Adobe, Rebecca completed her Ph.D. at the University of Houston in 2020 under the guidance of [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam), specializing in large-scale medical image processing She has an extensive track record of publications in top-tier journals ([Nature Communications](https://www.nature.com/articles/s41467-021-21735-x), etc.) and leading **AI conferences** (CVPR, NeurIPS, MICCAI) in Deep Learning, Machine Learning, and Computer Vision. 
+Her technical expertise extends to building innovative tools like ["Beacon-aug"](https://xiaoyang-rebecca.github.io//portfolio/0beaconaug/), a cross-library image augmentation module with 300+ operations that earned the **Top Session Award at Adobe Tech Summit 2022**.  
 
+Rebecca holds a Ph.D. from the University of Houston, where she specialized in large-scale medical image processing under [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). Her research has been published in top journals ([Nature Communications](https://www.nature.com/articles/s41467-021-21735-x)) and presented at leading AI conferences (CVPR, NeurIPS, MICCAI).  
 
-Her expertise bridges **research, engineering, and product development**, driving impactful AI innovations. Her professional experience spans diverse domains, including creative image generation, medical image processing, self-driving cars, and Oil & Gas.
-
-
+With experience spanning creative image generation, medical imaging, self-driving cars, and energy industries, Rebecca excels at bridging research and real-world applications. She’s passionate about scaling AI innovations to solve impactful problems and fostering cross-functional collaboration to drive results.  
 
 
 &#10148; &nbsp; *What's next?* 
+Rebecca is eager to explore opportunities to apply her expertise in GenAI, responsible AI practices, and cross-team leadership to new challenges. Connect with her on [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/) or via email to discuss collaborations or career opportunities.  
 
-I’m always excited to explore new opportunities to apply my expertise in scalable AI solutions and cross-functional leadership. Feel free to reach out by [LinkedIn](https://www.linkedin.com/in/xiaoyang-rebecca-li/) or email if you’d like to collaborate or discuss potential projects. 
 
 <!-- # Portfolio -->
 
