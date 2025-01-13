@@ -49,7 +49,7 @@ Work Experience
 Education
 ======
 * B.S. in Information Engineering, XIDIAN University, 2015
-* Ph.D in Biomedical Omage and Information Analysis Lab , University of Houston , 2020 
+* Ph.D in Image Processing and Information Analysis , University of Houston , 2020 
 
 Skills & Languages
 ======
