@@ -1,0 +1,123 @@
+---
+title: 'Why Mean Squared Error (MSE) is Not Suitable for Logistic Regression'
+date: 2025-02-24
+permalink: /posts/2025/02/blog-post-1/
+tags:
+  - ML Basic
+---
+
+Why Mean Squared Error (MSE) is Not Suitable for Logistic Regression
+======
+
+## Introduction
+When training a machine learning model, choosing the right **loss function** is critical to ensuring effective learning. In **linear regression**, Mean Squared Error (MSE) is a common loss function, but when we shift to **logistic regression**, MSE becomes problematic. In this post, we’ll explore **why MSE is not suitable for logistic regression** and why **cross-entropy loss** (log-loss) is preferred instead.
+
+---
+
+## 1️⃣ Understanding Logistic Regression
+Logistic regression is a **classification algorithm** used to predict **binary outcomes** (0 or 1). Instead of modeling a continuous output like linear regression, it **models probabilities** using the **sigmoid activation function**:
+
+```math
+\hat{y} = \sigma(z) = \frac{1}{1 + e^{-z}}
+```
+
+where:
+- \( \hat{y} \) is the predicted probability.
+- \( z = Xw + b \) is the linear combination of inputs and weights.
+- \( \sigma(z) \) (sigmoid function) ensures the output is in the range \([0,1]\).
+
+Since logistic regression is used for classification, our goal is to **maximize the likelihood** of correctly predicting class labels.
+
+---
+
+## 2️⃣ Why Not Use MSE for Logistic Regression?
+MSE is defined as:
+```math
+\mathcal{L}_{\text{MSE}} = \frac{1}{N} \sum_{i=1}^{N} (y_i - \hat{y}_i)^2
+```
+
+However, using MSE in logistic regression causes three major problems:
+
+### 🚨 1. MSE Leads to a Non-Convex Loss Function
+- The sigmoid function introduces **non-linearity**, and when combined with MSE, the loss function becomes **non-convex**.
+- **Gradient descent struggles** to converge efficiently because it can get stuck in local minima.
+- In contrast, **cross-entropy loss is convex**, ensuring **faster and more stable convergence**.
+
+### 🚨 2. MSE Treats Probabilities as Continuous Values
+- Logistic regression models probabilities, but **MSE assumes continuous errors**, which is **not optimal for classification**.
+- **Example:** If the actual label is **1**, and the model predicts **0.9**, MSE gives a small loss, but in classification, we need a sharper distinction.
+
+### 🚨 3. MSE Leads to Small Gradients (Slow Learning)
+- The **gradient of MSE** with respect to weights:
+```math
+\frac{\partial \mathcal{L}_{\text{MSE}}}{\partial w} = (y - \hat{y}) \cdot \hat{y} \cdot (1 - \hat{y}) \cdot X
+```
+- When \( \hat{y} \) is close to **0 or 1**, the term \( \hat{y} (1 - \hat{y}) \) becomes **very small**, leading to **vanishing gradients**.
+- **This slows down learning** and makes convergence inefficient.
+
+---
+
+## 3️⃣ Why Cross-Entropy Loss is Better
+Instead of MSE, logistic regression uses **cross-entropy loss**:
+```math
+\mathcal{L}_{\text{CE}} = - \frac{1}{N} \sum_{i=1}^{N} \left[ y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i) \right]
+```
+
+✅ **Key Benefits of Cross-Entropy Loss:**
+- **Convex loss function** → Ensures faster & more stable convergence.
+- **Better probability modeling** → Matches the Bernoulli distribution.
+- **Prevents small gradient issues** → Ensures meaningful weight updates.
+
+---
+
+## 4️⃣ Visualization: Comparing MSE vs. Cross-Entropy Loss
+
+Let's visualize how **MSE vs. Cross-Entropy Loss** behave for classification.
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define sigmoid function
+def sigmoid(z):
+    return 1 / (1 + np.exp(-z))
+
+# Define loss functions
+def mse_loss(y_true, y_pred):
+    return (y_true - y_pred) ** 2
+
+def cross_entropy_loss(y_true, y_pred):
+    return - (y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+
+# Generate predictions
+y_true = 1  # Positive class
+z_values = np.linspace(-5, 5, 100)
+y_preds = sigmoid(z_values)
+
+# Compute loss values
+mse_losses = mse_loss(y_true, y_preds)
+ce_losses = cross_entropy_loss(y_true, y_preds)
+
+# Plot the losses
+plt.figure(figsize=(8, 5))
+plt.plot(y_preds, mse_losses, label="MSE Loss", linestyle='dashed')
+plt.plot(y_preds, ce_losses, label="Cross-Entropy Loss", linestyle='solid')
+plt.xlabel("Predicted Probability")
+plt.ylabel("Loss")
+plt.title("Comparison of MSE vs. Cross-Entropy Loss")
+plt.legend()
+plt.grid()
+plt.show()
+```
+
+This graph clearly shows that **cross-entropy loss penalizes incorrect predictions more effectively** than MSE.
+
+---
+
+## 5️⃣ Summary
+| Loss Function | Convexity | Gradient Efficiency | Probability Interpretation |
+|--------------|----------|---------------------|---------------------------|
+| **MSE** | ❌ Non-convex | 🚨 Slow learning (small gradients) | ❌ Treats probabilities as continuous |
+| **Cross-Entropy** | ✅ Convex | ✅ Faster convergence | ✅ Optimized for classification |
+
+
