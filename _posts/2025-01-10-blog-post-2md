@@ -1,11 +1,10 @@
 ---
-title: 'Understand the Vision Transformer Model '
+title: 'Understand the Vision Transformer Model'
 date: 2025-01-10
 permalink: /posts/2022/01/blog-post-1/
 tags:
   - GenAI basic
 ---
-# Understanding Vision Transformer Models in Text and Vision AI
 
 Vision Transformers (ViTs) adapt the Transformer architecture (check [previous post](https://xiaoyang-rebecca.github.io/posts/2025/02/blog-post-1/)), originally designed for text processing, to computer vision tasks. Instead of using **convolutional layers** like CNNs, ViTs use **self-attention mechanisms** to process images, allowing them to capture **long-range dependencies** and **contextual information** across an image.
 
