@@ -1,0 +1,52 @@
+---
+title: 'Understand the Vision Transformer Model '
+date: 2025-01-10
+permalink: /posts/2022/01/blog-post-1/
+tags:
+  - GenAI basic
+---
+# Understanding Vision Transformer Models in Text and Vision AI
+
+Vision Transformers (ViTs) adapt the Transformer architecture (check [previous post](https://xiaoyang-rebecca.github.io/posts/2025/02/blog-post-1/)), originally designed for text processing, to computer vision tasks. Instead of using **convolutional layers** like CNNs, ViTs use **self-attention mechanisms** to process images, allowing them to capture **long-range dependencies** and **contextual information** across an image.
+
+#### **Image Patch Embedding**
+- Instead of tokenizing text, ViTs divide images into smaller **patches**.
+- Each **patch** is flattened into a 1D vector and then embedded similarly to word embeddings in NLP.
+
+**Example:**
+- A **256×256 image** can be divided into **16×16 patches**.
+- Each patch is independently converted into a fixed-length **vector representation**.
+- These patches are then fed into a standard **Transformer model**.
+
+#### **Positional Encoding for Images**
+Since Transformers process input **independently**, they require **positional encoding** to maintain spatial relationships in images.
+
+- ViTs use **2D positional encoding** to assign spatial coordinates:
+
+$$
+(0,0), (0,1), (1,0), (1,1), ...
+$$
+
+- This ensures the model understands which patches are **adjacent** and maintains the structure of objects in the image.
+
+#### **Attention in Vision Transformers**
+- Each image patch **attends to all other patches** to capture relationships between different parts of an image.
+- This helps in recognizing **global structures**, unlike CNNs that rely on local receptive fields.
+
+#### **QKV Representation in Vision Transformers**
+
+In Vision Transformers, the attention mechanism is applied to the image patches using **Query (Q), Key (K), and Value (V) matrices**.
+
+| **Component** | **Definition in Vision Transformer** |
+|--------------|---------------------------------|
+| **Query (Q)** | Representation of the current image patch that needs to be compared with others. |
+| **Key (K)** | Representation of all patches used to determine relevance to the query patch. |
+| **Value (V)** | Contains the actual image patch features used to update the representation of the query. |
+
+**Example Use Cases:**
+- **Object Detection**: ViTs can detect objects without needing explicit feature maps.
+- **Medical Imaging**: Captures contextual relationships across an entire scan.
+- **Image Classification**: Achieves state-of-the-art accuracy on vision benchmarks.
+
+**Takeaway:** Vision Transformers replace convolutional operations with **self-attention**, enabling more **flexible and interpretable** image representations.
+
