@@ -16,8 +16,14 @@ Transformer models have revolutionized **large language models (LLMs)** and are 
 </audio>
 
 
+
+
 ## 1. Transformer Architecture for Text Generation 
-The **Transformer model** consists of several key components that enable efficient **contextual understanding** and **text generation**.  
+The **Transformer model** consists of several key components that enable efficient **contextual understanding** and **text generation**.  %20
+
+<audio controls>
+  <source src="https://github.com/Xiaoyang-Rebecca/xiaoyang-rebecca.github.io/blob/master/_posts/LLM_to_vit" type="audio/mpeg">
+</audio>
 
 ### Text Tokenization and Encoding
 - **Process:** Converts raw text into **fixed-length vectors (embeddings)** that are suitable for deep learning models.
