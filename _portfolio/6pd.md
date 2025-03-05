@@ -8,7 +8,7 @@ We used reinforcement learning to design a route for the deliveryman to send all
 
 <p align="center"><img src="/figures/pd.gif"  width="700" class="inline"/></p>
 
-**Keywords**:  Q Table, Reinforcement Learnin, PD-world, Visulization
+**Keywords**:  Q Table, Reinforcement Learning, PD-world, Visulization
 
 - Course Project of "Artificial Intelligent"
 - Collaborators: [Priyal Kulkarni
