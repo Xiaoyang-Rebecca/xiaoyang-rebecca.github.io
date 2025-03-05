@@ -9,6 +9,13 @@ tags:
 
 Transformer models have revolutionized **large language models (LLMs)** and are now widely used across **multimodal AI applications**, including **text generation, conversational AI, and vision-based models**. These models have set a new standard for natural language understanding, reasoning, and content generation by leveraging attention mechanisms to capture long-range dependencies and contextual relationships.
 
+
+<audio controls>
+  <source src="https://www.youtube.com/watch?v=3iIjpSi1z7g" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
+
 ## 1. Transformer Architecture for Text Generation 
 The **Transformer model** consists of several key components that enable efficient **contextual understanding** and **text generation**.  
 
