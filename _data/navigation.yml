@@ -8,6 +8,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Blog Posts"
+    url: /year-archive/
+
   - title: "Presentations"
     url: /presentations/    
 
@@ -23,9 +26,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    # url: /year-archive/
-    url: /tags/
+
+    # url: /tags/
 
   - title: "Fun Facts"
     url: /funfacts/    
