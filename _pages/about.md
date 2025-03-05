@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Xiaoyang Li (Rebecca)** is a GenAI pioneer and a founding member of Adobe’s groundbreaking AI platform, [Firefly](https://firefly.adobe.com/). With a unique blend of research, engineering, and leadership expertise, she helped transform a research concept into a product that generated over 13 billion AI images by 2024, with its applications recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/).  
+**Dr. Xiaoyang Li (Rebecca)** is a GenAI pioneer and was a founding member of Adobe’s groundbreaking AI platform, [Firefly](https://firefly.adobe.com/). With a unique blend of research, engineering, and leadership expertise, she played a key role in transforming a research concept into a product that generated over 13 billion AI images by 2024, with its applications recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/).
 
-Rebecca co-founded the Firefly SDK and served as the release tech lead, scaling its contributor base from 10 to over 100 engineers and researchers in just a few months. Her contributions include designing workflows, streamlining processes, and implementing collaboration strategies that became the backbone of Firefly’s rapid productization. She also led cross-functional initiatives on GenAI evaluation, deploying multimodal ML classifiers with vision understanding models, and advancing responsible AI practices through industry-leading safety standards.  
+Rebecca co-founded the Firefly SDK and served as the release tech lead, scaling its contributor base from 10 to over 100 engineers and researchers in just a few months. Her contributions included designing workflows, streamlining processes, and implementing collaboration strategies that became the backbone of Firefly’s rapid productization. She also led cross-functional initiatives on GenAI evaluation, deployed multimodal ML classifiers with vision understanding models, and advanced responsible AI practices through industry-leading safety standards.
 
-Her technical expertise extends to building innovative tools like ["Beacon-aug"](https://xiaoyang-rebecca.github.io//portfolio/0beaconaug/), a cross-library image augmentation module with 300+ operations that earned the **Top Session Award at Adobe Tech Summit 2022**.  
+Her technical expertise extends to building innovative tools like ["Beacon-aug"](https://xiaoyang-rebecca.github.io//portfolio/0beaconaug/), a cross-library image augmentation module with 300+ operations that earned the **Top Session Award at Adobe Tech Summit 2022**.
 
-Rebecca holds a Ph.D. from the University of Houston, where she specialized in large-scale medical image processing under [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). Her research has been published in top journals ([Nature Communications](https://www.nature.com/articles/s41467-021-21735-x)) and presented at leading AI conferences (CVPR, NeurIPS, MICCAI).  
+Rebecca holds a Ph.D. from the University of Houston, where she specialized in large-scale medical image processing under [Dr. Badri Roysam](http://www.ee.uh.edu/faculty/roysam). Her research has been published in top journals ([Nature Communications](https://www.nature.com/articles/s41467-021-21735-x)) and presented at leading AI conferences (CVPR, NeurIPS, MICCAI).
 
-With experience spanning creative image generation, medical imaging, self-driving cars, and energy industries, Rebecca excels at bridging research and real-world applications. She’s passionate about scaling AI innovations to solve impactful problems and fostering cross-functional collaboration to drive results.  
+With experience spanning creative image generation, medical imaging, self-driving cars, and energy industries, Rebecca excels at bridging research and real-world applications. She’s passionate about scaling AI innovations to solve impactful problems and fostering cross-functional collaboration to drive results.
 
+Rebecca also writes [blog posts](https://xiaoyang-rebecca.github.io/year-archive/) about AI foundations, career branding, and technology trends, sharing insights to help educate the community on stepping into the ML field, bridging research and production, leadership in AI, and navigating the evolving landscape of machine learning.
 
 &#10148; &nbsp; *What's next?* 
 
@@ -32,7 +33,6 @@ Recent Activities
 
 &#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]]([https://uh.edu/eit/ai-event](https://www.uh.edu/eit/event-draft/index.php))
 
-&#10148; &nbsp;  **09/2023**, Reprentitive, Research/GenAI Ambassador, Grace Hopper Celebration, Adobe Booth  [[Conference]](https://ghc.anitab.org/about/)
 
 
 
