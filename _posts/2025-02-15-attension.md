@@ -1,6 +1,6 @@
 ---
 title: 'Delve into the Attention Mechanisum'
-date: 2025-02-21
+date: 2025-02-15
 permalink: /posts/2025/02/attension/
 tags:
   - GenAI Basics
@@ -68,7 +68,7 @@ Instead of using **one** attention mechanism, multi-head attention **splits the 
 Cross-attention **helps different inputs interact**—used in **encoder-decoder models** like **T5, BART, and multimodal AI**.  It is esential in multimodal models, retrieval-augmented generation (RAG), and personalized AI chatbots.
 
 - Q (Query) comes from the decoder (the response being generated)
--	K, V (Key, Value) come from the encoder (the input sequence).
+- K, V (Key, Value) come from the encoder (the input sequence).
 
 #### **Examples of Cross-Attention in Applications:**
 
@@ -91,8 +91,19 @@ The **biggest problem with self-attention** is that it’s **slow and memory-int
 - **Quadratic Complexity \\( O(n^2) \\)** → Longer sentences slow everything down.  
 
 ### **How FlashAttention Works**
+- From the original softmax
 $$
-    softmax(xi ) = \frac{e^{x_i  -max(x)} } { e^{x_i  -max(x)} }
+    softmax(x_i ) = \frac{e^{x_i}}{\sum_{j=1}^n e^{x_j}}
+
+$$
+Where:
+- The output \\( \mathbf{s} \\) is a probability distribution, meaning \\( 0 \leq s_i \leq 1 \\) and \\( \sum_{i=1}^n s_i = 1 \\).
+- The softmax function emphasizes larger values in \\( \mathbf{x} \\) due to the exponential function, making it suitable for classification tasks.
+
+- Softmax approximation in Flash attenstion
+$$
+    softmax_FA(x_i ) \approx \frac{e^{x_i -max(x)}}{\sum_{j=1}^n e^{x_j -max(x)}}
+
 $$
 
 1. **Computes Softmax in smaller chunks** → Saves memory.  
@@ -104,6 +115,56 @@ $$
 
 **Takeaway:** FlashAttention **makes LLMs more efficient, allowing them to process longer text inputs**.
 
+
+## Learn with Code
+```python
+
+import numpy as np
+
+def softmax(x):
+    """
+    Compute the softmax of each row of the input matrix.
+
+    Args:
+        x (numpy.ndarray): Input matrix of shape (N, M)
+
+    Returns:
+        numpy.ndarray: Softmax output of shape (N, M)
+    """
+    exp_x = np.exp(x - np.max(x, axis=-1, keepdims=True))  # Stability fix
+    return exp_x / np.sum(exp_x, axis=-1, keepdims=True)
+
+def attention (query, key, value):
+    """
+    Compute attention output as a weighted sum of the value matrix.
+
+    Args:
+        query (numpy.ndarray): Query matrix of shape (N, d_k)
+        key (numpy.ndarray): Key matrix of shape (M, d_k)
+        value (numpy.ndarray): Value matrix of shape (M, d_v)
+
+    Returns:
+        numpy.ndarray: Attention output of shape (N, d_v) 
+    """
+    # Compute scaled dot-product attention
+    d_k = query.shape[-1]  # Dimensionality of the key
+    scores = np.dot(query, key.T) / np.sqrt(d_k)  # Scaled dot product
+    weights = softmax(scores)  # Apply softmax to get attention weights
+    output = np.dot(weights, value)  # Weighted sum of value vectors
+    return output
+
+# Example usage
+if __name__ == "__main__":
+    # Example matrices
+    Q = np.array([[1, 0, 1]])  # Query vector (1 x d_k)
+    K = np.array([[1, 0, 1], [0, 1, 0], [1, 1, 0]])  # Key vectors (M x d_k)
+    V = np.array([[1, 2], [0, 3], [1, 1]])  # Value vectors (M x d_v)
+
+    # Attention output
+    output = attention(Q, K, V) # N x d_v
+    print("Attention Output:\n", output) #  [[0.83205655 1.86878374]]
+    
+```
 
 
 ---

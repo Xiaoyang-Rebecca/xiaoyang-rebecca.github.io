@@ -1,5 +1,5 @@
 ---
-title: 'Naive Bayes Theory and Real Example: A Simple Guide'
+title: 'Naive Bayes Theory and Example on Spam Email Detection'
 date: 2025-01-20
 permalink: /posts/2025/01/naive-bayes/
 tags:
