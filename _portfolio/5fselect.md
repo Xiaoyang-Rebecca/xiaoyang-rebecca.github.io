@@ -2,6 +2,11 @@
 title: "Feature Reduction to Classifiers"
 excerpt: " Performance studies of PCA, LDA, and their kernel versions to SVM, ML, KNN, GMM <br/><img src='/figures/logo-fselect.png' width='400'>"
 collection: portfolio
+date: 2016-04-01
+tags:
+  - ML Basics
+  - Learn with Code
+
 ---
 
 This case study revealed the influence of 4 common feature reduction methods (PCA, LDA, and their kernel versions) on the 4 different types of classifiers (SVM, ML, KNN, GMM). Our experiments showed that SVM was the most robust method to increase dimensional space, and that SVM and LDA were the most sensitive to noise.

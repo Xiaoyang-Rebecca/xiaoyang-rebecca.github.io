@@ -2,6 +2,8 @@
 title: "Deep Eraser"
 excerpt: "An object-oriented “eraser” for images and videos <br/><img src='/figures/logo-eraser.png' width='400'>"
 collection: portfolio
+date: 2021-01-20
+
 ---
 
 
