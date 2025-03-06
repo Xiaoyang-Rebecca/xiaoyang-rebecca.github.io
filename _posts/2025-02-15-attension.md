@@ -16,9 +16,9 @@ Transformers use **self-attention** and **cross-attention** to process text, mak
 ## 0. What is Attention?
 Attention is a technique that helps models determine **which parts of the input are important** when making predictions.  Instead of reading every word equally, the model **focuses on key parts** to extract relevant information.  
 
-
-#### Attention Formula:
+** Attention Formula**
 Given an input sequence X, we compute three matrices:
+Inputs:
 - Query (Q): What are we looking for?
 - Key (K): What do we have in memory?
 - Value (V): What information should we retrieve?
@@ -26,6 +26,7 @@ Given an input sequence X, we compute three matrices:
 $$
 \text{Attention}(Q, K, V) = \text{Softmax} \left(\frac{QK^T}{\sqrt{d_k}}\right) V
 $$
+Outputs:
 
 - \\( QK^T  \\) → Measures similarity between queries and keys (how relevant a token is).
 -	\\( sqrt{d_k} \\)  → Scaling factor to prevent large values (stabilizes training).
@@ -42,19 +43,15 @@ Unlike traditional models that process words sequentially, **self-attention allo
 - Allows words to influence each other's representation, improving coherence in generated text.
 
 **Example:**  
-Consider the sentence: **"The dog chased the cat because it was fast."**. What we care about is **Who does "it" refer to?**. Self-attention helps the model **identify that "it" likely refers to the cat**, given the prior context.
+Consider the sentence: "The dog chased the cat because it was fast.". What we care about is Who does "it" refer to?. Self-attention helps the model identify that "it" likely refers to the cat, given the prior context.
 
 **Takeaway:** Self-attention **allows models to capture long-range dependencies** in text, making LLMs more powerful.
 
 ---
 ## 2. Multi-Head Attention: Learning Multiple Perspectives
 Instead of using **one** attention mechanism, multi-head attention **splits the input into multiple heads**,  applies attention separately, and concatenates results. Each head **focuses on different relationships** in the sentence.
-
-- captures multiple perspectives (e.g., short-term & long-term dependencies).
-- Reduces information bottleneck (splitting across heads = better learning).
-
-- **Expands learning capacity** by running multiple self-attention mechanisms in parallel.
-- **Divides embeddings into multiple subspaces**, each learning different aspects of linguistic structure.
+- **Expands learning capacity** by running multiple self-attention mechanisms in parallel. Reduces information bottleneck (splitting across heads = better learning).
+- **Divides embeddings into multiple subspaces**, each learning different aspects of linguistic structure and captures multiple perspectives (e.g., short-term & long-term dependencies).
 
 **Example:**
 - If the embedding dimension is **512**, splitting it into **8 heads** means each head operates on **64-dimensional subspaces**.
@@ -91,19 +88,18 @@ The **biggest problem with self-attention** is that it’s **slow and memory-int
 - **Quadratic Complexity \\( O(n^2) \\)** → Longer sentences slow everything down.  
 
 ### **How FlashAttention Works**
-- From the original softmax
+** From the original softmax **
 $$
-    softmax(x_i ) = \frac{e^{x_i}}{\sum_{j=1}^n e^{x_j}}
+    softmax(x_i) = \frac{e^{x_i}}{\sum_{j=1}^n e^{x_j}}
+$$
 
-$$
 Where:
 - The output \\( \mathbf{s} \\) is a probability distribution, meaning \\( 0 \leq s_i \leq 1 \\) and \\( \sum_{i=1}^n s_i = 1 \\).
 - The softmax function emphasizes larger values in \\( \mathbf{x} \\) due to the exponential function, making it suitable for classification tasks.
 
-- Softmax approximation in Flash attenstion
+** Softmax approximation in Flash attenstion**
 $$
-    softmax_FA(x_i ) \approx \frac{e^{x_i -max(x)}}{\sum_{j=1}^n e^{x_j -max(x)}}
-
+    softmax(x_i ) \approx \frac{e^{x_i -max(x)}}{\sum_{j=1}^n e^{x_j -max(x)}}
 $$
 
 1. **Computes Softmax in smaller chunks** → Saves memory.  
@@ -169,12 +165,12 @@ if __name__ == "__main__":
 
 ---
 
-# **Final Takeaways**
-- **Attention helps models focus on important words.**  
-- **Self-attention captures contextual relationships.**  
-- **Multi-head attention allows different perspectives.**  
-- **Cross-attention is useful for chatbots and multimodal AI.**  
-- **FlashAttention optimizes speed and memory for large models.**  
+# Final Takeaways
+- Attention helps models focus on important words.  
+- Self-attention captures contextual relationships. 
+- Multi-head attention allows different perspectives.  
+- Cross-attention is useful for chatbots and multimodal AI. 
+- FlashAttention optimizes speed and memory for large models. 
 
 ---
 🤖 Disclaimer: This post was generated with the help of AI but reviewed, refined, and enhanced by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.
