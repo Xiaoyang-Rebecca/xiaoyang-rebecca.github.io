@@ -8,12 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_tags = group_names | sort | reverse %}
-
 <style>
   .tag-container {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 0.5fr 2.5fr; /* Adjusted to make first column shorter */
     gap: 20px;
     margin-bottom: 20px;
   }
@@ -36,8 +34,10 @@ author_profile: true
   <div class="tag-playlist">Posts</div>
 </div>
 
+{% assign sorted_tags = group_names | sort %}
+
 {% for tag in sorted_tags %}
-  {% assign posts = group_items[forloop.index0] %}
+  {% assign posts = group_items[tag] %}
   <div class="tag-container">
     <div class="tag-name">{{ tag }}</div>
     <div class="tag-playlist">
