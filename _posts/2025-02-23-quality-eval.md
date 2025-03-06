@@ -1,5 +1,5 @@
 ---
-title: 'Implicit Quality Evaluations for GenAI Models : Text generation and Image generation'
+title: 'GenAI Models Quality Evaluations: Text and Image'
 date: 2025-02-23
 permalink: /posts/2025/02/quality-eval/
 tags:
