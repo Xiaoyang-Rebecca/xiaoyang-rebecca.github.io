@@ -9,7 +9,8 @@ main:
     url: /cv/
     
   - title: "Blog Posts"
-    url: /tag-archive/
+    # url: /year-archive/
+    url: /tags/
 
   - title: "Presentations"
     url: /presentations/    
@@ -27,7 +28,6 @@ main:
     url: /portfolio/
         
 
-    # url: /tags/
 
   - title: "Fun Facts"
     url: /funfacts/    
