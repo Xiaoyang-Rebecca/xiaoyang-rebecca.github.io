@@ -143,7 +143,7 @@ tree_graph = tree.plot_tree()
 tree_graph.view()
 
 ```
-
+Output decision tree is showing as below:
 <p align="center"><img src="/figures/posts/decison-tree-output.png"  width="300" class="inline"/></p>
 
 
