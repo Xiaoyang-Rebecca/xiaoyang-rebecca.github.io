@@ -61,7 +61,7 @@ Each word \\( x_i \\) contributes independently to the probability of the class 
 
 ## **4. Math Behind Naive Bayes**
 
-### **Posterior Probability**
+**Posterior Probability**
 
 For classification, we compute the posterior probability for each class and choose the one with the highest probability:
 
@@ -73,7 +73,7 @@ Since \\( P(X) \\) is the same for all classes, we ignore it and focus on the nu
 
 ---
 
-### **Log-Probability**
+**Log-Probability**
 
 To avoid numerical underflow (multiplying many small probabilities), we use **logarithms**:
 
@@ -83,7 +83,7 @@ $$
 
 ---
 
-### **Prior Probability (\\( P(C) \\))**
+**Prior Probability (\\( P(C) \\))**
 
 The prior probability \\( P(C) \\) is the probability of a class \\( C \\) in the training data:
 
@@ -93,12 +93,12 @@ $$
 
 ---
 
-### **Likelihood (\\( P(x_i|C) \\))**
+**Likelihood (\\( P(x_i\|C) \\))**
 
-The likelihood \\( P(x_i|C) \\) is the probability of a word \\( x_i \\) given the class \\( C \\). We use **Laplace smoothing** to handle unseen words:
+The likelihood \\( P(x_i\|C) \\) is the probability of a word \\( x_i \\) given the class \\( C \\). We use **Laplace smoothing** to handle unseen words:
 
 $$
-P(x_i | C) = \frac{\text{Count of } x_i \text{ in class } C + 1}{\text{Total words in class } C + \text{Vocabulary size}}
+P(x_i| C) = \frac{\text{Count of } x_i \text{ in class } C + 1}{\text{Total words in class } C + \text{Vocabulary size}}
 $$
 
 ---
@@ -175,7 +175,8 @@ class NaiveBayesSpamClassifier:
 
         for word in tokens:
             if word in self.vocab:
-                spam_score += math.log(self.likelihood["spam"].get(word, 1e-10))  # Avoid log(0)
+                #	If word is not found, return 1e-10 (a very small value close to zero). Avoid log(0)
+                spam_score += math.log(self.likelihood["spam"].get(word, 1e-10))  
                 ham_score += math.log(self.likelihood["ham"].get(word, 1e-10))
 
         # Return the class with the higher score
