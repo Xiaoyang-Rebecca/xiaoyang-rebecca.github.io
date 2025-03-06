@@ -37,7 +37,7 @@ author_profile: true
 {% assign sorted_tags = group_names | sort %}
 
 {% for tag in sorted_tags %}
-  {% assign posts = group_items[forloop.index0] %}
+  {% assign posts = group_items[forloop.index0] | sort: 'date' %}
   <div class="tag-container">
     <div class="tag-name">{{ tag }}</div>
     <div class="tag-playlist">
