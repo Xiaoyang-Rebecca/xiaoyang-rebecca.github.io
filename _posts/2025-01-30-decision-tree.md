@@ -144,7 +144,7 @@ tree_graph.view()
 
 ```
 
-<p align="center"><img src="/figures/posts/decison-tree-output.png"  width="700" class="inline"/></p>
+<p align="center"><img src="/figures/posts/decison-tree-output.png"  width="300" class="inline"/></p>
 
 
 ---
