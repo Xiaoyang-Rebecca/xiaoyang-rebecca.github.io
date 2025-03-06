@@ -1,7 +1,7 @@
 ---
 title: 'Interviewing and Networking Tips for MLE New Grads'
 date: 2020-10-23
-permalink: /posts/2020/10/blog-post-1/
+permalink: /posts/2020/10/MLE-interview-tips/
 tags:
   - Interview Tips
 ---

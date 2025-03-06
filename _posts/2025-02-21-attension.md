@@ -1,7 +1,7 @@
 ---
 title: 'Delve into the Attention Mechanisum'
 date: 2025-02-21
-permalink: /posts/2025/02/blog-post-2/
+permalink: /posts/2025/02/attension/
 tags:
   - GenAI Basics
   - AI explains AI

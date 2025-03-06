@@ -1,7 +1,7 @@
 ---
 title: 'Selection of the Loss Functions for Logistic Regression'
 date: 2025-01-10
-permalink: /posts/2025/01/blog-post-1/
+permalink: /posts/2025/01/logistic-regression/
 tags:
   - ML Basics
   - Learn with Code

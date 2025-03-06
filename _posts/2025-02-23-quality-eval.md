@@ -1,7 +1,7 @@
 ---
 title: 'Implicit Quality Evaluations for GenAI Models : Text generation and Image generation'
 date: 2025-02-23
-permalink: /posts/2025/02/blog-post-3/
+permalink: /posts/2025/02/quality-eval/
 tags:
   - GenAI Basics
   - AI explains AI

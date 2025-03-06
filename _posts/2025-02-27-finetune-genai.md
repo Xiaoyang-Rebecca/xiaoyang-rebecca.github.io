@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tune GenAI Models"
 date: 2025-02-27
-permalink: /posts/2025/02/blog-post-2/
+permalink: /posts/2025/02/finetune-genai/
 tags:
   - GenAI Basics
   - AI explains AI

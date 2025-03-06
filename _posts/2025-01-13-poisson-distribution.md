@@ -1,7 +1,7 @@
 ---
 title: 'Understand the Poission Distribution'
 date: 2025-01-13
-permalink: /posts/2025/01/blog-post-2/
+permalink: /posts/2025/01/poisson-distribution/
 tags:
   - ML Basics
   - Learn with Code

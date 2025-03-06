@@ -1,7 +1,7 @@
 ---
 title: 'Naive Bayes Theory and Real Example: A Simple Guide'
 date: 2025-01-20
-permalink: /posts/2025/01/blog-post-3/
+permalink: /posts/2025/01/naive-bayes/
 tags:
   - ML Basics
   - Learn with Code

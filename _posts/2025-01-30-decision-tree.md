@@ -9,7 +9,6 @@ tags:
 ---
 
 A **decision tree** is a machine learning model that makes decisions by recursively splitting data based on the best feature, forming a tree-like structure.
----
 
 ### **Why Use Decision Trees?**
 ✅ **Easy to understand** – Works like a flowchart.  
