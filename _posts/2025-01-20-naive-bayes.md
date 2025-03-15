@@ -234,5 +234,6 @@ print("Accuracy:", accuracy)  # Output: 1.0 (100% accuracy on training data)
 3. Laplace smoothing handles unseen words.
 
 
+
 ---
-🤖 Disclaimer: This post was generated with the help of AI but reviewed, refined, and enhanced by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.
+🤖 Disclaimer: This post is inspired by [*Educative.io AI* learning course](https://www.educative.io/explore?aff=BwW8), and generated with AI-assisted but reviewed and refined by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.

@@ -7,6 +7,14 @@ tags:
   - AI explains AI
 
 ---
+Fine-tuning Generative AI (GenAI) models allows us to adapt pre-trained models for specific tasks, styles, or datasets while maintaining efficiency. Instead of training large models from scratch, fine-tuning enables customization with lower computational costs and faster adaptation to new domains.
+
+In this guide, we explore various fine-tuning techniques, including LoRA, DreamBooth, and other key methods, and discuss how to choose the right approach based on your goals.
+
+---
+
+Fine-tuning is essential when you need:
+✅ Domain-specific adaptation – Training a model for medical imaging, anime, or architectural designs.✅ Style transfer – Making an AI model generate content in a particular artistic or photographic style.✅ Personalization – Customizing outputs to generate specific people, pets, or brand-related content.✅ Performance improvement – Optimizing an existing model for a specific dataset to enhance accuracy.
 
 Fine-tuning **Generative AI (GenAI) models** can be categorized into two main approaches:  
 1. **Non-Parametric Fine-Tuning**: Modifying model behavior **without changing its parameters** (e.g., **ICL, RAG**).  
@@ -142,6 +150,39 @@ This leads to **99% fewer parameters to update**, making fine-tuning **much chea
 
 
 
+### **🔹 2.3. DreamBooth – Personalized Model Fine-Tuning**
+**DreamBooth** fine-tunes an entire GenAI model to generate **specific subjects** (e.g., a person, pet, or object).
+
+✔ **Key Benefits:**
+- Embeds a **new concept into the model’s latent space**.
+- Generates **highly personalized outputs**.
+
+❌ **Drawbacks:**
+- **Computationally expensive** – Requires full-model fine-tuning.
+- Large model checkpoints must be stored after fine-tuning.
+
+✔ **Best for:**
+- **Personalized AI-generated images** of real-world subjects.
+- Creating **custom brand elements** or character generation.
+
+### **🔹 2.4. Adapter Layers & PEFT (Parameter Efficient Fine-Tuning)**
+Other **parameter-efficient fine-tuning** techniques, such as **QLoRA, BitFit, and Adapters**, further reduce the need to modify full model weights.
+
+✔ **Best for:**
+- Fine-tuning **large models on edge devices**.
+- **Enterprise AI solutions** where cost efficiency is a priority.
+
+---
+
+## **3️⃣ Choosing the Right Fine-Tuning Method**
+
+| **Method** | **Best For** | **Compute Cost** | **Storage Needed** |
+|------------|-------------|-----------------|-----------------|
+| **Full Fine-Tuning** | Major domain shifts | 🔴 High | 🔴 High (Full Model) |
+| **LoRA** | Style & domain adaptation | 🟢 Low | 🟢 Very Low (Few MBs) |
+| **DreamBooth** | Personalized subjects | 🔴 High | 🔴 High (Full Model) |
+| **PEFT (e.g., QLoRA)** | Efficient fine-tuning | 🟢 Low | 🟢 Low |
+
 ---
 
 # **Final Takeaways**  
@@ -150,5 +191,6 @@ This leads to **99% fewer parameters to update**, making fine-tuning **much chea
 - LoRA achieves similar performance to **full fine-tuning** with a **fraction of the computational cost**.  
 
 
+
 ---
-🤖 Disclaimer: This post was generated with the help of AI but reviewed, refined, and enhanced by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.
+🤖 Disclaimer: This post is inspired by [*Educative.io AI* learning course](https://www.educative.io/explore?aff=BwW8), and generated with AI-assisted but reviewed and refined by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.

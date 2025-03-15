@@ -172,5 +172,6 @@ if __name__ == "__main__":
 - Cross-attention is useful for chatbots and multimodal AI. 
 - FlashAttention optimizes speed and memory for large models. 
 
+
 ---
-🤖 Disclaimer: This post was generated with the help of AI but reviewed, refined, and enhanced by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.
+🤖 Disclaimer: This post is inspired by [*Educative.io AI* learning course](https://www.educative.io/explore?aff=BwW8), and generated with AI-assisted but reviewed and refined by [Dr. Rebecca Li](https://xiaoyang-rebecca.github.io/), blending AI efficiency with human expertise for a balanced perspective.
