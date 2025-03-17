@@ -14,7 +14,7 @@ Rebecca co-founded the Firefly SDK and served as the release tech lead, scaling 
 
 Her technical expertise extends to building innovative tools like ["Beacon-aug"](https://xiaoyang-rebecca.github.io//portfolio/0beaconaug/), a cross-library image augmentation module with 300+ operations that earned the **Top Session Award at Adobe Tech Summit 2022**.
 
-Rebecca also writes [blog posts](https://xiaoyang-rebecca.github.io/year-archive/) about AI foundations, career branding, and technology trends, sharing insights to help educate the community on stepping into the ML field, bridging research and production, leadership in AI, and navigating the evolving landscape of machine learning.
+Rebecca also writes [blog posts](https://medium.com/@xiaoyang.rebecca.li/list/ml-interview-prep-with-ai-82463667f03c) about AI foundations, career branding, and technology trends, sharing insights to help educate the community on stepping into the ML field, bridging research and production, leadership in AI, and navigating the evolving landscape of machine learning.
 
 &#10148; &nbsp; *What's next?* 
 
