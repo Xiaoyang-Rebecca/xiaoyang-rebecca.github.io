@@ -10,21 +10,21 @@ redirect_from:
 
 {% include base_path %}
 
-## View the PDF version: [**Rebecc Li - CV 2024.pdf**](https://drive.google.com/file/d/1glXp4JZoYREIPxS4tWiwjw09FbhS0re6/view?usp=sharing)
+<!-- ## View the PDF version: [**Rebecc Li - CV 2024.pdf**](https://drive.google.com/file/d/1glXp4JZoYREIPxS4tWiwjw09FbhS0re6/view?usp=sharing) -->
 
 Work Experience
 ======
-* **2021 - Present**: Research Engineer / Machine Learning Engineering Manager  
-  * **Adobe Inc (San Jose, CA)**  
-  * **2024**: Led the development of an **Automatic Evaluation Framework** for benchmarking the performance of Image and Video GenAI models. Advanced standards in **Responsible AI** through industry-leading practices. Check out my public [talk](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/).  
+* **2021 - 2025**: Machine Learning Engineering Manager & Research Engineer 
+  * Adobe Inc (San Jose, CA)
+  * Led the development of an **Automatic Evaluation Framework** for benchmarking the performance of Image and Video GenAI models. Advanced standards in **Responsible AI** through industry-leading practices. Check out my public [talk](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/).  
 
-  * **2023**: Engineering founder and Release Lead of a cross-functional **GenAI model development inference SDK**, scaling the contributor team from **10 to 100+**. Shipped as **Adobe Firefly**, a groundbreaking GenAI creation platform known for safe commercial use. Its applications in Photoshop were recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/). Check out my public [talk](https://www.uh.edu/eit/event-draft/index.php).  
+  * Engineering founder and Release Lead of a cross-functional **GenAI model development inference SDK**, scaling the contributor team from **10 to 100+**. Shipped as **Adobe Firefly**, a groundbreaking GenAI creation platform known for safe commercial use. Its applications in Photoshop were recognized as one of [Time’s Best AI Inventions of 2023](https://time.com/collection/best-inventions-2023/6326984/adobe-photoshop-generative-expand-and-generative-fill/). Check out my public [talk](https://www.uh.edu/eit/event-draft/index.php).  
 
-  * **2022**: Developed a **GAN-based face makeup transfer** feature, deployed in [Photoshop Express](https://helpx.adobe.com/photoshop-express/using/apply-makeup.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.6.2).  
+  * Developed a **GAN-based face makeup transfer** feature, deployed in [Photoshop Express](https://helpx.adobe.com/photoshop-express/using/apply-makeup.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.6.2).  
 
-  * **2022**: Led **training data collection and processing** for a smart distractor detection system, shipped as the [Distraction Removal Feature](https://www.adobe.com/products/photoshop/remove-object.html) in Photoshop.  
+  * Led **training data collection and processing** for a smart distractor detection system, shipped as the [Distraction Removal Feature](https://www.adobe.com/products/photoshop/remove-object.html) in Photoshop.  
 
-  * **2021**: Created a cross-library **image augmentation API**, named [Beacon-aug](https://adobe-research.github.io/beacon-aug/), incorporating 300+ augmentation operations from 8 popular libraries. Awarded **Top Session Award** at Adobe Tech Summit 2022.  
+  * Created a cross-library **image augmentation API**, named [Beacon-aug](https://adobe-research.github.io/beacon-aug/), incorporating 300+ augmentation operations from 8 popular libraries. Awarded **Top Session Award** at Adobe Tech Summit 2022.  
 
 * **2015 - 2020**: Research Assistant
   * University of Houston (Houston,TX)
