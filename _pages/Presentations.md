@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 # Oral Presentations
+- **Rebecca LI**,  Speaker, "Building Quality AI Product", Business School of AI, WeeklyWed Talk [[Link](https://www.businessschoolofai.com/)], [Content](https://medium.com/@xiaoyang.rebecca.li/scaling-genai-products-with-quality-lessons-from-the-field-855e375a04ec)
 
 - **Rebecca LI**, Technial Insight Speaker, "Harm and Bias Evaluation and Solution for Adobe Firefly", Embedded Vision Summit [[Conference]](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&)), 2024
 - **Rebecca LI**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event: Enhancing the Educational Experience with ChatGPT and AI Conference, 2024 [[Agenda]](https://www.uh.edu/eit/event-draft/index.php)
@@ -29,6 +30,7 @@ author_profile: true
 
 
 # Panel Discussions
+- **Rebecca Li**, Panelist, "Innovation at the Intersection of Technology, Education and Mobility", Silicon Valley Immersive Experience: AI & Innovation Summit, 03/2025
 - **Rebecca Li**, Oscar Dadfar, Jose Echevarria, Adobe Tech Talk, Florida International University, 09/2023
 - Rym Benchaabane, **Rebecca Li**, Shalini Singh, Alumni Career Panel, IEEE ETA KAPPA NU Epsilon Epsilon Chapter, 02/10/2021 [[Agenda]](https://hkn.ece.uh.edu/events-archive/)[[Video]](https://drive.google.com/file/d/15YZMDwmlQrM-k86MV53K1f1v1-K_BMYl/view)
 - Rahul Goel, Justin Brantley, Pinyi Yang, **Rebecca Li**, "What Next after Ph.D.?", IEEE EMB Houston Chapter & the UH BRAIN Center, 2020 [[Agenda]](https://events.vtools.ieee.org/m/247865)[[Video]](https://www.youtube.com/watch?v=bPFMW-IGGlA&feature=youtu.be&t=8)

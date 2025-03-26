@@ -14,7 +14,7 @@ Rebecca co-founded the Firefly SDK and served as the release tech lead, scaling 
 
 Her technical expertise extends to building innovative tools like ["Beacon-aug"](https://xiaoyang-rebecca.github.io//portfolio/0beaconaug/), a cross-library image augmentation module with 300+ operations that earned the **Top Session Award at Adobe Tech Summit 2022**.
 
-Rebecca also writes [blog posts](https://medium.com/nailing-the-ai-ml-interview) about AI foundations, career branding, and technology trends, sharing insights to help educate the community on stepping into the ML field, bridging research and production, leadership in AI, and navigating the evolving landscape of machine learning.
+Rebecca also writes [**blog posts**](https://medium.com/nailing-the-ai-ml-interview) about AI foundations, career branding, and technology trends, sharing insights to help educate the community on stepping into the ML field, bridging research and production, leadership in AI, and navigating the evolving landscape of machine learning.
 
 
 
@@ -22,9 +22,11 @@ Rebecca also writes [blog posts](https://medium.com/nailing-the-ai-ml-interview)
 
 Recent Activities
 ======
-&#10148; &nbsp;  **05/2024**, Technial Insight Speaker, "Harm and Bias Evaluation and Solution for Adobe Firefly", Embedded Vision Summit [[Conference](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/&))
 
-&#10148; &nbsp;  **02/2024**, Keynote Speaker, "The Journey of Firefly in Adobe GenAI", University of Houston, Education Innovation & Technology AI Event [[Conference]]([https://uh.edu/eit/ai-event](https://www.uh.edu/eit/event-draft/index.php))
+&#10148; &nbsp;  **03/2025**, Panelist, "Innovation at the Intersection of Technology, Education and Mobility", Silicon Valley Immersive Experience: AI & Innovation Summit
+
+&#10148; &nbsp;  **03/2025**, Speaker, "Building Quality AI Product", Business School of AI, WeeklyWed Talk [[Link](https://www.businessschoolofai.com/)], [Content](https://medium.com/@xiaoyang.rebecca.li/scaling-genai-products-with-quality-lessons-from-the-field-855e375a04ec)
+
 
 
 
