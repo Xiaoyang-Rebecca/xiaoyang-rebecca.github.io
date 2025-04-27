@@ -16,6 +16,12 @@ Her technical expertise extends to building innovative tools like ["Beacon-aug"]
 
 Rebecca also writes [**blog posts**](https://medium.com/@Dr.R.B.LI) about AI foundations, career branding, and technology trends, sharing insights to help educate the community on stepping into the ML field, bridging research and production, leadership in AI, and navigating the evolving landscape of machine learning.
 
+&#10148; &nbsp; Domain Expertise:
+- **Responsible AI**: Evaluation and mitigation strategies for quality and safety in GenAI image and video models.
+- **0-to-1 Technology Transfer**: Tech transfer for multimodal vision-language models, bringing research innovations into real-world applications.
+-	**Agentic AI**: Development of downstream GenAI applications across diverse enterprise fields.
+-	**Training Data Strategy**: Curation, management, and optimization of training datasets for scalable and responsible AI development.
+
 
 
 <!-- # Portfolio -->
