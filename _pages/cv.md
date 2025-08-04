@@ -14,6 +14,10 @@ redirect_from:
 
 Work Experience
 ======
+* **2025 - Now**: Senior Research Manager 
+  * Canva Inc (San Francisco, CA)
+  * Design Generation and Quality Modeling.  
+
 * **2021 - 2025**: Machine Learning Engineering Manager & Research Engineer 
   * Adobe Inc (San Jose, CA)
   * Led the development of an **Automatic Evaluation Framework** for benchmarking the performance of Image and Video GenAI models. Advanced standards in **Responsible AI** through industry-leading practices. Check out my public [talk](https://embeddedvisionsummit.com/2024/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/?q=/2024/session/harm-and-bias-evaluation-and-solution-for-adobe-firefly-2/).  
